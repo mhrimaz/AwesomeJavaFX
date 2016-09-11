@@ -48,6 +48,7 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 * [Johan Vos](https://twitter.com/johanvos) - Java developer, Java Champion, co-founder at Gluon, CTO at LodgON, Using JavaFX and Glassfish, working on Gluon, Java EE, DataFX,... . (He is a Legend!)
 * [Michael Hoffer](https://twitter.com/mihosoft) - Computer Scientist, Mathematician, Software Developer, Artist. (He is a Legend!)
 * [José Pereda](https://twitter.com/JPeredaDnr) - PhD, Structural Engineer, love coding, Java & JavaFX, JavaFXPorts, mobile apps, IoT. Software Engineer at http://gluonhq.com/ (He is a Legend!)
+* [Mark Heckler](https://twitter.com/MkHeck) - Developer Advocate for Pivotal.io. Computer scientist and JavaFX author.
 * [James Weaver](https://twitter.com/JavaFXpert) - Java/JavaFX/IoT developer, author and speaker.
 * [Andreas Billmann](https://twitter.com/frosch95) - Java and JavaFX developer.
 * [David Grieve](https://twitter.com/dsgrieve) - Member of the #JavaFX development team at #Oracle. Primarily responsible for #JavaFX's CSS implementation.
@@ -68,7 +69,7 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 * [Tobias Bley](https://twitter.com/tobibley) - Software Developer & graphic designer skills: java, jpro, JavaFX, Swing, JNI, JavaEE... .
 * [Alessio Vinerbi](https://twitter.com/Alessio_Vinerbi) - Java and JavaFX Senior software engineer.
 * [Bertrand Goetzmann](https://twitter.com/bgoetzmann) - Java EE architect, fan of Groovy/Grails (trainer), JavaFX, Drupal and Ionic... .
-* [Sean Phillips](https://twitter.com/SeanMiPhillips) - NASA contractor. JavaFX, NetBeans Platform. Develops Deep Space Trajectory Design tools.
+* [Sean Phillips](https://twitter.com/SeanMiPhillips) - NASA contractor. JavaFX, NetBeans Platform. Develops Deep Space Trajectory Design tools and also JavaFX author.
 * [Peter Rogge](https://twitter.com/naoghuman) - Java, Java EE, JavaFX, NetBeans, NetBeans RCP, Creativity, Inspiration, Motivation.
 * [Jens Deters](https://twitter.com/Jerady) - JavaFX, MQTT_fx leader, FontAwesomeFX leader, IoT, docker, dcos, NetBeans Dream Team.
 * [Stephen Chin](https://twitter.com/steveonjava) - JavaFX evangelist, author, speaker, and open-source hacker.
