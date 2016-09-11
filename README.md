@@ -2,14 +2,58 @@
 
 A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 
-## Examples
+## Libraries
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
+
+## Frameworks
+- [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
+
+## Books
+- [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
+
+## Peoples
+*These Peoples share good stuff on their twitter accounts. Some of them are Legends, Champions and Rockstar. Follow Them in Twitter. Descriptions from Twitter.*
+* [Carl Dea](https://twitter.com/carldea) - Book Author, Blogger, a wannabe GUI guy, JavaFX enthusiast, mobile phones, AI.( He is a Legend!)
+* [Dirk Lemmermann](https://twitter.com/dlemmermann) - Senior Java SE / EE software engineer. UI Lover (Swing, JavaFX).
+* [Gerrit Grunwald](https://twitter.com/hansolo_) - JUG Leader, Java Champion, JavaONE Rockstar, ❤️ Java(FX) and IoT, may the force be with you... (He is a Legend!)
+* [Johan Vos](https://twitter.com/johanvos) - Java developer, Java Champion, co-founder at Gluon, CTO at LodgON, Using JavaFX and Glassfish, working on Gluon, Java EE, DataFX,... . (He is a Legend!)
+* [Michael Hoffer](https://twitter.com/mihosoft) - Computer Scientist, Mathematician, Software Developer, Artist. (He is a Legend!)
+* [José Pereda](https://twitter.com/JPeredaDnr) - PhD, Structural Engineer, love coding, Java & JavaFX, JavaFXPorts, mobile apps, IoT. Software Engineer at http://gluonhq.com/ (He is a Legend!)
+* [James Weaver](https://twitter.com/JavaFXpert) - Java/JavaFX/IoT developer, author and speaker.
+* [Andreas Billmann](https://twitter.com/frosch95) - Java and JavaFX developer.
+* [David Grieve](https://twitter.com/dsgrieve) - Member of the #JavaFX development team at #Oracle. Primarily responsible for #JavaFX's CSS implementation.
+* [Michael Heinrichs](https://twitter.com/net0pyr) - Java, Web, JavaFX developer. Interested in agile development and public speaking.
+* [Jonathan Giles](https://twitter.com/JonathanGiles) - UI Controls technical lead in JavaFX team @ Oracle.
+* [Arnaud Nouard](https://twitter.com/In_SideFX) - Play JavaFX, Drums, Keyboard (those with black and white keys!) and with my Kids.
+* [Jeanette Winzenburg](https://twitter.com/kleopatra_jx) - Java desktop consultant: old-time Swing/X enthusiast, grudging adopter of JavaFX.
+* [Peter Pilgrim](https://twitter.com/peter_pilgrim) -  Java EE, JavaFX and Scala software developer.
+* [Thierry Wasylczenko](https://twitter.com/twasyl) - Java, JavaFX, Agile, Speaker, RebelLabs author, SlideshowFX leader.
+* [Christian Campo](https://twitter.com/christiancampo) - Committer in multiple Eclipse projects, interested in JavaFX and Cloud Storage.
+* [William Antônio](https://twitter.com/William_Antonio) - JBoss Support Enginner and JavaFX enthusiast. Java* Blogger.
+* [Bernard Traversat](https://twitter.com/BTraTra) - Java Language, JVM, JavaScript, JDK, JavaFX, Swing/AWT - Sr. Eng Director, Java Platform Group, Oracle.
+* [Danno Ferrin](https://twitter.com/shemnon) - Java, JavaFX, Gradle, Groovy, Co-founded Griffon.
+* [Jasper Potts](https://twitter.com/jasperpotts) - Developer on the JavaFX & Swing teams at Oracle. Working on the new JavaFX Applications, JavaFX UI Controls and Graphics frameworks.
+* [Felix](https://twitter.com/DeveloperFelix) - Software Developer in Android,Java,JavaFx, Opendata junkie & IOT(Raspberry Pi).
+* [Alexander Casall](https://twitter.com/sialcasa) - interested in JavaFX, iOS, Angular2 development and product ownership.
+* [Delorme Loïc](https://twitter.com/delormeloic26) - Junior Java SE/EE developer, UI and mobile application lover (JavaFX, #GluonHQ).
+* [Tobias Bley](https://twitter.com/tobibley) - Software Developer & graphic designer skills: java, jpro, JavaFX, Swing, JNI, JavaEE... .
+* [Alessio Vinerbi](https://twitter.com/Alessio_Vinerbi) - Java and JavaFX Senior software engineer.
+* [Bertrand Goetzmann](https://twitter.com/bgoetzmann) - Java EE architect, fan of Groovy/Grails (trainer), JavaFX, Drupal and Ionic... .
+* [Sean Phillips](https://twitter.com/SeanMiPhillips) - NASA contractor. JavaFX, NetBeans Platform. Develops Deep Space Trajectory Design tools.
+* [Peter Rogge](https://twitter.com/naoghuman) - Java, Java EE, JavaFX, NetBeans, NetBeans RCP, Creativity, Inspiration, Motivation.
+* [Jens Deters](https://twitter.com/Jerady) - JavaFX, MQTT_fx leader, FontAwesomeFX leader, IoT, docker, dcos, NetBeans Dream Team.
+* [Stephen Chin](https://twitter.com/steveonjava) - JavaFX evangelist, author, speaker, and open-source hacker.
+
+## Toturials
+- [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
+
+## Talks
+- ["How To Write A Readme"](http://jfhbrook.github.io/2011/11/09/readmes.html) - *Joshua Holbrook*
 
 ## Articles
 - ["How To Write A Readme"](http://jfhbrook.github.io/2011/11/09/readmes.html) - *Joshua Holbrook*
 
 
 ## Contribute
-
 Contributions are always welcome!
 
