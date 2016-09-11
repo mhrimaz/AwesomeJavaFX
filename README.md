@@ -9,10 +9,12 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
 
 ## Books
-- [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
+
+
+## Blogs and Sites
 
 ## Peoples
-*These Peoples share good stuff on their twitter accounts. Some of them are Legends, Champions and Rockstar. Follow Them in Twitter. Descriptions from Twitter.*
+*These Peoples share good stuff on their twitter accounts. Some of them are Legend, Champion and Rockstar. Follow Them in Twitter. Descriptions from Twitter.*
 * [Carl Dea](https://twitter.com/carldea) - Book Author, Blogger, a wannabe GUI guy, JavaFX enthusiast, mobile phones, AI.( He is a Legend!)
 * [Dirk Lemmermann](https://twitter.com/dlemmermann) - Senior Java SE / EE software engineer. UI Lover (Swing, JavaFX).
 * [Gerrit Grunwald](https://twitter.com/hansolo_) - JUG Leader, Java Champion, JavaONE Rockstar, ❤️ Java(FX) and IoT, may the force be with you... (He is a Legend!)
@@ -45,13 +47,20 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 * [Stephen Chin](https://twitter.com/steveonjava) - JavaFX evangelist, author, speaker, and open-source hacker.
 
 ## Toturials
-- [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
+*Good online resources include free and paid courses to learn JavaFX.*
+- [code.makery](http://code.makery.ch/library/javafx-8-tutorial/) - Multiple Language Online Site with a great materials and examples to teach you JavaFX.
+- [Jenkov JavaFX](http://tutorials.jenkov.com/javafx/index.html) - Jenkov JavaFX Toturials and Articles with good examples to demonstrate you how you can use JavaFX Features.
+- [TheNewBoston JavaFX](https://www.youtube.com/watch?v=FLkOX4Eez6o&list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG) - Youtube JavaFX Video Toturial. It's Simple and it's good place to start JavaFX.
+- [JavaFXTutorials](http://www.javafxtutorials.com/) - Online Materials and Examples for learning JavaFX.
+- [JavaFXTuts](http://javafxtuts.com/javafx-tutorials/) - Complete javafx tutorials for beginners with a lot of examples.
+- [Udemy Build Outstanding JavaFX](https://www.udemy.com/javafx-gui-programming/) - Udemy Video Toturial for JavaFX. Build Outstanding Java Apps with JavaFX much faster Launch a beautiful Java app by the end of the week. Learn smarter Programming with the JavaFX GUI Framework.
+- [Lynda JavaFX GUI Development](https://www.lynda.com/Java-tutorials/JavaFX-GUI-Development/466182-2.html) - Learn how to develop graphical user interfaces (GUIs) for enterprise apps with JavaFX.
+- [TeamTreeHouse Build a JavaFX Application](https://teamtreehouse.com/library/build-a-javafx-application) - Learn JavaFX fundamentals , Event driven application development and Client based application layout.
 
 ## Talks
-- ["How To Write A Readme"](http://jfhbrook.github.io/2011/11/09/readmes.html) - *Joshua Holbrook*
+
 
 ## Articles
-- ["How To Write A Readme"](http://jfhbrook.github.io/2011/11/09/readmes.html) - *Joshua Holbrook*
 
 
 ## Contribute
