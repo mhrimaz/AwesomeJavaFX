@@ -29,25 +29,25 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 
 
 ## Books
-- [JavaFX 8: Introduction by Example](http://www.apress.com/9781430264606) - by [Carl Dea](https://twitter.com/carldea) , [Mark Heckler](https://twitter.com/MkHeck) , [Gerrit Grunwald](https://twitter.com/hansolo_) , [José Pereda](https://twitter.com/JPeredaDnr) , [Sean Phillips](https://twitter.com/SeanMiPhillips)
+- [JavaFX 8: Introduction by Example](http://www.apress.com/9781430264606) - by [Carl Dea](https://twitter.com/carldea) , [Mark Heckler](https://twitter.com/MkHeck) , [Gerrit Grunwald](https://twitter.com/hansolo_) , [José Pereda](https://twitter.com/JPeredaDnr) , [Sean Phillips](https://twitter.com/SeanMiPhillips)<br/>
 JavaFX 8: Introduction by Example shows you how to use your existing Java skills to create graphically exciting client applications with the JavaFX 8 platform. The book is a new and much improved edition of JavaFX 2.0: Introduction by Example, taking you through a series of engaging, fun-to-work examples that bring you up to speed on the major facets of the platform. It will help you to create applications that look good, are fun to use, and that take advantage of the medium to present data of all types in ways that engage the user and lead to increased productivity.
 
-- [Learn JavaFX 8 Building User Experience and Interfaces with Java 8](http://www.apress.com/9781484211434) - by Kishori Sharan
+- [Learn JavaFX 8 Building User Experience and Interfaces with Java 8](http://www.apress.com/9781484211434) - by Kishori Sharan<br/>
 Start developing rich-client desktop applications using your Java skills. Learn MVC patterns, FXML, effects, transformations, charts, images, canvas, audio and video, DnD, and more. After reading and using Learn JavaFX 8, you'll come away with a comprehensive introduction to the JavaFX APIs as found in the new Java 8 platform.
 
-- [Pro JavaFX 8 A Definitive Guide to Building Desktop, Mobile, and Embedded Java Clients](http://www.apress.com/9781430265740) - By [Johan Vos](https://twitter.com/johanvos) , [Weiqi Gao](https://twitter.com/weiqigao) , [James Weaver](https://twitter.com/JavaFXpert) , [Stephen Chin](https://twitter.com/steveonjava) , [Dean Iverson](https://twitter.com/deanriverson)
+- [Pro JavaFX 8 A Definitive Guide to Building Desktop, Mobile, and Embedded Java Clients](http://www.apress.com/9781430265740) - By [Johan Vos](https://twitter.com/johanvos) , [Weiqi Gao](https://twitter.com/weiqigao) , [James Weaver](https://twitter.com/JavaFXpert) , [Stephen Chin](https://twitter.com/steveonjava) , [Dean Iverson](https://twitter.com/deanriverson)<br/>
 In Pro JavaFX 8 expert authors show you how to use the JavaFX platform to create rich-client Java applications. You'll discover how you can use this powerful Java-based UI platform, which is capable of handling large-scale data-driven business applications for PC as well as now mobile and embedded devices.
 
-- [Beginning Java 8 Games Development](http://www.apress.com/9781484204160) - By Wallace Jackson
+- [Beginning Java 8 Games Development](http://www.apress.com/9781484204160) - By Wallace Jackson<br/>
 Beginning Java 8 Games Development, written by Java expert and author Wallace Jackson, teaches you the fundamentals of building a highly illustrative game using the Java 8 programming language. In this book, you'll employ open source software as tools to help you quickly and efficiently build your Java game applications.
 
-- [JavaFX Essentials](https://www.packtpub.com/web-development/javafx-essentials) - By [Mohamed Taman](https://twitter.com/_tamanm)
+- [JavaFX Essentials](https://www.packtpub.com/web-development/javafx-essentials) - By [Mohamed Taman](https://twitter.com/_tamanm)<br/>
 Create amazing Java GUI applications with this hands-on, fast-paced guide
 
-- [Mastering JavaFX 8 Controls](https://www.mhprofessional.com/details.php?isbn=0071833773) - By [Hendrik Ebbers](https://twitter.com/hendrikEbbers)
+- [Mastering JavaFX 8 Controls](https://www.mhprofessional.com/details.php?isbn=0071833773) - By [Hendrik Ebbers](https://twitter.com/hendrikEbbers)<br/>
 Deliver state-of-the-art applications with visually stunning UIs. Mastering JavaFX 8 Controls provides clear instructions, detailed examples, and ready-to-use code samples. Find out how to work with the latest JavaFX APIs, configure UI components, automatically generate FXML, build cutting-edge controls, and effectively apply CSS styling. Troubleshooting, tuning, and deployment are also covered in this Oracle Press guide.
 
-- [Introducing JavaFX 8 Programming](https://www.mhprofessional.com/details.php?isbn=0071842551) - By Herbert Schildt
+- [Introducing JavaFX 8 Programming](https://www.mhprofessional.com/details.php?isbn=0071842551) - By Herbert Schildt<br/>
 Introducing JavaFX 8 Programming provides a fast-paced, practical introduction to JavaFX, Java's next-generation GUI programming framework. In this easy-to-read guide, best-selling author Herb Schildt presents the key topics and concepts you'll need to start developing modern, dynamic JavaFX GUI applications.
 
 
