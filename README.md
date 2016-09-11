@@ -3,10 +3,10 @@
 A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 
 ## Libraries
-- [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
+
 
 ## Frameworks
-- [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
+
 
 ## Books
 
