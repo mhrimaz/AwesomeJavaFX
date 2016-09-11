@@ -116,7 +116,6 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 ## Articles
 - [JavaFX 8 Refcard](https://dzone.com/refcardz/javafx-8-1) - Gives you what you need to start using the powerful JavaFX 8 UI and graphics tool with code snippets and visual examples of shapes and controls.
 - [JavaFX Refcard](https://dzone.com/refcardz/getting-started-javafx) - Gets you started with JavaFX, which makes it easier to build better RIAs with graphics, animation, and media.
-- 
 
 ## Contribute
 Contributions are always welcome!
