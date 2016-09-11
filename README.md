@@ -12,6 +12,12 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 
 
 ## Blogs and Sites
+-[FX Experience](http://fxexperience.com/) - FX Experience has been the premiere site for JavaFX code, posts, and insights since mid-2009, and readership continues to grow every month. You should absolutly follow their weekly links.
+-[JavaFX Daily](http://paper.li/net0pyr/1312275601) - JavaFX Daily Photos, Article and Links by [Michael Heinrichs](http://twitter.com/net0pyr)
+-[JPereda's Coding Blog](http://jperedadnr.blogspot.de/) - Outstanding Java/JavaFX Articles by [José Pereda](https://twitter.com/JPeredaDnr)
+-[Pixel Perfect](http://dlsc.com/blog/) - You can find good articles about java and specially JavaFX by [Dirk Lemmermann](https://twitter.com/dlemmermann)
+-[Harmonic Code](http://harmoniccode.blogspot.de/) - You should see how he's playing with JavaFX! by [Gerrit Grunwald](https://twitter.com/hansolo_)
+
 
 ## Peoples
 *These Peoples share good stuff on their twitter accounts. Some of them are Legend, Champion and Rockstar. Follow Them in Twitter. Descriptions from Twitter.*
