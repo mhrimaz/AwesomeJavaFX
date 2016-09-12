@@ -19,7 +19,17 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [SyntheticaFX](http://www.jyloo.com/syntheticafx/) - SyntheticaFX provides themes and components mainly made for professional business applications on the desktop. The library is growing, new controls are under construction and will be added in future releases. The target platform of the final release is Java 9 or above.
 - [RxJavaFX: JavaFX bindings for RxJava](https://github.com/ReactiveX/RxJavaFX) - RxJavaFX is a simple API to convert JavaFX events into RxJava Observables and vice versa. It also has a scheduler to safely move emissions to the JavaFX Event Dispatch Thread.
 - [FontAwesomeFX](https://bitbucket.org/Jerady/fontawesomefx) - FontAwesome in JavaFX with FontAwesomeFX
-
+- [Ikonli](http://aalmiray.github.io/ikonli/) - Ikonli provides icon packs that can be used in Java applications. Currently Swing and JavaFX UI toolkits are supported.
+- [BootstrapFX](https://github.com/aalmiray/bootstrapfx/) - BootstrapFX is a partial port of Twitter Bootstrap for JavaFX.
+- [TestFX](https://github.com/TestFX/TestFX) - Simple and clean testing for JavaFX.
+- [TestFX-dsl](https://github.com/aalmiray/testfx-dsl/) - Java friendly DSL for defining TestFX tests.
+- [RichTextFX](https://github.com/TomasMikula/RichTextFX) - Rich-text area for JavaFX.
+- [Flowless](https://github.com/TomasMikula/Flowless) - Efficient VirtualFlow for JavaFX.
+- [UndoFX](https://github.com/TomasMikula/UndoFX) - Undo manager for JavaFX.
+- [WellBehavedFX](https://github.com/TomasMikula/WellBehavedFX) - Composable event handlers and skin scaffolding for JavaFX controls.
+- [LiveDirsFX](https://github.com/TomasMikula/LiveDirsFX) - Directory tree model for JavaFX that watches the filesystem for changes.
+- [ReactFX](https://github.com/TomasMikula/ReactFX) - Reactive event streams, observable values and more for JavaFX.
+- [AnchorFX](https://github.com/alexbodogit/AnchorFX) - Docking framework for JavaFX platform.
 
 ## Frameworks
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
@@ -27,7 +37,9 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [afterburner.fx](http://afterburner.adam-bien.com/) - afterburner.fx is a minimalistic (3 classes) JavaFX MVP framework based on Convention over Configuration and Dependency Injection.
 - [JRebirth](http://www.jrebirth.org/) - JRebirth JavaFX Application Framework provides a really simple way to write sophisticated and powerful RIA and Desktop applications.
 - [mvvmFX] (https://github.com/sialcasa/mvvmFX) - mvvm(fx) is an application framework which provides you necessary components to implement the MVVM pattern with JavaFX. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-
+- [Griffon](http://griffon-framework.org/) - Next generation desktop application development platform for the JVM. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+- [Basilisk](https://github.com/basilisk-fw/basilisk) - Desktop/Mobile JavaFX application framework. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+- [JacpFX](http://jacpfx.org/) - An UI application framework based on JavaFX
 
 ## Books
 - [JavaFX 8: Introduction by Example](http://www.apress.com/9781430264606) - by [Carl Dea](https://twitter.com/carldea) , [Mark Heckler](https://twitter.com/MkHeck) , [Gerrit Grunwald](https://twitter.com/hansolo_) , [José Pereda](https://twitter.com/JPeredaDnr) , [Sean Phillips](https://twitter.com/SeanMiPhillips)<br/>
@@ -99,8 +111,9 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 * [Peter Rogge](https://twitter.com/naoghuman) - Java, Java EE, JavaFX, NetBeans, NetBeans RCP, Creativity, Inspiration, Motivation.
 * [Jens Deters](https://twitter.com/Jerady) - JavaFX, MQTT_fx leader, FontAwesomeFX leader, IoT, docker, dcos, NetBeans Dream Team.
 * [Stephen Chin](https://twitter.com/steveonjava) - JavaFX evangelist, author, speaker, and open-source hacker.
+* [Andres Almiray](https://twitter.com/aalmiray) - JSR377 Spec lead, Groovy aficionado, Griffon project lead, Basilisk project lead, Java Champion http://manning.com/almiray.
 
-## Toturials
+## Tutorials
 *Good online resources include free and paid courses to learn JavaFX.*
 - [code.makery](http://code.makery.ch/library/javafx-8-tutorial/) - Multiple Language Online Site with a great materials and examples to teach you JavaFX.
 - [Jenkov JavaFX](http://tutorials.jenkov.com/javafx/index.html) - Jenkov JavaFX Toturials and Articles with good examples to demonstrate you how you can use JavaFX Features.
@@ -112,7 +125,7 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 - [TeamTreeHouse Build a JavaFX Application](https://teamtreehouse.com/library/build-a-javafx-application) - Learn JavaFX fundamentals , Event driven application development and Client based application layout.
 
 ## Talks
-
+- [The JavaFX Ecosystem](http://www.slideshare.net/aalmiray/the-javafx-ecosystem-63538844). A collection of Open Source libraries for building JavaFX applications.
 
 ## Articles
 - [JavaFX 8 Refcard](https://dzone.com/refcardz/javafx-8-1) - Gives you what you need to start using the powerful JavaFX 8 UI and graphics tool with code snippets and visual examples of shapes and controls.
