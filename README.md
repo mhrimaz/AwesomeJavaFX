@@ -126,10 +126,17 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 
 ## Talks
 - [The JavaFX Ecosystem](http://www.slideshare.net/aalmiray/the-javafx-ecosystem-63538844). A collection of Open Source libraries for building JavaFX applications.
+- [The JavaFX Community and Ecosystem](http://www.slideshare.net/alexandercasall?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview). JavaOne talk about the Ecosystem in the year 2014.
+- [JavaFX Pitfalls](http://www.slideshare.net/alexandercasall/javafx-pitfalls). Tips and tricks regarding JavaFX.
+- [JavaFX 10 things I love about you](http://www.slideshare.net/alexandercasall/javafx-10-things-i-love-about-you). An Introduction to JavaFX.
 
 ## Articles
 - [JavaFX 8 Refcard](https://dzone.com/refcardz/javafx-8-1) - Gives you what you need to start using the powerful JavaFX 8 UI and graphics tool with code snippets and visual examples of shapes and controls.
 - [JavaFX Refcard](https://dzone.com/refcardz/getting-started-javafx) - Gets you started with JavaFX, which makes it easier to build better RIAs with graphics, animation, and media.
+
+## Real world examples
+
+- [20 real world examples on JAXenter](https://jaxenter.com/20-javafx-real-world-applications-123653.html)
 
 ## Contribute
 Contributions are always welcome!
