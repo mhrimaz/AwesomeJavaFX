@@ -50,6 +50,7 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [MigPane](http://miglayout.com) - MigLayout can produce flowing, grid based, absolute (with links), grouped and docking layouts.
 - [VWorkflows](https://github.com/miho/VWorkflows) - Interactive flow/graph visualization for building domain specific visual programming environments. Provides UI bindings for JavaFX.
 - [NetBeansIDE-AfterburnerFX-Plugin](https://github.com/Naoghuman/NetBeansIDE-AfterburnerFX-Plugin) - The NetBeansIDE-AfterburnerFX-Plugin is a NetBeans IDE plugin which supports the file generation in convention with the library afterburner.fx in a JavaFX project.
+- [FXyz](https://github.com/Birdasaur/FXyz) - F(X)yz is a new JavaFX 3D library that provides additional primitives, composite objects, controls and data visualizations that the base JavaFX 8 3D packages do not have.
 
 ## Frameworks
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
