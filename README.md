@@ -2,6 +2,21 @@
 
 A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 
+----
+
+## Table of Contents
+- [Libraries, Tools and Projects](#libraries-tools-and-projects)
+- [Frameworks](#frameworks)
+- [Books](#books)
+- [Blogs and Sites](#blogs-and-sites)
+- [Peoples](#peoples)
+- [Tutorials](#tutorials)
+- [Talks and Slides](#talks-and-slides)
+- [Articles](#articles)
+- [Real World Examples](#real-world-examples)
+
+----
+
 ## Libraries, Tools and Projects
 - [JFoenix](http://www.jfoenix.com/) - JavaFX Material Design Library. JFoenix is an open source Java library, that implements Google Material Design using Java components.
 - [CalendarFX](http://dlsc.com/products/calendarfx/) - CalendarFX is a calendar framework for JavaFX 8. It contains a set of professional custom controls, which can be used to implement a calendar UI for any kind of application.
@@ -31,6 +46,7 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [ReactFX](https://github.com/TomasMikula/ReactFX) - Reactive event streams, observable values and more for JavaFX.
 - [AnchorFX](https://github.com/alexbodogit/AnchorFX) - Docking framework for JavaFX platform.
 - [MigPane](http://miglayout.com) - MigLayout can produce flowing, grid based, absolute (with links), grouped and docking layouts.
+- [VWorkflows](https://github.com/miho/VWorkflows) - Interactive flow/graph visualization for building domain specific visual programming environments. Provides UI bindings for JavaFX. 
 
 ## Frameworks
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
@@ -64,7 +80,6 @@ Deliver state-of-the-art applications with visually stunning UIs. Mastering Java
 - [Introducing JavaFX 8 Programming](https://www.mhprofessional.com/details.php?isbn=0071842551) - By Herbert Schildt<br/>
 Introducing JavaFX 8 Programming provides a fast-paced, practical introduction to JavaFX, Java's next-generation GUI programming framework. In this easy-to-read guide, best-selling author Herb Schildt presents the key topics and concepts you'll need to start developing modern, dynamic JavaFX GUI applications.
 
-
 ## Blogs and Sites
 - [FX Experience](http://fxexperience.com/) - FX Experience has been the premiere site for JavaFX code, posts, and insights since mid-2009, and readership continues to grow every month. You should absolutly follow their weekly links.
 - [JavaFX Daily](http://paper.li/net0pyr/1312275601) - JavaFX Daily Photos, Article and Links by [Michael Heinrichs](http://twitter.com/net0pyr)
@@ -73,7 +88,6 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 - [Harmonic Code](http://harmoniccode.blogspot.de/) - You should see how he's playing with JavaFX! by [Gerrit Grunwald](https://twitter.com/hansolo_)
 - [JavaFX Delight](http://www.jensd.de/wordpress/) - [Jens Deters](https://twitter.com/Jerady) blog about Java/JavaFX
 - [GUI Garage](http://www.guigarage.com/) - Open source UI stuff!
-
 
 ## Peoples
 *These Peoples share good stuff on their twitter accounts. Some of them are Legend, Champion and Rockstar. Follow Them in Twitter. Descriptions from Twitter.*
@@ -86,7 +100,7 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 * [Mark Heckler](https://twitter.com/MkHeck) - Developer Advocate for Pivotal.io. Computer scientist and JavaFX author.
 * [James Weaver](https://twitter.com/JavaFXpert) - Java/JavaFX/IoT developer, author and speaker.
 * [Andreas Billmann](https://twitter.com/frosch95) - Java and JavaFX developer.
-* [David Grieve](https://twitter.com/dsgrieve) - Member of the #JavaFX development team at #Oracle. Primarily responsible for #JavaFX's CSS implementation.
+* [David Grieve](https://twitter.com/dsgrieve) - Member of the JavaFX development team at Oracle. Primarily responsible for JavaFX's CSS implementation.
 * [Michael Heinrichs](https://twitter.com/net0pyr) - Java, Web, JavaFX developer. Interested in agile development and public speaking.
 * [Jonathan Giles](https://twitter.com/JonathanGiles) - UI Controls technical lead in JavaFX team @ Oracle.
 * [Arnaud Nouard](https://twitter.com/In_SideFX) - Play JavaFX, Drums, Keyboard (those with black and white keys!) and with my Kids.
@@ -139,6 +153,8 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 - [20 real world examples on JAXenter](https://jaxenter.com/20-javafx-real-world-applications-123653.html)
 - [SkedPal](https://www.skedpal.com/) - SkedPal™ combines the best elements of creativity and structure to optimize your time and productivity.
 - [ASciidocFX](http://asciidocfx.com/) - Asciidoc FX is a book / document editor to build PDF, Epub, Mobi and HTML books, documents and slides. AsciidocFX is also a winner of [Duke’s Choice Award 2015](https://www.oracle.com/corporate/pressrelease/dukes-award-102815.html).
+
+----
 
 ## Contribute
 Contributions are always welcome!
