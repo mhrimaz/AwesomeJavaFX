@@ -143,7 +143,7 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 - [Lynda JavaFX GUI Development](https://www.lynda.com/Java-tutorials/JavaFX-GUI-Development/466182-2.html) - Learn how to develop graphical user interfaces (GUIs) for enterprise apps with JavaFX.
 - [TeamTreeHouse Build a JavaFX Application](https://teamtreehouse.com/library/build-a-javafx-application) - Learn JavaFX fundamentals , Event driven application development and Client based application layout.
 
-## Talk
+## Talks
 *Interesting talks in conferences like JavaOne, Devoxx and others*
 - [Creating Amazing Visualization Tools With JavaFX 8 (3D)](https://www.youtube.com/watch?v=xk-YfIdH0_Y) - By [Michael Hoffer](https://twitter.com/mihosoft)<br/>
 Screencast that covers most topics from JavaOne 2013 Tutorial TUT6705: http://mihosoft.eu/?p=928<br/>
