@@ -14,6 +14,7 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [Talks and Slides](#talks-and-slides)
 - [Articles](#articles)
 - [Real World Examples](#real-world-examples)
+- [Videos](#videos)
 
 ----
 
@@ -156,6 +157,11 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 - [20 real world examples on JAXenter](https://jaxenter.com/20-javafx-real-world-applications-123653.html)
 - [SkedPal](https://www.skedpal.com/) - SkedPal™ combines the best elements of creativity and structure to optimize your time and productivity.
 - [ASciidocFX](http://asciidocfx.com/) - Asciidoc FX is a book / document editor to build PDF, Epub, Mobi and HTML books, documents and slides. AsciidocFX is also a winner of [Duke’s Choice Award 2015](https://www.oracle.com/corporate/pressrelease/dukes-award-102815.html).
+
+## Videos
+- [Creating Amazing Visualization Tools With JavaFX 8 (3D)](https://www.youtube.com/watch?v=xk-YfIdH0_Y) - By [Michael Hoffer](https://twitter.com/mihosoft)<br/>
+Screencast that covers most topics from JavaOne 2013 Tutorial TUT6705: http://mihosoft.eu/?p=928<br/>
+JavaFX is a powerful rich-client platform that is ideal for complex visualizations. In this tutorial, you will learn how to create amazing 2-D and 3-D visualization tools such as an interactive function plotter with Java 8 and JavaFX 8. For 2-D plotting, you will learn how to use the powerful charting API that comes with JavaFX. In addition, you will find out how to load 3-D geometries from text files (and a subset of .obj), render movies from JavaFX 3D via its snapshot functionality, and use the ray picking API for retrieving detailed information on parts of 3-D visualizations. To create nice-looking applications, the tutorial utilizes open source controls from the JFXtras project (jfxtras.org).
 
 ----
 
