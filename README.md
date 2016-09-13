@@ -88,6 +88,7 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 - [Harmonic Code](http://harmoniccode.blogspot.de/) - You should see how he's playing with JavaFX! by [Gerrit Grunwald](https://twitter.com/hansolo_)
 - [JavaFX Delight](http://www.jensd.de/wordpress/) - [Jens Deters](https://twitter.com/Jerady) blog about Java/JavaFX
 - [GUI Garage](http://www.guigarage.com/) - Open source UI stuff!
+- [Kware](http://www.kware.net/) - A blog about JavaFX by Christoph Keimel
 
 ## Peoples
 *These Peoples share good stuff on their twitter accounts. Some of them are Legend, Champion and Rockstar. Follow Them in Twitter. Descriptions from Twitter.*
