@@ -143,18 +143,18 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 - [Lynda JavaFX GUI Development](https://www.lynda.com/Java-tutorials/JavaFX-GUI-Development/466182-2.html) - Learn how to develop graphical user interfaces (GUIs) for enterprise apps with JavaFX.
 - [TeamTreeHouse Build a JavaFX Application](https://teamtreehouse.com/library/build-a-javafx-application) - Learn JavaFX fundamentals , Event driven application development and Client based application layout.
 
-## Talks
-*Interesting talks in conferences like JavaOne, devoxx and others *
-  - [Creating Amazing Visualization Tools With JavaFX 8 (3D)](https://www.youtube.com/watch?v=xk-YfIdH0_Y) - By [Michael Hoffer](https://twitter.com/mihosoft)<br/>
-  Screencast that covers most topics from JavaOne 2013 Tutorial TUT6705: http://mihosoft.eu/?p=928<br/>
-  JavaFX is a powerful rich-client platform that is ideal for complex visualizations. In this tutorial, you will learn how to create amazing 2-D and 3-D visualization tools such as an interactive function plotter with Java 8 and JavaFX 8. For 2-D plotting, you will learn how to use the powerful charting API that comes with JavaFX. In addition, you will find out how to load 3-D geometries from text files (and a subset of .obj), render movies from JavaFX 3D via its snapshot functionality, and use the ray picking API for retrieving detailed information on parts of 3-D visualizations. To create nice-looking applications, the tutorial utilizes open source controls from the JFXtras project (jfxtras.org).
-
+## Talk
+*Interesting talks in conferences like JavaOne, Devoxx and others*
+- [Creating Amazing Visualization Tools With JavaFX 8 (3D)](https://www.youtube.com/watch?v=xk-YfIdH0_Y) - By [Michael Hoffer](https://twitter.com/mihosoft)<br/>
+Screencast that covers most topics from JavaOne 2013 Tutorial TUT6705: http://mihosoft.eu/?p=928<br/>
+JavaFX is a powerful rich-client platform that is ideal for complex visualizations. In this tutorial, you will learn how to create amazing 2-D and 3-D visualization tools such as an interactive function plotter with Java 8 and JavaFX 8. For 2-D plotting, you will learn how to use the powerful charting API that comes with JavaFX. In addition, you will find out how to load 3-D geometries from text files (and a subset of .obj), render movies from JavaFX 3D via its snapshot functionality, and use the ray picking API for retrieving detailed information on parts of 3-D visualizations. To create nice-looking applications, the tutorial utilizes open source controls from the JFXtras project (jfxtras.org).
+  
 ## Slides
-* Useful slides from Slideshare *
-  - [The JavaFX Ecosystem](http://www.slideshare.net/aalmiray/the-javafx-ecosystem-63538844). A collection of Open Source libraries for building JavaFX applications.
-  - [The JavaFX Community and Ecosystem](http://www.slideshare.net/alexandercasall?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview). JavaOne talk about the Ecosystem in the year 2014.
-  - [JavaFX Pitfalls](http://www.slideshare.net/alexandercasall/javafx-pitfalls). Tips and tricks regarding JavaFX.
-  - [JavaFX 10 things I love about you](http://www.slideshare.net/alexandercasall/javafx-10-things-i-love-about-you). An Introduction to JavaFX.
+*Useful slides from Slideshare*
+- [The JavaFX Ecosystem](http://www.slideshare.net/aalmiray/the-javafx-ecosystem-63538844). A collection of Open Source libraries for building JavaFX applications.
+- [The JavaFX Community and Ecosystem](http://www.slideshare.net/alexandercasall?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview). JavaOne talk about the Ecosystem in the year 2014.
+- [JavaFX Pitfalls](http://www.slideshare.net/alexandercasall/javafx-pitfalls). Tips and tricks regarding JavaFX.
+- [JavaFX 10 things I love about you](http://www.slideshare.net/alexandercasall/javafx-10-things-i-love-about-you). An Introduction to JavaFX.
 
 ## Articles
 *Interesting Articles about JavaFX*
