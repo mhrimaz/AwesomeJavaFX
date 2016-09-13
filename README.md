@@ -137,6 +137,7 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 ## Real World Examples
 - [20 real world examples on JAXenter](https://jaxenter.com/20-javafx-real-world-applications-123653.html)
 - [SkedPal](https://www.skedpal.com/) - SkedPal™ combines the best elements of creativity and structure to optimize your time and productivity.
+- [ASciidocFX](http://asciidocfx.com/) - Asciidoc FX is a book / document editor to build PDF, Epub, Mobi and HTML books, documents and slides. AsciidocFX is also a winner of [Duke’s Choice Award 2015](https://www.oracle.com/corporate/pressrelease/dukes-award-102815.html).
 
 ## Contribute
 Contributions are always welcome!
