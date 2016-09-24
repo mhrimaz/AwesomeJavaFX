@@ -170,6 +170,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [JavaFX 8 Refcard](https://dzone.com/refcardz/javafx-8-1) - Gives you what you need to start using the powerful JavaFX 8 UI and graphics tool with code snippets and visual examples of shapes and controls.
 - [JavaFX Refcard](https://dzone.com/refcardz/getting-started-javafx) - Gets you started with JavaFX, which makes it easier to build better RIAs with graphics, animation, and media.
 - [User Interface Testing with TestFX](http://vocabhunter.github.io/2016/07/27/TestFX.html) - A guide to using TestFX to automate JavaFX user interface testing.
+- [How JavaFX was used to build a desktop application](https://techblog.king.com/javafx-used-build-desktop-application/) - A look at some of the features of JavaFX and how they were used in building an application.  The article includes links to all of the source code on GitHub. 
 
 ## Real World Examples
 *Real World Examples of JavaFX and Applications*
