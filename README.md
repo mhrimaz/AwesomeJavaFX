@@ -148,6 +148,7 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 - [Udemy Build Outstanding JavaFX](https://www.udemy.com/javafx-gui-programming/) - Udemy Video Toturial for JavaFX. Build Outstanding Java Apps with JavaFX much faster Launch a beautiful Java app by the end of the week. Learn smarter Programming with the JavaFX GUI Framework.
 - [Lynda JavaFX GUI Development](https://www.lynda.com/Java-tutorials/JavaFX-GUI-Development/466182-2.html) - Learn how to develop graphical user interfaces (GUIs) for enterprise apps with JavaFX.
 - [TeamTreeHouse Build a JavaFX Application](https://teamtreehouse.com/library/build-a-javafx-application) - Learn JavaFX fundamentals , Event driven application development and Client based application layout.
+- [Building Your First JavaFX Application](http://www.pluralsight.com/courses/java-se-java-fx-application-building-your-first) - This course will provide you with a quick introduction to basic JavaFX features and help you build your first JavaFX Application.
 
 ## Talks
 *Interesting talks in conferences like JavaOne, Devoxx and others*
