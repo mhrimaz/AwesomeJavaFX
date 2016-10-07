@@ -56,6 +56,7 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [Advanced-Bindings](https://github.com/lestard/advanced-bindings) - Collection of custom bindings like java.lang.Math or Switch-Case as JavaFX binding.
 - [assertj-javafx](https://github.com/lestard/assertj-javafx) - AssertJ assertions for JavaFX Properties and Bindings.
 - [Grid](https://github.com/lestard/Grid) - A Component for grid based games like sudoku or chess.
+- [TuioFX](http://tuiofx.org/) - Toolkit for developing multi-touch, multi-user interactive tabletops and surfaces.
 
 ## Frameworks
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
