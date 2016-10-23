@@ -57,6 +57,9 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [assertj-javafx](https://github.com/lestard/assertj-javafx) - AssertJ assertions for JavaFX Properties and Bindings.
 - [Grid](https://github.com/lestard/Grid) - A Component for grid based games like sudoku or chess.
 - [TuioFX](http://tuiofx.org/) - Toolkit for developing multi-touch, multi-user interactive tabletops and surfaces.
+- [Arianne](https://arianne-project.org/about.html) - An opensource multiplayer framework/engine for developing video games. 
+- [Zed Attack Proxy(ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - A security tool that automatically finds security vulernabilities in web applications during production and testing. 
+
 
 ## Frameworks
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
@@ -180,7 +183,8 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [SkedPal](https://www.skedpal.com/) - SkedPal™ combines the best elements of creativity and structure to optimize your time and productivity.
 - [AsciidocFX](http://asciidocfx.com/) - Asciidoc FX is a book / document editor to build PDF, Epub, Mobi and HTML books, documents and slides. AsciidocFX is also a winner of [Duke’s Choice Award 2015](https://www.oracle.com/corporate/pressrelease/dukes-award-102815.html).
 - [VocabHunter](http://vocabhunter.github.io/) - VocabHunter is a system to help learners of foreign languages.
-
+- [Cuba Platform](https://www.cuba-platform.com/framework#overview) - A high-level web framework for building enterprise applications. 
+- [Open MRS](http://openmrs.org/) - An open source electronical medical records system. 
 ----
 
 ## Contribute
