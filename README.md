@@ -185,6 +185,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [VocabHunter](http://vocabhunter.github.io/) - VocabHunter is a system to help learners of foreign languages.
 - [Cuba Platform](https://www.cuba-platform.com/framework#overview) - A high-level web framework for building enterprise applications. 
 - [Open MRS](http://openmrs.org/) - An open source electronical medical records system. 
+- [Musicott](http://octaviospain.github.io/Musicott/) A music app for playing music files. 
 ----
 
 ## Contribute
