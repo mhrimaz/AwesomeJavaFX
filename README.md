@@ -60,6 +60,9 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [Arianne](https://arianne-project.org/about.html) - An opensource multiplayer framework/engine for developing video games. 
 - [Zed Attack Proxy(ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - A security tool that automatically finds security vulernabilities in web applications during production and testing. 
 
+## Project Ideas
+- [Top 10 Java Project Ideas](http://www.lovelycoding.org/2014/04/Java-Project-Ideas-United-State.html) - A list of project ideas ideal for students. 
+- [Projects](https://github.com/karan/Projects) - A list of practical projects that can be solved in any programming language.  
 
 ## Frameworks
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
