@@ -57,9 +57,12 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [assertj-javafx](https://github.com/lestard/assertj-javafx) - AssertJ assertions for JavaFX Properties and Bindings.
 - [Grid](https://github.com/lestard/Grid) - A Component for grid based games like sudoku or chess.
 - [TuioFX](http://tuiofx.org/) - Toolkit for developing multi-touch, multi-user interactive tabletops and surfaces.
-- [Arianne](https://arianne-project.org/about.html) - An opensource multiplayer framework/engine for developing video games. 
-- [Zed Attack Proxy(ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - A security tool that automatically finds security vulernabilities in web applications during production and testing. 
+- [Arianne](https://arianne-project.org/about.html) - An opensource multiplayer framework/engine for developing video games.
+- [Zed Attack Proxy(ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - A security tool that automatically finds security vulernabilities in web applications during production and testing.
 
+## Project Ideas
+- [Top 10 Java Project Ideas](http://www.lovelycoding.org/2014/04/Java-Project-Ideas-United-State.html) - A list of project ideas ideal for students.
+- [Projects](https://github.com/karan/Projects) - A list of practical projects that can be solved in any programming language.  
 
 ## Frameworks
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
@@ -153,6 +156,7 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 - [Lynda JavaFX GUI Development](https://www.lynda.com/Java-tutorials/JavaFX-GUI-Development/466182-2.html) - Learn how to develop graphical user interfaces (GUIs) for enterprise apps with JavaFX.
 - [TeamTreeHouse Build a JavaFX Application](https://teamtreehouse.com/library/build-a-javafx-application) - Learn JavaFX fundamentals , Event driven application development and Client based application layout.
 - [Building Your First JavaFX Application](http://www.pluralsight.com/courses/java-se-java-fx-application-building-your-first) - This course will provide you with a quick introduction to basic JavaFX features and help you build your first JavaFX Application.
+- [FXTutorials](https://github.com/AlmasB/FXTutorials) - A collection of video game tutorials contained from AlmasB's [Youtube](https://www.youtube.com/almasb0/videos) channel.
 
 ## Talks
 *Interesting talks in conferences like JavaOne, Devoxx and others*
@@ -162,7 +166,7 @@ JavaFX is a powerful rich-client platform that is ideal for complex visualizatio
 - [Java on Mobile is a thing... and it's really good!](https://www.youtube.com/watch?v=oUMcWxvamWs) - by [Johan Vos](https://twitter.com/johanvos)<br/>
 In this session, we show how to use your favourite IDE to write a Java Client application, and how to use that same IDE to create native applications that can be uploaded to the different appstores. These native applications use exactly the same code as a Java desktop application.
 We talk about the status of JavaFX on Mobile, and about the options for running Java code on mobile devices (e.g. Dalvik/ART, RoboVM AOT, OpenJDK with the Mobile OpenJDK project).
-  
+
 ## Slides
 *Useful slides from Slideshare*
 - [The JavaFX Ecosystem](http://www.slideshare.net/aalmiray/the-javafx-ecosystem-63538844). A collection of Open Source libraries for building JavaFX applications.
@@ -175,7 +179,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [JavaFX 8 Refcard](https://dzone.com/refcardz/javafx-8-1) - Gives you what you need to start using the powerful JavaFX 8 UI and graphics tool with code snippets and visual examples of shapes and controls.
 - [JavaFX Refcard](https://dzone.com/refcardz/getting-started-javafx) - Gets you started with JavaFX, which makes it easier to build better RIAs with graphics, animation, and media.
 - [User Interface Testing with TestFX](http://vocabhunter.github.io/2016/07/27/TestFX.html) - A guide to using TestFX to automate JavaFX user interface testing.
-- [How JavaFX was used to build a desktop application](https://techblog.king.com/javafx-used-build-desktop-application/) - A look at some of the features of JavaFX and how they were used in building an application.  The article includes links to all of the source code on GitHub. 
+- [How JavaFX was used to build a desktop application](https://techblog.king.com/javafx-used-build-desktop-application/) - A look at some of the features of JavaFX and how they were used in building an application.  The article includes links to all of the source code on GitHub.
 
 ## Real World Examples
 *Real World Examples of JavaFX and Applications*
@@ -183,12 +187,14 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [SkedPal](https://www.skedpal.com/) - SkedPal™ combines the best elements of creativity and structure to optimize your time and productivity.
 - [AsciidocFX](http://asciidocfx.com/) - Asciidoc FX is a book / document editor to build PDF, Epub, Mobi and HTML books, documents and slides. AsciidocFX is also a winner of [Duke’s Choice Award 2015](https://www.oracle.com/corporate/pressrelease/dukes-award-102815.html).
 - [VocabHunter](http://vocabhunter.github.io/) - VocabHunter is a system to help learners of foreign languages.
-- [Cuba Platform](https://www.cuba-platform.com/framework#overview) - A high-level web framework for building enterprise applications. 
-- [Open MRS](http://openmrs.org/) - An open source electronical medical records system. 
-- [Musicott](http://octaviospain.github.io/Musicott/) - A music app for playing music files. 
+- [Cuba Platform](https://www.cuba-platform.com/framework#overview) - A high-level web framework for building enterprise applications.
+- [Open MRS](http://openmrs.org/) - An open source electronical medical records system.
+- [Musicott](http://octaviospain.github.io/Musicott/) - A music app for playing music files.
+- [Open Dolphin](http://open-dolphin.org/dolphin_website/Home.html) - A middleware solution for enterprise and desktop applications in Java.
+- [JD ESurvey](https://github.com/mpoussard-github/JDeSurvey) - An open source online enterprise web application survey tool written in Java and based on the Spring Framework and Hibernate ORM.
+- [Open Source Projects Using the Spring Framework](http://www.programcreek.com/2012/08/open-source-projects-that-use-spring-framework/) - A list of real world projects using the Spring framework. (Some of these are outdated projects while others aren't. See [Alfresco](https://sourceforge.net/projects/alfresco/), [Plazma](https://sourceforge.net/projects/plazma/), [Express](https://sourceforge.net/projects/agileexpress/),and [Zksample2](https://sourceforge.net/projects/zksample2/) for some of the recently updated projects).
 
 ----
 
 ## Contribute
 Contributions are always welcome!
-
