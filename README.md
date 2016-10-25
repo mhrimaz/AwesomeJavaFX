@@ -60,6 +60,9 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [Arianne](https://arianne-project.org/about.html) - An opensource multiplayer framework/engine for developing video games. 
 - [Zed Attack Proxy(ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - A security tool that automatically finds security vulernabilities in web applications during production and testing. 
 
+## Project Ideas
+- [Top 10 Java Project Ideas](http://www.lovelycoding.org/2014/04/Java-Project-Ideas-United-State.html) - A list of project ideas ideal for students. 
+- [Projects](https://github.com/karan/Projects) - A list of practical projects that can be solved in any programming language.  
 
 ## Frameworks
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
@@ -153,7 +156,7 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 - [Lynda JavaFX GUI Development](https://www.lynda.com/Java-tutorials/JavaFX-GUI-Development/466182-2.html) - Learn how to develop graphical user interfaces (GUIs) for enterprise apps with JavaFX.
 - [TeamTreeHouse Build a JavaFX Application](https://teamtreehouse.com/library/build-a-javafx-application) - Learn JavaFX fundamentals , Event driven application development and Client based application layout.
 - [Building Your First JavaFX Application](http://www.pluralsight.com/courses/java-se-java-fx-application-building-your-first) - This course will provide you with a quick introduction to basic JavaFX features and help you build your first JavaFX Application.
-
+- [FXTutorials](https://github.com/AlmasB/FXTutorials) - A collection of video game tutorials contained from AlmasB's [Youtube](https://www.youtube.com/almasb0/videos) channel.
 ## Talks
 *Interesting talks in conferences like JavaOne, Devoxx and others*
 - [Creating Amazing Visualization Tools With JavaFX 8 (3D)](https://www.youtube.com/watch?v=xk-YfIdH0_Y) - By [Michael Hoffer](https://twitter.com/mihosoft)<br/>
