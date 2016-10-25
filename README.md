@@ -191,8 +191,8 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [Open MRS](http://openmrs.org/) - An open source electronical medical records system.
 - [Musicott](http://octaviospain.github.io/Musicott/) - A music app for playing music files.
 - [Open Dolphin](http://open-dolphin.org/dolphin_website/Home.html) - A middleware solution for enterprise and desktop applications in Java.
-- [Open Source Projects Using the Spring Framework](http://www.programcreek.com/2012/08/open-source-projects-that-use-spring-framework/) - A list of real world projects using the Spring framework. (Some of these are outdated projects while others aren't. See [Alfresco](https://sourceforge.net/projects/alfresco/), [Plazma](https://sourceforge.net/projects/plazma/), [Express](https://sourceforge.net/projects/agileexpress/),and [Zksample2](https://sourceforge.net/projects/zksample2/) for some of the recently updated projects.) 
-- [JD ESurvey](https://github.com/JerJohn15/JDeSurvey) - An open source online enterprise web application survey tool wirrten in Java and based on the Spring Framework and Hibernate ORM.
+- [Open Source Projects Using the Spring Framework](http://www.programcreek.com/2012/08/open-source-projects-that-use-spring-framework/) - A list of real world projects using the Spring framework. (Some of these are outdated projects while others aren't. See [Alfresco](https://sourceforge.net/projects/alfresco/), [Plazma](https://sourceforge.net/projects/plazma/), [Express](https://sourceforge.net/projects/agileexpress/),and [Zksample2](https://sourceforge.net/projects/zksample2/) for some of the recently updated projects). 
+- [JD ESurvey](https://github.com/mpoussard-github/JDeSurvey) - An open source online enterprise web application survey tool wirrten in Java and based on the Spring Framework and Hibernate ORM.
 ----
 
 ## Contribute
