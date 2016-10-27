@@ -57,8 +57,7 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [assertj-javafx](https://github.com/lestard/assertj-javafx) - AssertJ assertions for JavaFX Properties and Bindings.
 - [Grid](https://github.com/lestard/Grid) - A Component for grid based games like sudoku or chess.
 - [TuioFX](http://tuiofx.org/) - Toolkit for developing multi-touch, multi-user interactive tabletops and surfaces.
-- [Arianne](https://arianne-project.org/about.html) - An opensource multiplayer framework/engine for developing video games. 
-- [Zed Attack Proxy(ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - A security tool that automatically finds security vulernabilities in web applications during production and testing. 
+- [Advanced-Bindings for JavaFX (8)](https://github.com/lestard/advanced-bindings) - advanced-bindings is a collection of useful helpers and custom binding implementations to simplify the development of applications that are heavily based on JavaFX's Properties and Bindings.
 
 
 ## Frameworks
