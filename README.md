@@ -58,6 +58,8 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [Grid](https://github.com/lestard/Grid) - A Component for grid based games like sudoku or chess.
 - [TuioFX](http://tuiofx.org/) - Toolkit for developing multi-touch, multi-user interactive tabletops and surfaces.
 - [Advanced-Bindings for JavaFX (8)](https://github.com/lestard/advanced-bindings) - advanced-bindings is a collection of useful helpers and custom binding implementations to simplify the development of applications that are heavily based on JavaFX's Properties and Bindings.
+- [FXGraphics2D](https://github.com/jfree/fxgraphics2d) - A library that provides a Graphics2D API for drawing on the JavaFX Canvas so that existing Java2D code can be reused easily.  This library was created to provide JavaFX support for JFreeChart.
+- [Orson Charts](https://github.com/jfree/orson-charts) - An interactive 3D chart library for JavaFX and Swing.
 
 
 ## Frameworks
