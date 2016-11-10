@@ -60,6 +60,8 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [Advanced-Bindings for JavaFX (8)](https://github.com/lestard/advanced-bindings) - advanced-bindings is a collection of useful helpers and custom binding implementations to simplify the development of applications that are heavily based on JavaFX's Properties and Bindings.
 - [FXGraphics2D](https://github.com/jfree/fxgraphics2d) - A library that provides a Graphics2D API for drawing on the JavaFX Canvas so that existing Java2D code can be reused easily.  This library was created to provide JavaFX support for JFreeChart.
 - [Orson Charts](https://github.com/jfree/orson-charts) - An interactive 3D chart library for JavaFX and Swing.
+- [JCSG](https://github.com/miho/JCSG) - Java implementation of BSP based CSG (Constructive Solid Geometry)
+- [JFXScad](https://github.com/miho/JFXScad) - JavaFX 3D Printing IDE based on JCSG.
 
 
 ## Frameworks
