@@ -180,6 +180,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [JavaFX Refcard](https://dzone.com/refcardz/getting-started-javafx) - Gets you started with JavaFX, which makes it easier to build better RIAs with graphics, animation, and media.
 - [User Interface Testing with TestFX](https://vocabhunter.github.io/2016/07/27/TestFX.html) - A guide to using TestFX to automate JavaFX user interface testing.
 - [How JavaFX was used to build a desktop application](https://techblog.king.com/javafx-used-build-desktop-application/) - A look at some of the features of JavaFX and how they were used in building an application.  The article includes links to all of the source code on GitHub. 
+- [Dependency Injection in JavaFX](https://vocabhunter.github.io/2016/11/13/JavaFX-Dependency-Injection.html) - A guide to implementing Dependency Injection in a JavaFX application.
 
 ## Real World Examples
 *Real World Examples of JavaFX and Applications*
