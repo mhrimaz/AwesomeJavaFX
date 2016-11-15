@@ -178,15 +178,16 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 *Interesting Articles about JavaFX*
 - [JavaFX 8 Refcard](https://dzone.com/refcardz/javafx-8-1) - Gives you what you need to start using the powerful JavaFX 8 UI and graphics tool with code snippets and visual examples of shapes and controls.
 - [JavaFX Refcard](https://dzone.com/refcardz/getting-started-javafx) - Gets you started with JavaFX, which makes it easier to build better RIAs with graphics, animation, and media.
-- [User Interface Testing with TestFX](http://vocabhunter.github.io/2016/07/27/TestFX.html) - A guide to using TestFX to automate JavaFX user interface testing.
+- [User Interface Testing with TestFX](https://vocabhunter.github.io/2016/07/27/TestFX.html) - A guide to using TestFX to automate JavaFX user interface testing.
 - [How JavaFX was used to build a desktop application](https://techblog.king.com/javafx-used-build-desktop-application/) - A look at some of the features of JavaFX and how they were used in building an application.  The article includes links to all of the source code on GitHub. 
+- [Dependency Injection in JavaFX](https://vocabhunter.github.io/2016/11/13/JavaFX-Dependency-Injection.html) - A guide to implementing Dependency Injection in a JavaFX application.
 
 ## Real World Examples
 *Real World Examples of JavaFX and Applications*
 - [20 real world examples on JAXenter](https://jaxenter.com/20-javafx-real-world-applications-123653.html)
 - [SkedPal](https://www.skedpal.com/) - SkedPal™ combines the best elements of creativity and structure to optimize your time and productivity.
 - [AsciidocFX](http://asciidocfx.com/) - Asciidoc FX is a book / document editor to build PDF, Epub, Mobi and HTML books, documents and slides. AsciidocFX is also a winner of [Duke’s Choice Award 2015](https://www.oracle.com/corporate/pressrelease/dukes-award-102815.html).
-- [VocabHunter](http://vocabhunter.github.io/) - VocabHunter is a system to help learners of foreign languages.
+- [VocabHunter](https://vocabhunter.github.io/) - VocabHunter is a system to help learners of foreign languages.
 - [Cuba Platform](https://www.cuba-platform.com/framework#overview) - A high-level web framework for building enterprise applications. 
 - [Open MRS](http://openmrs.org/) - An open source electronical medical records system. 
 - [Musicott](http://octaviospain.github.io/Musicott/) - A music app for playing music files. 
