@@ -106,6 +106,7 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 - [JavaFX Delight](http://www.jensd.de/wordpress/) - [Jens Deters](https://twitter.com/Jerady) blog about Java/JavaFX
 - [GUI Garage](http://www.guigarage.com/) - Open source UI stuff!
 - [Kware](http://www.kware.net/) - A blog about JavaFX by Christoph Keimel
+- [falkhausen.de](http://www.falkhausen.de/JavaFX/index.html) - Class diagrams for JavaFX by Markus Falkhausen
 
 ## Peoples
 *These Peoples share good stuff on their twitter accounts. Some of them are Legend, Champion and Rockstar. Follow Them in Twitter. Descriptions from Twitter.*
