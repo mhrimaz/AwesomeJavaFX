@@ -62,6 +62,7 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [Orson Charts](https://github.com/jfree/orson-charts) - An interactive 3D chart library for JavaFX and Swing.
 - [JCSG](https://github.com/miho/JCSG) - Java implementation of BSP based CSG (Constructive Solid Geometry)
 - [JFXScad](https://github.com/miho/JFXScad) - JavaFX 3D Printing IDE based on JCSG.
+- [APX](https://github.com/othreecodes/APX) - A JavaFX Library for Creating and Implementing MVC Type applications
 
 
 ## Frameworks
