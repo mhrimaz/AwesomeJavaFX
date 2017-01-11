@@ -62,7 +62,10 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [Orson Charts](https://github.com/jfree/orson-charts) - An interactive 3D chart library for JavaFX and Swing.
 - [JCSG](https://github.com/miho/JCSG) - Java implementation of BSP based CSG (Constructive Solid Geometry)
 - [JFXScad](https://github.com/miho/JFXScad) - JavaFX 3D Printing IDE based on JCSG.
-- [APX](https://github.com/othreecodes/APX) - A JavaFX Library for Creating and Implementing MVC Type applications
+- [TilesFX](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles for Dashboards.
+- [JideFX](https://github.com/jidesoft/jidefx-oss)- JideFX Common Layer is a collection of various extensions and utilities for to JavaFX platform. The JideFX Common Layer is the equivalent to the JIDE Common Layer in the JIDE components for Swing.
+- [Undecorator](https://github.com/in-sideFX/Undecorator) - Decorate undecorated JavaFX stages with custom skin. This helper brings a nustom look to your JavaFX stages. 
+
 
 
 ## Frameworks
@@ -75,6 +78,7 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [Basilisk](https://github.com/basilisk-fw/basilisk) - Desktop/Mobile JavaFX application framework. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 - [JacpFX](http://jacpfx.org/) - An UI application framework based on JavaFX
 - [ScalaFX](http://www.scalafx.org/) - simplifies creation of JavaFX-based user interfaces in Scala
+- [APX](https://github.com/othreecodes/APX) - A JavaFX Library for Creating and Implementing MVC Type applications
 
 ## Books
 - [JavaFX 8: Introduction by Example](http://www.apress.com/9781430264606) - by [Carl Dea](https://twitter.com/carldea) , [Mark Heckler](https://twitter.com/MkHeck) , [Gerrit Grunwald](https://twitter.com/hansolo_) , [José Pereda](https://twitter.com/JPeredaDnr) , [Sean Phillips](https://twitter.com/SeanMiPhillips)<br/>
