@@ -29,6 +29,7 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [Gluon Maps](http://gluonhq.com/labs/maps/) - Gluon Maps is built with high performance in mind, but that doesn’t mean functionality is missing. Gluon Maps offers layer overlays, multiple tilesets, and much more.
 - [JavaFXPorts](http://gluonhq.com/labs/javafxports/) - JavaFXPorts is the open source project that brings Java and JavaFX to mobile and embedded hardware, including iPhone, iPad, Android devices, and the Raspberry Pi.
 - [Gluon Scene Builder](http://gluonhq.com/labs/scene-builder/) - Scene Builder works with the JavaFX ecosystem – official controls, community projects, and Gluon offerings including Gluon Mobile, Gluon Desktop, and Gluon CloudLink.
+- [e(fx)clipse](http://www.efxclipse.org/) - JavaFX Tooling and Runtime for Eclipse and OSGi 
 - [ControlsFX](http://fxexperience.com/controlsfx/) - ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls and other tools to complement the core JavaFX distribution.
 - [Scenic View](http://fxexperience.com/scenic-view/) - Scenic View is a JavaFX application designed to make it simple to understand the current state of your application scenegraph, and to also easily manipulate properties of the scenegraph without having to keep editing your code. This lets you find bugs, and get things pixel perfect without having to do the compile-check-compile dance.
 - [SmartCSVFX](https://github.com/frosch95/SmartCSV.fx) - A simple JavaFX application to load, save and edit a CSV file and provide a JSON configuration for columns to check the values in the columns.
@@ -121,6 +122,7 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 * [Gerrit Grunwald](https://twitter.com/hansolo_) - JUG Leader, Java Champion, JavaONE Rockstar, ❤️ Java(FX) and IoT, may the force be with you... (He is a Legend!)
 * [Johan Vos](https://twitter.com/johanvos) - Java developer, Java Champion, co-founder at Gluon, CTO at LodgON, Using JavaFX and Glassfish, working on Gluon, Java EE, DataFX,... . (He is a Legend!)
 * [Michael Hoffer](https://twitter.com/mihosoft) - Computer Scientist, Mathematician, Software Developer, Artist. (He is a Legend!)
+* [Tom Schindl](https://twitter.com/tomsontom) - Eclipse Committer, [e(fx)clipse](http://www.efxclipse.org/) project lead and CTO at [BestSolution.at](http://bestsolution.at/en/index.html)
 * [José Pereda](https://twitter.com/JPeredaDnr) - PhD, Structural Engineer, love coding, Java & JavaFX, JavaFXPorts, mobile apps, IoT. Software Engineer at http://gluonhq.com/ (He is a Legend!)
 * [Mark Heckler](https://twitter.com/MkHeck) - Developer Advocate for Pivotal.io. Computer scientist and JavaFX author.
 * [James Weaver](https://twitter.com/JavaFXpert) - Java/JavaFX/IoT developer, author and speaker.
