@@ -11,7 +11,7 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [Frameworks](#frameworks)
 - [Books](#books)
 - [Blogs and Sites](#blogs-and-sites)
-- [Peoples](#peoples)
+- [People](#people)
 - [Tutorials](#tutorials)
 - [Talks](#talks)
 - [Slides](#slides)
@@ -120,8 +120,8 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 - [falkhausen.de](http://www.falkhausen.de/JavaFX/index.html) - Class diagrams for JavaFX by Markus Falkhausen
 - [FXAPss](http://fxapps.blogspot.com/) - A JavaFX blog.
 
-## Peoples
-*These Peoples share good stuff on their twitter accounts. Some of them are Legend, Champion and Rockstar. Follow Them in Twitter. Descriptions from Twitter.*
+## People
+*These people share good stuff on their twitter accounts. Some of them are Legend, Champion and Rockstar. Follow them on Twitter. Descriptions from Twitter.*
 * [Carl Dea](https://twitter.com/carldea) - Book Author, Blogger, a wannabe GUI guy, JavaFX enthusiast, mobile phones, AI.( He is a Legend!)
 * [Dirk Lemmermann](https://twitter.com/dlemmermann) - Senior Java SE / EE software engineer. UI Lover (Swing, JavaFX).
 * [Gerrit Grunwald](https://twitter.com/hansolo_) - JUG Leader, Java Champion, JavaONE Rockstar, ❤️ Java(FX) and IoT, may the force be with you... (He is a Legend!)
