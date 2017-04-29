@@ -1,6 +1,6 @@
 # Awesome JavaFX [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome JavaFX frameworks, libraries, books and etc... .
+A curated list of awesome JavaFX frameworks, libraries, books etc... .
 
 ----
 
@@ -119,7 +119,7 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 - [FXAPss](http://fxapps.blogspot.com/) - A JavaFX blog.
 
 ## People
-*These people share good stuff on their twitter accounts. Some of them are Legend, Champion and Rockstar. Follow them on Twitter. Descriptions from Twitter.*
+*These people share good stuff on their twitter accounts. Some of them are Legends, Champions and Rockstars. Follow them on Twitter. Descriptions from Twitter.*
 * [Carl Dea](https://twitter.com/carldea) - Book Author, Blogger, a wannabe GUI guy, JavaFX enthusiast, mobile phones, AI.( He is a Legend!)
 * [Dirk Lemmermann](https://twitter.com/dlemmermann) - Senior Java SE / EE software engineer. UI Lover (Swing, JavaFX).
 * [Gerrit Grunwald](https://twitter.com/hansolo_) - JUG Leader, Java Champion, JavaONE Rockstar, ❤️ Java(FX) and IoT, may the force be with you... (He is a Legend!)
@@ -159,7 +159,7 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 * [Andres Almiray](https://twitter.com/aalmiray) - JSR377 Spec lead, Groovy aficionado, Griffon project lead, Basilisk project lead, Java Champion http://manning.com/almiray.
 
 ## Tutorials
-*Good online resources include free and paid courses to learn JavaFX.*
+*Good online resources including free and paid courses to learn JavaFX.*
 - [code.makery](http://code.makery.ch/library/javafx-8-tutorial/) - Multiple Language Online Site with a great materials and examples to teach you JavaFX.
 - [Jenkov JavaFX](http://tutorials.jenkov.com/javafx/index.html) - Jenkov JavaFX Toturials and Articles with good examples to demonstrate you how you can use JavaFX Features.
 - [TheNewBoston JavaFX](https://www.youtube.com/watch?v=FLkOX4Eez6o&list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG) - Youtube JavaFX Video Toturial. It's Simple and it's good place to start JavaFX.
