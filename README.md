@@ -65,7 +65,8 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [JFXScad](https://github.com/miho/JFXScad) - JavaFX 3D Printing IDE based on JCSG.
 - [TilesFX](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles for Dashboards.
 - [JideFX](https://github.com/jidesoft/jidefx-oss)- JideFX Common Layer is a collection of various extensions and utilities for to JavaFX platform. The JideFX Common Layer is the equivalent to the JIDE Common Layer in the JIDE components for Swing.
-- [Undecorator](https://github.com/in-sideFX/Undecorator) - Decorate undecorated JavaFX stages with custom skin. This helper brings a nustom look to your JavaFX stages. 
+- [Undecorator](https://github.com/in-sideFX/Undecorator) - Decorate undecorated JavaFX stages with custom skin. This helper brings a nustom look to your JavaFX stages.
+- [FlexBoxFX](https://github.com/UltraMixer/FlexBoxFX) - FlexBoxFX is a JavaFX implementation of CSS3 flexbox layout manager.
 
 
 
