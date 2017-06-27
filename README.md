@@ -84,6 +84,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [ScalaFX](http://www.scalafx.org/) - simplifies creation of JavaFX-based user interfaces in Scala
 - [APX](https://github.com/othreecodes/APX) - A JavaFX Library for Creating and Implementing MVC Type applications
 - [EasyBind](https://github.com/TomasMikula/EasyBind) - EasyBind leverages lambdas to reduce boilerplate when creating custom bindings.
+- [Spring Boot](https://spring.io/) - Spring Boot provides you necessary components to implement MVC, IOC and AOP. Spring boot also can be integrated in a JavaFX project and there is absolutely no requirement for XML configuration.
 
 ## Books
 - [JavaFX 8: Introduction by Example](http://www.apress.com/9781430264606) - by [Carl Dea](https://twitter.com/carldea) , [Mark Heckler](https://twitter.com/MkHeck) , [Gerrit Grunwald](https://twitter.com/hansolo_) , [José Pereda](https://twitter.com/JPeredaDnr) , [Sean Phillips](https://twitter.com/SeanMiPhillips)<br/>
