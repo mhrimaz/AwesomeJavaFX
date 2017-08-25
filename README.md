@@ -68,7 +68,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [Undecorator](https://github.com/in-sideFX/Undecorator) - Decorate undecorated JavaFX stages with custom skin. This helper brings a nustom look to your JavaFX stages.
 - [FlexBoxFX](https://github.com/UltraMixer/FlexBoxFX) - FlexBoxFX is a JavaFX implementation of CSS3 flexbox layout manager.
 - [CssFX](https://github.com/McFoggy/cssfx) - Enhances developper productivity by providing JavaFX CSS reloading functionnality in a running application. Usable as standalone library or integrated in [Scenic View](#ScenicView).
-
+- [GestureFX](https://github.com/tom91136/GestureFX) - A lightweight pinch-to-zoom pane for JavaFX
 
 ## Frameworks
 - [Dolphin Platform](https://github.com/canoo/dolphin-platform) - Dolphin Platform is a client / server frameworks that provides a async communication between a server and a client based on the remote presentation model pattern
