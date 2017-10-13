@@ -54,11 +54,10 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [FXyz](https://github.com/Birdasaur/FXyz) - F(X)yz is a new JavaFX 3D library that provides additional primitives, composite objects, controls and data visualizations that the base JavaFX 8 3D packages do not have.
 - [JSilhouette](https://github.com/aalmiray/jsilhouette) - JSilhouette provides additional shapes for Java applications.
 - [SynchronizeFX](https://github.com/lestard/SynchronizeFX) - Remote Data-Binding between different JVMs, both on a local machine and over the network.
-- [Advanced-Bindings](https://github.com/lestard/advanced-bindings) - Collection of custom bindings like java.lang.Math or Switch-Case as JavaFX binding.
 - [assertj-javafx](https://github.com/lestard/assertj-javafx) - AssertJ assertions for JavaFX Properties and Bindings.
 - [Grid](https://github.com/lestard/Grid) - A Component for grid based games like sudoku or chess.
 - [TuioFX](http://tuiofx.org/) - Toolkit for developing multi-touch, multi-user interactive tabletops and surfaces.
-- [Advanced-Bindings for JavaFX (8)](https://github.com/lestard/advanced-bindings) - advanced-bindings is a collection of useful helpers and custom binding implementations to simplify the development of applications that are heavily based on JavaFX's Properties and Bindings.
+- [Advanced-Bindings for JavaFX (8)](https://github.com/lestard/advanced-bindings) - advanced-bindings is a collection of useful helpers and custom binding implementations like java.lang.Math or Switch-Case as JavaFX binding.
 - [FXGraphics2D](https://github.com/jfree/fxgraphics2d) - A library that provides a Graphics2D API for drawing on the JavaFX Canvas so that existing Java2D code can be reused easily.  This library was created to provide JavaFX support for JFreeChart.
 - [Orson Charts](https://github.com/jfree/orson-charts) - An interactive 3D chart library for JavaFX and Swing.
 - [JCSG](https://github.com/miho/JCSG) - Java implementation of BSP based CSG (Constructive Solid Geometry)
