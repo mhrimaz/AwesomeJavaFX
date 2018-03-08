@@ -70,6 +70,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [GestureFX](https://github.com/tom91136/GestureFX) - A lightweight pinch-to-zoom pane for JavaFX
 - [redux-javafx-devtool](https://github.com/lestard/redux-javafx-devtool) - A developer-tool for ReduxFX. Visualizes the state and actions of the app. Enables time-traveling.
 - [FXForm2](https://github.com/dooApp/FXForm2) - A library providing automatic JavaFX form generation. The generated form is highly configurable and skinnable using code, annotations and CSS styling. FXForm2 is compatible with the JSR 303 for bean validation.
+- [ReactorFX](https://github.com/shadskii/ReactorFX) - ReactorFX integrates Project Reactor and JavaFX by providing a simple API to create reactive Flux from JavaFX Controls, Dialogs, Observables, and Collections. 
 
 ## Frameworks
 - [Dolphin Platform](https://github.com/canoo/dolphin-platform) - Dolphin Platform is a client / server frameworks that provides a async communication between a server and a client based on the remote presentation model pattern
