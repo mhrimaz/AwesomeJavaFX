@@ -124,43 +124,43 @@ Introducing JavaFX 8 Programming provides a fast-paced, practical introduction t
 
 ## People
 *These people share good stuff on their twitter accounts. Some of them are Legends, Champions and Rockstars. Follow them on Twitter. Descriptions from Twitter.*
+* [Andres Almiray](https://twitter.com/aalmiray) - JSR377 Spec lead, Groovy aficionado, Griffon project lead, Basilisk project lead, Java Champion http://manning.com/almiray.
+* [Alessio Vinerbi](https://twitter.com/Alessio_Vinerbi) - Java and JavaFX Senior software engineer.
+* [Alexander Casall](https://twitter.com/sialcasa) - interested in JavaFX, iOS, Angular2 development and product ownership.
+* [Andreas Billmann](https://twitter.com/frosch95) - Java and JavaFX developer.
+* [Arnaud Nouard](https://twitter.com/In_SideFX) - Play JavaFX, Drums, Keyboard (those with black and white keys!) and with my Kids.
+* [Bernard Traversat](https://twitter.com/BTraTra) - Java Language, JVM, JavaScript, JDK, JavaFX, Swing/AWT - Sr. Eng Director, Java Platform Group, Oracle.
+* [Bertrand Goetzmann](https://twitter.com/bgoetzmann) - Java EE architect, fan of Groovy/Grails (trainer), JavaFX, Drupal and Ionic... .
 * [Carl Dea](https://twitter.com/carldea) - Book Author, Blogger, a wannabe GUI guy, JavaFX enthusiast, mobile phones, AI.( He is a Legend!)
+* [Christian Campo](https://twitter.com/christiancampo) - Committer in multiple Eclipse projects, interested in JavaFX and Cloud Storage.
+* [Danno Ferrin](https://twitter.com/shemnon) - Java, JavaFX, Gradle, Groovy, Co-founded Griffon.
+* [David Grieve](https://twitter.com/dsgrieve) - Member of the JavaFX development team at Oracle. Primarily responsible for JavaFX's CSS implementation.
+* [Dean Iverson](https://twitter.com/deanriverson) - JavaFX Author.
+* [Delorme Loïc](https://twitter.com/delormeloic26) - Junior Java SE/EE developer, UI and mobile application lover (JavaFX, #GluonHQ).
 * [Dirk Lemmermann](https://twitter.com/dlemmermann) - Senior Java SE / EE software engineer. UI Lover (Swing, JavaFX).
+* [Felix](https://twitter.com/DeveloperFelix) - Software Developer in Android,Java,JavaFx, Opendata junkie & IOT(Raspberry Pi).
 * [Gerrit Grunwald](https://twitter.com/hansolo_) - JUG Leader, Java Champion, JavaONE Rockstar, ❤️ Java(FX) and IoT, may the force be with you... (He is a Legend!)
+* [Hendrik Ebbers](https://twitter.com/hendrikEbbers) - JUG Dortmund Lead, Java Champion, JavaOne Rockstar, JavaFX book author, JSR EG member
+* [James Weaver](https://twitter.com/JavaFXpert) - Java/JavaFX/IoT developer, author and speaker.
+* [Jasper Potts](https://twitter.com/jasperpotts) - Developer on the JavaFX & Swing teams at Oracle. Working on the new JavaFX Applications, JavaFX UI Controls and Graphics frameworks.
+* [Jeanette Winzenburg](https://twitter.com/kleopatra_jx) - Java desktop consultant: old-time Swing/X enthusiast, grudging adopter of JavaFX.
+* [Jens Deters](https://twitter.com/Jerady) - JavaFX, MQTT_fx leader, FontAwesomeFX leader, IoT, docker, dcos, NetBeans Dream Team.
 * [Johan Vos](https://twitter.com/johanvos) - Java developer, Java Champion, co-founder at Gluon, CTO at LodgON, Using JavaFX and Glassfish, working on Gluon, Java EE, DataFX,... . (He is a Legend!)
-* [Michael Hoffer](https://twitter.com/mihosoft) - Computer Scientist, Mathematician, Software Developer, Artist. (He is a Legend!)
-* [Tom Schindl](https://twitter.com/tomsontom) - Eclipse Committer, [e(fx)clipse](http://www.efxclipse.org/) project lead and CTO at [BestSolution.at](http://bestsolution.at/en/index.html)
+* [Jonathan Giles](https://twitter.com/JonathanGiles) - UI Controls technical lead in JavaFX team @ Oracle.
 * [José Pereda](https://twitter.com/JPeredaDnr) - PhD, Structural Engineer, love coding, Java & JavaFX, JavaFXPorts, mobile apps, IoT. Software Engineer at http://gluonhq.com/ (He is a Legend!)
 * [Mark Heckler](https://twitter.com/MkHeck) - Developer Advocate for Pivotal.io. Computer scientist and JavaFX author.
-* [James Weaver](https://twitter.com/JavaFXpert) - Java/JavaFX/IoT developer, author and speaker.
-* [Andreas Billmann](https://twitter.com/frosch95) - Java and JavaFX developer.
-* [David Grieve](https://twitter.com/dsgrieve) - Member of the JavaFX development team at Oracle. Primarily responsible for JavaFX's CSS implementation.
 * [Michael Heinrichs](https://twitter.com/net0pyr) - Java, Web, JavaFX developer. Interested in agile development and public speaking.
-* [Jonathan Giles](https://twitter.com/JonathanGiles) - UI Controls technical lead in JavaFX team @ Oracle.
-* [Arnaud Nouard](https://twitter.com/In_SideFX) - Play JavaFX, Drums, Keyboard (those with black and white keys!) and with my Kids.
-* [Jeanette Winzenburg](https://twitter.com/kleopatra_jx) - Java desktop consultant: old-time Swing/X enthusiast, grudging adopter of JavaFX.
-* [Peter Pilgrim](https://twitter.com/peter_pilgrim) -  Java EE, JavaFX and Scala software developer.
-* [Thierry Wasylczenko](https://twitter.com/twasyl) - Java, JavaFX, Agile, Speaker, RebelLabs author, SlideshowFX leader.
-* [Christian Campo](https://twitter.com/christiancampo) - Committer in multiple Eclipse projects, interested in JavaFX and Cloud Storage.
-* [Hendrik Ebbers](https://twitter.com/hendrikEbbers) - JUG Dortmund Lead, Java Champion, JavaOne Rockstar, JavaFX book author, JSR EG member
-* [William Antônio](https://twitter.com/William_Antonio) - JBoss Support Enginner and JavaFX enthusiast. Java* Blogger.
-* [Bernard Traversat](https://twitter.com/BTraTra) - Java Language, JVM, JavaScript, JDK, JavaFX, Swing/AWT - Sr. Eng Director, Java Platform Group, Oracle.
-* [Weiqi Gao](https://twitter.com/weiqigao) - JavaFX Author
-* [Danno Ferrin](https://twitter.com/shemnon) - Java, JavaFX, Gradle, Groovy, Co-founded Griffon.
-* [Jasper Potts](https://twitter.com/jasperpotts) - Developer on the JavaFX & Swing teams at Oracle. Working on the new JavaFX Applications, JavaFX UI Controls and Graphics frameworks.
+* [Michael Hoffer](https://twitter.com/mihosoft) - Computer Scientist, Mathematician, Software Developer, Artist. (He is a Legend!)
 * [Mohamed Taman](https://twitter.com/_tamanm) - JCP, Java Champions, Hacker, Speaks Java, Enterprise Architect & Software Development Sr. Manager, Mobile/ Web Architect,international speaker, IoT Geek, Author.
-* [Felix](https://twitter.com/DeveloperFelix) - Software Developer in Android,Java,JavaFx, Opendata junkie & IOT(Raspberry Pi).
-* [Alexander Casall](https://twitter.com/sialcasa) - interested in JavaFX, iOS, Angular2 development and product ownership.
-* [Delorme Loïc](https://twitter.com/delormeloic26) - Junior Java SE/EE developer, UI and mobile application lover (JavaFX, #GluonHQ).
-* [Tobias Bley](https://twitter.com/tobibley) - Software Developer & graphic designer skills: java, jpro, JavaFX, Swing, JNI, JavaEE... .
-* [Alessio Vinerbi](https://twitter.com/Alessio_Vinerbi) - Java and JavaFX Senior software engineer.
-* [Bertrand Goetzmann](https://twitter.com/bgoetzmann) - Java EE architect, fan of Groovy/Grails (trainer), JavaFX, Drupal and Ionic... .
-* [Dean Iverson](https://twitter.com/deanriverson) - JavaFX Author.
-* [Sean Phillips](https://twitter.com/SeanMiPhillips) - NASA contractor. JavaFX, NetBeans Platform. Develops Deep Space Trajectory Design tools and also JavaFX author.
+* [Peter Pilgrim](https://twitter.com/peter_pilgrim) -  Java EE, JavaFX and Scala software developer.
 * [Peter Rogge](https://twitter.com/naoghuman) - Java, Java EE, JavaFX, NetBeans, NetBeans RCP, Creativity, Inspiration, Motivation.
-* [Jens Deters](https://twitter.com/Jerady) - JavaFX, MQTT_fx leader, FontAwesomeFX leader, IoT, docker, dcos, NetBeans Dream Team.
+* [Sean Phillips](https://twitter.com/SeanMiPhillips) - NASA contractor. JavaFX, NetBeans Platform. Develops Deep Space Trajectory Design tools and also JavaFX author.
 * [Stephen Chin](https://twitter.com/steveonjava) - JavaFX evangelist, author, speaker, and open-source hacker.
-* [Andres Almiray](https://twitter.com/aalmiray) - JSR377 Spec lead, Groovy aficionado, Griffon project lead, Basilisk project lead, Java Champion http://manning.com/almiray.
+* [Thierry Wasylczenko](https://twitter.com/twasyl) - Java, JavaFX, Agile, Speaker, RebelLabs author, SlideshowFX leader.
+* [Tobias Bley](https://twitter.com/tobibley) - Software Developer & graphic designer skills: java, jpro, JavaFX, Swing, JNI, JavaEE... .
+* [Tom Schindl](https://twitter.com/tomsontom) - Eclipse Committer, [e(fx)clipse](http://www.efxclipse.org/) project lead and CTO at [BestSolution.at](http://bestsolution.at/en/index.html)
+* [Weiqi Gao](https://twitter.com/weiqigao) - JavaFX Author
+* [William Antônio](https://twitter.com/William_Antonio) - JBoss Support Enginner and JavaFX enthusiast. Java* Blogger.
 
 ## Tutorials
 *Good online resources including free and paid courses to learn JavaFX.*
