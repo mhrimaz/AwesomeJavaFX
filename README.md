@@ -111,16 +111,16 @@ Deliver state-of-the-art applications with visually stunning UIs. Mastering Java
 Introducing JavaFX 8 Programming provides a fast-paced, practical introduction to JavaFX, Java's next-generation GUI programming framework. In this easy-to-read guide, best-selling author Herb Schildt presents the key topics and concepts you'll need to start developing modern, dynamic JavaFX GUI applications.
 
 ## Blogs and Sites
-- [FX Experience](http://fxexperience.com/) - FX Experience has been the premiere site for JavaFX code, posts, and insights since mid-2009, and readership continues to grow every month. You should absolutly follow their weekly links.
-- [JavaFX Daily](http://paper.li/net0pyr/1312275601) - JavaFX Daily Photos, Article and Links by [Michael Heinrichs](http://twitter.com/net0pyr)
-- [JPereda's Coding Blog](http://jperedadnr.blogspot.de/) - Outstanding Java/JavaFX Articles by [José Pereda](https://twitter.com/JPeredaDnr)
-- [Pixel Perfect](http://dlsc.com/blog/) - You can find good articles about java and specially JavaFX by [Dirk Lemmermann](https://twitter.com/dlemmermann)
-- [Harmonic Code](http://harmoniccode.blogspot.de/) - You should see how he's playing with JavaFX! by [Gerrit Grunwald](https://twitter.com/hansolo_)
-- [JavaFX Delight](http://www.jensd.de/wordpress/) - [Jens Deters](https://twitter.com/Jerady) blog about Java/JavaFX
-- [GUI Garage](http://www.guigarage.com/) - Open source UI stuff!
-- [Kware](http://www.kware.net/) - A blog about JavaFX by Christoph Keimel
 - [falkhausen.de](http://www.falkhausen.de/JavaFX/index.html) - Class diagrams for JavaFX by Markus Falkhausen
+- [FX Experience](http://fxexperience.com/) - FX Experience has been the premiere site for JavaFX code, posts, and insights since mid-2009, and readership continues to grow every month. You should absolutly follow their weekly links.
 - [FXAPss](http://fxapps.blogspot.com/) - A JavaFX blog.
+- [GUI Garage](http://www.guigarage.com/) - Open source UI stuff!
+- [Harmonic Code](http://harmoniccode.blogspot.de/) - You should see how he's playing with JavaFX! by [Gerrit Grunwald](https://twitter.com/hansolo_)
+- [JavaFX Daily](http://paper.li/net0pyr/1312275601) - JavaFX Daily Photos, Article and Links by [Michael Heinrichs](http://twitter.com/net0pyr)
+- [JavaFX Delight](http://www.jensd.de/wordpress/) - [Jens Deters](https://twitter.com/Jerady) blog about Java/JavaFX
+- [JPereda's Coding Blog](http://jperedadnr.blogspot.de/) - Outstanding Java/JavaFX Articles by [José Pereda](https://twitter.com/JPeredaDnr)
+- [Kware](http://www.kware.net/) - A blog about JavaFX by Christoph Keimel
+- [Pixel Perfect](http://dlsc.com/blog/) - You can find good articles about java and specially JavaFX by [Dirk Lemmermann](https://twitter.com/dlemmermann)
 
 ## People
 *These people share good stuff on their twitter accounts. Some of them are Legends, Champions and Rockstars. Follow them on Twitter. Descriptions from Twitter.*
