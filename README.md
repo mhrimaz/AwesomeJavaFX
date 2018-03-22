@@ -191,10 +191,10 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
   
 ## Slides
 *Useful slides from Slideshare*
-- [The JavaFX Ecosystem](http://www.slideshare.net/aalmiray/the-javafx-ecosystem-63538844). A collection of Open Source libraries for building JavaFX applications.
-- [The JavaFX Community and Ecosystem](http://www.slideshare.net/alexandercasall?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview). JavaOne talk about the Ecosystem in the year 2014.
-- [JavaFX Pitfalls](http://www.slideshare.net/alexandercasall/javafx-pitfalls). Tips and tricks regarding JavaFX.
 - [JavaFX 10 things I love about you](http://www.slideshare.net/alexandercasall/javafx-10-things-i-love-about-you). An Introduction to JavaFX.
+- [JavaFX Pitfalls](http://www.slideshare.net/alexandercasall/javafx-pitfalls). Tips and tricks regarding JavaFX.
+- [The JavaFX Community and Ecosystem](http://www.slideshare.net/alexandercasall?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview). JavaOne talk about the Ecosystem in the year 2014.
+- [The JavaFX Ecosystem](http://www.slideshare.net/aalmiray/the-javafx-ecosystem-63538844). A collection of Open Source libraries for building JavaFX applications.
 
 ## Articles
 *Interesting Articles about JavaFX*
