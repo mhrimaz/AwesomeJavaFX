@@ -90,14 +90,13 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
 
 ## Books
-- [Beginning Java 8 Games Development](http://www.apress.com/9781484204160) - By Wallace Jackson<br/>
-Beginning Java 8 Games Development, written by Java expert and author Wallace Jackson, teaches you the fundamentals of building a highly illustrative game using the Java 8 programming language. In this book, you'll employ open source software as tools to help you quickly and efficiently build your Java game applications.
+
 
 - [Introducing JavaFX 8 Programming](https://www.mhprofessional.com/details.php?isbn=0071842551) - By Herbert Schildt<br/>
 Introducing JavaFX 8 Programming provides a fast-paced, practical introduction to JavaFX, Java's next-generation GUI programming framework. In this easy-to-read guide, best-selling author Herb Schildt presents the key topics and concepts you'll need to start developing modern, dynamic JavaFX GUI applications.
 
-- [JavaFX 8: Introduction by Example](http://www.apress.com/9781430264606) - by [Carl Dea](https://twitter.com/carldea) , [Mark Heckler](https://twitter.com/MkHeck) , [Gerrit Grunwald](https://twitter.com/hansolo_) , [José Pereda](https://twitter.com/JPeredaDnr) , [Sean Phillips](https://twitter.com/SeanMiPhillips)<br/>
-JavaFX 8: Introduction by Example shows you how to use your existing Java skills to create graphically exciting client applications with the JavaFX 8 platform. The book is a new and much improved edition of JavaFX 2.0: Introduction by Example, taking you through a series of engaging, fun-to-work examples that bring you up to speed on the major facets of the platform. It will help you to create applications that look good, are fun to use, and that take advantage of the medium to present data of all types in ways that engage the user and lead to increased productivity.
+- [JavaFX 9 by Example](https://www.apress.com/gp/book/9781484219607) - by [Carl Dea](https://twitter.com/carldea) , [Mark Heckler](https://twitter.com/MkHeck) , [Gerrit Grunwald](https://twitter.com/hansolo_) , [José Pereda](https://twitter.com/JPeredaDnr) , [Sean Phillips](https://twitter.com/SeanMiPhillips)<br/>
+JavaFX 9 by Example is chock-full of engaging, fun-to-work examples that bring you up to speed on the major facets of JavaFX 9.
 
 - [JavaFX Essentials](https://www.packtpub.com/web-development/javafx-essentials) - By [Mohamed Taman](https://twitter.com/_tamanm)<br/>
 Create amazing Java GUI applications with this hands-on, fast-paced guide
@@ -108,8 +107,12 @@ Start developing rich-client desktop applications using your Java skills. Learn 
 - [Mastering JavaFX 8 Controls](https://www.mhprofessional.com/details.php?isbn=0071833773) - By [Hendrik Ebbers](https://twitter.com/hendrikEbbers)<br/>
 Deliver state-of-the-art applications with visually stunning UIs. Mastering JavaFX 8 Controls provides clear instructions, detailed examples, and ready-to-use code samples. Find out how to work with the latest JavaFX APIs, configure UI components, automatically generate FXML, build cutting-edge controls, and effectively apply CSS styling. Troubleshooting, tuning, and deployment are also covered in this Oracle Press guide.
 
-- [Pro JavaFX 8 A Definitive Guide to Building Desktop, Mobile, and Embedded Java Clients](http://www.apress.com/9781430265740) - By [Johan Vos](https://twitter.com/johanvos) , [Weiqi Gao](https://twitter.com/weiqigao) , [James Weaver](https://twitter.com/JavaFXpert) , [Stephen Chin](https://twitter.com/steveonjava) , [Dean Iverson](https://twitter.com/deanriverson)<br/>
-In Pro JavaFX 8 expert authors show you how to use the JavaFX platform to create rich-client Java applications. You'll discover how you can use this powerful Java-based UI platform, which is capable of handling large-scale data-driven business applications for PC as well as now mobile and embedded devices.
+- [Pro Java 9 Games Development Leveraging the JavaFX APIs](https://www.apress.com/gp/book/9781484209745) - By Wallace Jackson<br/>
+Use Java 9 and JavaFX 9 to write 3D games for the latest consumer electronics devices. 
+
+- [Pro JavaFX 9 A Definitive Guide to Building Desktop, Mobile, and Embedded Java Clients](https://www.apress.com/gp/book/9781484230411) - By [Johan Vos](https://twitter.com/johanvos) , [Weiqi Gao](https://twitter.com/weiqigao) , [James Weaver](https://twitter.com/JavaFXpert) , [Stephen Chin](https://twitter.com/steveonjava) , [Dean Iverson](https://twitter.com/deanriverson)<br/>
+The expert authors cover the new more modular JavaFX 9 APIs, development tools, and best practices and provide code examples that explore the exciting new features provided with JavaFX 9, part of Oracle's new Java 9 release.
+
 
 ## Blogs and Sites
 - [falkhausen.de](http://www.falkhausen.de/JavaFX/index.html) - Class diagrams for JavaFX by Markus Falkhausen
