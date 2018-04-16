@@ -35,6 +35,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [FontAwesomeFX](https://bitbucket.org/Jerady/fontawesomefx) - FontAwesome in JavaFX with FontAwesomeFX
 - [FXForm2](https://github.com/dooApp/FXForm2) - A library providing automatic JavaFX form generation. The generated form is highly configurable and skinnable using code, annotations and CSS styling. FXForm2 is compatible with the JSR 303 for bean validation.
 - [FXGraphics2D](https://github.com/jfree/fxgraphics2d) - A library that provides a Graphics2D API for drawing on the JavaFX Canvas so that existing Java2D code can be reused easily.  This library was created to provide JavaFX support for JFreeChart.
+- [FXParallax](https://github.com/dukke/FXParallax) - Parallax framework for Java (JavaFX)
 - [FXyz](https://github.com/Birdasaur/FXyz) - F(X)yz is a new JavaFX 3D library that provides additional primitives, composite objects, controls and data visualizations that the base JavaFX 8 3D packages do not have.
 - [GestureFX](https://github.com/tom91136/GestureFX) - A lightweight pinch-to-zoom pane for JavaFX
 - [Gluon Maps](http://gluonhq.com/labs/maps/) - Gluon Maps is built with high performance in mind, but that doesn’t mean functionality is missing. Gluon Maps offers layer overlays, multiple tilesets, and much more.
