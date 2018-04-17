@@ -130,7 +130,7 @@ The expert authors cover the new more modular JavaFX 9 APIs, development tools, 
 - [JavaFX Delight](http://www.jensd.de/wordpress/) - [Jens Deters](https://twitter.com/Jerady) blog about Java/JavaFX
 - [JPereda's Coding Blog](http://jperedadnr.blogspot.de/) - Outstanding Java/JavaFX Articles by [José Pereda](https://twitter.com/JPeredaDnr)
 - [Kware](http://www.kware.net/) - A blog about JavaFX by Christoph Keimel
-- (Pixel Duke)[https://wwww.pixelduke.com] - Articles about front end development, user interface design, several on JavaFX from someone who has worked with JavaFX since its first beta release, for example, he was the author of a component that allowed Swing and JavaFX interoperability when that was still not possible. His (twitter account)[https://twitter.com/P_Duke].
+- [Pixel Duke](https://wwww.pixelduke.com) - Articles about front end development, user interface design, several on JavaFX from someone who has worked with JavaFX since its first beta release, for example, he was the author of a component that allowed Swing and JavaFX interoperability when that was still not possible. The blog owner is [Pedro Duque Vieira](https://twitter.com/P_Duke).
 - [Pixel Perfect](http://dlsc.com/blog/) - You can find good articles about java and specially JavaFX by [Dirk Lemmermann](https://twitter.com/dlemmermann)
 
 ## People
@@ -163,7 +163,7 @@ The expert authors cover the new more modular JavaFX 9 APIs, development tools, 
 * [Michael Heinrichs](https://twitter.com/net0pyr) - Java, Web, JavaFX developer. Interested in agile development and public speaking.
 * [Michael Hoffer](https://twitter.com/mihosoft) - Computer Scientist, Mathematician, Software Developer, Artist. (He is a Legend!)
 * [Mohamed Taman](https://twitter.com/_tamanm) - JCP, Java Champions, Hacker, Speaks Java, Enterprise Architect & Software Development Sr. Manager, Mobile/ Web Architect,international speaker, IoT Geek, Author.
-* [Pedro Duque Vieira](https://www.pixelduke.com) - Freelancer, Consultant, Software Engineer, Software Designer and Entrepreneur specialized in user interfaces, contributor to open source.
+* [Pedro Duque Vieira](https://www.pixelduke.com) - Freelancer, Consultant, Software Engineer, Software Designer and Entrepreneur specialized in user interfaces, contributor to open source. Owner of Pixel Duke a software consultancy company specialized in front end development.
 * [Peter Pilgrim](https://twitter.com/peter_pilgrim) -  Java EE, JavaFX and Scala software developer.
 * [Peter Rogge](https://twitter.com/naoghuman) - Java, Java EE, JavaFX, NetBeans, NetBeans RCP, Creativity, Inspiration, Motivation.
 * [Sean Phillips](https://twitter.com/SeanMiPhillips) - NASA contractor. JavaFX, NetBeans Platform. Develops Deep Space Trajectory Design tools and also JavaFX author.
