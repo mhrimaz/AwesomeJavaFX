@@ -35,7 +35,9 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [FontAwesomeFX](https://bitbucket.org/Jerady/fontawesomefx) - FontAwesome in JavaFX with FontAwesomeFX
 - [FXForm2](https://github.com/dooApp/FXForm2) - A library providing automatic JavaFX form generation. The generated form is highly configurable and skinnable using code, annotations and CSS styling. FXForm2 is compatible with the JSR 303 for bean validation.
 - [FXGraphics2D](https://github.com/jfree/fxgraphics2d) - A library that provides a Graphics2D API for drawing on the JavaFX Canvas so that existing Java2D code can be reused easily.  This library was created to provide JavaFX support for JFreeChart.
-- [FXParallax](https://github.com/dukke/FXParallax) - Parallax framework for Java (JavaFX)
+- [FXParallax](https://github.com/dukke/FXParallax) - Parallax framework for Java (JavaFX).
+- [FXRibbon](https://github.com/dukke/FXRibbon) - Microsoft like Ribbon control for Java (JavaFX).
+- [FXValidation](https://github.com/dukke/FXValidation) - Validation support for Java (JavaFX).
 - [FXyz](https://github.com/Birdasaur/FXyz) - F(X)yz is a new JavaFX 3D library that provides additional primitives, composite objects, controls and data visualizations that the base JavaFX 8 3D packages do not have.
 - [GestureFX](https://github.com/tom91136/GestureFX) - A lightweight pinch-to-zoom pane for JavaFX
 - [Gluon Maps](http://gluonhq.com/labs/maps/) - Gluon Maps is built with high performance in mind, but that doesn’t mean functionality is missing. Gluon Maps offers layer overlays, multiple tilesets, and much more.
@@ -49,6 +51,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [JFXScad](https://github.com/miho/JFXScad) - JavaFX 3D Printing IDE based on JCSG.
 - [JFXtras](http://jfxtras.org/) - A supporting library for JavaFX, containing helper classes, extended layouts, controls and other interesting widgets.
 - [JideFX](https://github.com/jidesoft/jidefx-oss)- JideFX Common Layer is a collection of various extensions and utilities for to JavaFX platform. The JideFX Common Layer is the equivalent to the JIDE Common Layer in the JIDE components for Swing.
+- [JMetro](https://www.pixelduke.com/jmetro) - Modern theme (or look and feel) for JavaFX inspired by Microsoft Metro / Fluent Design.
 - [jpro](http://www.jpro.io) - JavaFX for the Browser. jpro is a new technology which brings Java back into the browser - without Java Plugin.
 - [JSilhouette](https://github.com/aalmiray/jsilhouette) - JSilhouette provides additional shapes for Java applications.
 - [Lib-Tile](https://github.com/Naoghuman/lib-tile) - Lib-Tile is a multi Maven project written in JavaFX and NetBeans IDE 8.0.2 and provides the functionalities to use and handle easily Tiles in your JavaFX application.
@@ -69,6 +72,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [TestFX](https://github.com/TestFX/TestFX) - Simple and clean testing for JavaFX.
 - [TestFX-dsl](https://github.com/aalmiray/testfx-dsl/) - Java friendly DSL for defining TestFX tests.
 - [TuioFX](http://tuiofx.org/) - Toolkit for developing multi-touch, multi-user interactive tabletops and surfaces.
+- [Toggle Switch](https://www.pixelduke.com/projects#toggle-switch) - Toggle Switch control for Java (JavaFX)
 - [UndoFX](https://github.com/TomasMikula/UndoFX) - Undo manager for JavaFX.
 - [WellBehavedFX](https://github.com/TomasMikula/WellBehavedFX) - Composable event handlers and skin scaffolding for JavaFX controls.
 - [VWorkflows](https://github.com/miho/VWorkflows) - Interactive flow/graph visualization for building domain specific visual programming environments. Provides UI bindings for JavaFX.
@@ -126,6 +130,7 @@ The expert authors cover the new more modular JavaFX 9 APIs, development tools, 
 - [JavaFX Delight](http://www.jensd.de/wordpress/) - [Jens Deters](https://twitter.com/Jerady) blog about Java/JavaFX
 - [JPereda's Coding Blog](http://jperedadnr.blogspot.de/) - Outstanding Java/JavaFX Articles by [José Pereda](https://twitter.com/JPeredaDnr)
 - [Kware](http://www.kware.net/) - A blog about JavaFX by Christoph Keimel
+- (Pixel Duke)[https://wwww.pixelduke.com] - Articles about front end development, user interface design, several on JavaFX from someone who has worked with JavaFX since its first beta release, for example, he was the author of a component that allowed Swing and JavaFX interoperability when that was still not possible. His (twitter account)[https://twitter.com/P_Duke].
 - [Pixel Perfect](http://dlsc.com/blog/) - You can find good articles about java and specially JavaFX by [Dirk Lemmermann](https://twitter.com/dlemmermann)
 
 ## People
@@ -158,6 +163,7 @@ The expert authors cover the new more modular JavaFX 9 APIs, development tools, 
 * [Michael Heinrichs](https://twitter.com/net0pyr) - Java, Web, JavaFX developer. Interested in agile development and public speaking.
 * [Michael Hoffer](https://twitter.com/mihosoft) - Computer Scientist, Mathematician, Software Developer, Artist. (He is a Legend!)
 * [Mohamed Taman](https://twitter.com/_tamanm) - JCP, Java Champions, Hacker, Speaks Java, Enterprise Architect & Software Development Sr. Manager, Mobile/ Web Architect,international speaker, IoT Geek, Author.
+* [Pedro Duque Vieira](https://www.pixelduke.com) - Freelancer, Consultant, Software Engineer, Software Designer and Entrepreneur specialized in user interfaces, contributor to open source.
 * [Peter Pilgrim](https://twitter.com/peter_pilgrim) -  Java EE, JavaFX and Scala software developer.
 * [Peter Rogge](https://twitter.com/naoghuman) - Java, Java EE, JavaFX, NetBeans, NetBeans RCP, Creativity, Inspiration, Motivation.
 * [Sean Phillips](https://twitter.com/SeanMiPhillips) - NASA contractor. JavaFX, NetBeans Platform. Develops Deep Space Trajectory Design tools and also JavaFX author.
@@ -217,6 +223,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [AsciidocFX](http://asciidocfx.com/) - Asciidoc FX is a book/document editor to build PDF, Epub, Mobi and HTML books, documents and slides. AsciidocFX is also a winner of [Duke’s Choice Award 2015](https://www.oracle.com/corporate/pressrelease/dukes-award-102815.html).
 - [FXDesktopSearch](https://github.com/mirkosertic/FXDesktopSearch) - FXDesktopSearch is a Java and JavaFX based Desktop Search Application. It crawls a configured set of directories and allows you to do fulltext search with different languages support on the content.
 - [JStackFX](https://github.com/twasyl/jstackfx) - It is not an easy task to analyse thread dumps as files generated by the jstack tool provides raw text files. JStackFX will help you to do that with a nice FX GUI.
+- [Modellus](https://www.pixelduke.com/projects#modellus) - Modellus is a freely available Swing and JavaFX app.  It was the first application to integrate both Swing and JavaFX together in a single app (back then using a custom made solution - JXScene - not available at the time).  It is used all over the world and in several published scientific papers. Samples range from Physics to Mathematics, going through Mechanics, Chemistry, Statistics, Algebra, Geometry, among others.
 - [Musicott](http://octaviospain.github.io/Musicott/) - Musicott is an application that manages and plays music files. Coded in Java 8 with JavaFX.
 - [PDFsam Basic](https://pdfsam.org/) - PDFsam Basic is an opensource JavaFX application to merge, split, extract pages, rotate and mix PDF files.
 - [SkedPal](https://www.skedpal.com/) - SkedPal™ combines the best elements of creativity and structure to optimize your time and productivity.
