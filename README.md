@@ -45,6 +45,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [GMapFX](http://rterp.github.io/GMapsFX/) - GMapsFX provides a wrapper to the Google Map's Javascript API, allowing you to use and interact with maps using a pure Java API.
 - [Grid](https://github.com/lestard/Grid) - A Component for grid based games like sudoku or chess.
 - [Ikonli](http://aalmiray.github.io/ikonli/) - Ikonli provides icon packs that can be used in Java applications. Currently Swing and JavaFX UI toolkits are supported.
+- [JavaFX DataViewer](https://github.com/jasrodis/javafx-dataviewer-wrapper) - JavaFX Charts library. Create Charts in JavaFX using the plotly.js library.
 - [JavaFXPorts](http://gluonhq.com/labs/javafxports/) - JavaFXPorts is the open source project that brings Java and JavaFX to mobile and embedded hardware, including iPhone, iPad, Android devices, and the Raspberry Pi.
 - [JCSG](https://github.com/miho/JCSG) - Java implementation of BSP based CSG (Constructive Solid Geometry)
 - [JFoenix](http://www.jfoenix.com/) - JavaFX Material Design Library. JFoenix is an open source Java library, that implements Google Material Design using Java components.
@@ -78,6 +79,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [VWorkflows](https://github.com/miho/VWorkflows) - Interactive flow/graph visualization for building domain specific visual programming environments. Provides UI bindings for JavaFX.
 - [TilesFX](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles for Dashboards.
 - [Undecorator](https://github.com/in-sideFX/Undecorator) - Decorate undecorated JavaFX stages with custom skin. This helper brings a nustom look to your JavaFX stages.
+
 
 ## Frameworks
 - [afterburner.fx](http://afterburner.adam-bien.com/) - afterburner.fx is a minimalistic (3 classes) JavaFX MVP framework based on Convention over Configuration and Dependency Injection.
