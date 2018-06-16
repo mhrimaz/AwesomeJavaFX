@@ -79,7 +79,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [VWorkflows](https://github.com/miho/VWorkflows) - Interactive flow/graph visualization for building domain specific visual programming environments. Provides UI bindings for JavaFX.
 - [TilesFX](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles for Dashboards.
 - [Undecorator](https://github.com/in-sideFX/Undecorator) - Decorate undecorated JavaFX stages with custom skin. This helper brings a nustom look to your JavaFX stages.
-
+- [AnimateFX](https://github.com/Typhon0/AnimateFX) - A JavaFX library containing ready-to-use animations.
 
 ## Frameworks
 - [afterburner.fx](http://afterburner.adam-bien.com/) - afterburner.fx is a minimalistic (3 classes) JavaFX MVP framework based on Convention over Configuration and Dependency Injection.
