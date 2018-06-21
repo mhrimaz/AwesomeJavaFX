@@ -132,7 +132,7 @@ The expert authors cover the new more modular JavaFX 9 APIs, development tools, 
 - [JavaFX Delight](http://www.jensd.de/wordpress/) - [Jens Deters](https://twitter.com/Jerady) blog about Java/JavaFX
 - [JPereda's Coding Blog](http://jperedadnr.blogspot.de/) - Outstanding Java/JavaFX Articles by [José Pereda](https://twitter.com/JPeredaDnr)
 - [Kware](http://www.kware.net/) - A blog about JavaFX by Christoph Keimel
-- [Pixel Duke](https://wwww.pixelduke.com) - Several articles on JavaFX from someone who has worked with JavaFX since its first beta release, for example, he was the author of a component that allowed Swing and JavaFX interoperability in the first versions of JavaFX when that was still not possible. The blog owner is a [JavaFX and Swing Freelancer and Consultant or more generally a Front End Freelancer and Consultant](http://www.pixelduke.com) who's also a Software Designer.
+- [Pixel Duke](https://wwww.pixelduke.com) - Several articles on JavaFX from someone who has worked with JavaFX since its first beta release, for example, he was the author of a component that allowed Swing and JavaFX interoperability in the first versions of JavaFX when that was still not possible. The blog owner is a [JavaFX and Swing Freelancer and Consultant](http://www.pixelduke.com) or more generally a Front End Freelancer and Consultant who's also a Software Designer.
 - [Pixel Perfect](http://dlsc.com/blog/) - You can find good articles about java and specially JavaFX by [Dirk Lemmermann](https://twitter.com/dlemmermann)
 
 ## People
