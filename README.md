@@ -53,7 +53,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [JFXtras](http://jfxtras.org/) - A supporting library for JavaFX, containing helper classes, extended layouts, controls and other interesting widgets.
 - [JideFX](https://github.com/jidesoft/jidefx-oss)- JideFX Common Layer is a collection of various extensions and utilities for to JavaFX platform. The JideFX Common Layer is the equivalent to the JIDE Common Layer in the JIDE components for Swing.
 - [JMetro](https://www.pixelduke.com/jmetro) - Modern theme (or look and feel) for JavaFX inspired by Microsoft Metro / Fluent Design System. It is used for instance in NASA's app: [Deep Space Trajectory Explorer](https://www.youtube.com/watch?v=MotQ1PC1xT8).
-- [jpro](http://www.jpro.io) - JavaFX for the Browser. jpro is a new technology which brings Java back into the browser - without Java Plugin.
+- [jpro](https://www.jpro.one/) - JavaFX for the Browser. jpro is a new technology which brings Java back into the browser - without Java Plugin.
 - [JSilhouette](https://github.com/aalmiray/jsilhouette) - JSilhouette provides additional shapes for Java applications.
 - [Lib-Tile](https://github.com/Naoghuman/lib-tile) - Lib-Tile is a multi Maven project written in JavaFX and NetBeans IDE 8.0.2 and provides the functionalities to use and handle easily Tiles in your JavaFX application.
 - [LiveDirsFX](https://github.com/TomasMikula/LiveDirsFX) - Directory tree model for JavaFX that watches the filesystem for changes.
@@ -132,7 +132,7 @@ The expert authors cover the new more modular JavaFX 9 APIs, development tools, 
 - [JavaFX Delight](http://www.jensd.de/wordpress/) - [Jens Deters](https://twitter.com/Jerady) blog about Java/JavaFX
 - [JPereda's Coding Blog](http://jperedadnr.blogspot.de/) - Outstanding Java/JavaFX Articles by [José Pereda](https://twitter.com/JPeredaDnr)
 - [Kware](http://www.kware.net/) - A blog about JavaFX by Christoph Keimel
-- [Pixel Duke](https://wwww.pixelduke.com) - Several articles on JavaFX from someone who has worked with JavaFX since its first beta release, for example, he was the author of a component that allowed Swing and JavaFX interoperability in the first versions of JavaFX when that was still not possible. The blog owner is a [JavaFX and Swing Freelancer and Consultant](http://www.pixelduke.com) or more generally a Front End Freelancer and Consultant who's also a Software Designer.
+- [Pixel Duke](https://www.pixelduke.com) - Several articles on JavaFX from someone who has worked with JavaFX since its first beta release, for example, he was the author of a component that allowed Swing and JavaFX interoperability in the first versions of JavaFX when that was still not possible. The blog owner is a [JavaFX and Swing Freelancer and Consultant](http://www.pixelduke.com) or more generally a Front End Freelancer and Consultant who's also a Software Designer.
 - [Pixel Perfect](http://dlsc.com/blog/) - You can find good articles about java and specially JavaFX by [Dirk Lemmermann](https://twitter.com/dlemmermann)
 
 ## People
