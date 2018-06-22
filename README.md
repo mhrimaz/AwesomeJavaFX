@@ -78,7 +78,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [WellBehavedFX](https://github.com/TomasMikula/WellBehavedFX) - Composable event handlers and skin scaffolding for JavaFX controls.
 - [VWorkflows](https://github.com/miho/VWorkflows) - Interactive flow/graph visualization for building domain specific visual programming environments. Provides UI bindings for JavaFX.
 - [TilesFX](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles for Dashboards.
-- [Undecorator](https://github.com/in-sideFX/Undecorator) - Decorate undecorated JavaFX stages with custom skin. This helper brings a nustom look to your JavaFX stages.
+- [Undecorator](https://github.com/in-sideFX/Undecorator) - Decorate undecorated JavaFX stages with custom skin. This helper brings a custom look to your JavaFX stages.
 
 
 ## Frameworks
