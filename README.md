@@ -52,7 +52,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [JFXScad](https://github.com/miho/JFXScad) - JavaFX 3D Printing IDE based on JCSG.
 - [JFXtras](http://jfxtras.org/) - A supporting library for JavaFX, containing helper classes, extended layouts, controls and other interesting widgets.
 - [JideFX](https://github.com/jidesoft/jidefx-oss)- JideFX Common Layer is a collection of various extensions and utilities for to JavaFX platform. The JideFX Common Layer is the equivalent to the JIDE Common Layer in the JIDE components for Swing.
-- [JMetro](https://www.pixelduke.com/jmetro) - Modern theme (or look and feel) for JavaFX inspired by Microsoft Metro / Fluent Design.
+- [JMetro](https://www.pixelduke.com/jmetro) - Modern theme (or look and feel) for JavaFX inspired by Microsoft Metro / Fluent Design System. It is used for instance in NASA's app: [Deep Space Trajectory Explorer](https://www.youtube.com/watch?v=MotQ1PC1xT8).
 - [jpro](http://www.jpro.io) - JavaFX for the Browser. jpro is a new technology which brings Java back into the browser - without Java Plugin.
 - [JSilhouette](https://github.com/aalmiray/jsilhouette) - JSilhouette provides additional shapes for Java applications.
 - [Lib-Tile](https://github.com/Naoghuman/lib-tile) - Lib-Tile is a multi Maven project written in JavaFX and NetBeans IDE 8.0.2 and provides the functionalities to use and handle easily Tiles in your JavaFX application.
@@ -132,7 +132,7 @@ The expert authors cover the new more modular JavaFX 9 APIs, development tools, 
 - [JavaFX Delight](http://www.jensd.de/wordpress/) - [Jens Deters](https://twitter.com/Jerady) blog about Java/JavaFX
 - [JPereda's Coding Blog](http://jperedadnr.blogspot.de/) - Outstanding Java/JavaFX Articles by [José Pereda](https://twitter.com/JPeredaDnr)
 - [Kware](http://www.kware.net/) - A blog about JavaFX by Christoph Keimel
-- [Pixel Duke](https://wwww.pixelduke.com) - Articles about front end development, user interface design, several on JavaFX from someone who has worked with JavaFX since its first beta release, for example, he was the author of a component that allowed Swing and JavaFX interoperability when that was still not possible. The blog owner is [Pedro Duque Vieira](https://twitter.com/P_Duke).
+- [Pixel Duke](https://wwww.pixelduke.com) - Several articles on JavaFX from someone who has worked with JavaFX since its first beta release, for example, he was the author of a component that allowed Swing and JavaFX interoperability in the first versions of JavaFX when that was still not possible. The blog owner is a [JavaFX and Swing Freelancer and Consultant](http://www.pixelduke.com) or more generally a Front End Freelancer and Consultant who's also a Software Designer.
 - [Pixel Perfect](http://dlsc.com/blog/) - You can find good articles about java and specially JavaFX by [Dirk Lemmermann](https://twitter.com/dlemmermann)
 
 ## People
@@ -165,7 +165,7 @@ The expert authors cover the new more modular JavaFX 9 APIs, development tools, 
 * [Michael Heinrichs](https://twitter.com/net0pyr) - Java, Web, JavaFX developer. Interested in agile development and public speaking.
 * [Michael Hoffer](https://twitter.com/mihosoft) - Computer Scientist, Mathematician, Software Developer, Artist. (He is a Legend!)
 * [Mohamed Taman](https://twitter.com/_tamanm) - JCP, Java Champions, Hacker, Speaks Java, Enterprise Architect & Software Development Sr. Manager, Mobile/ Web Architect,international speaker, IoT Geek, Author.
-* [Pedro Duque Vieira](https://www.pixelduke.com) - Freelancer, Consultant, Software Engineer, Software Designer and Entrepreneur specialized in user interfaces, contributor to open source. Owner of Pixel Duke a software consultancy company specialized in front end development.
+* [Pedro Duque Vieira](https://www.pixelduke.com) - JavaFX and Swing Freelancer and Consultant or more generally a Front End Freelancer, Consultant and Software Designer specialized in user interfaces, contributor to open source. Owner of [Pixel Duke a JavaFX, Swing and Front End consultancy company](http://www.pixelduke.com).
 * [Peter Pilgrim](https://twitter.com/peter_pilgrim) -  Java EE, JavaFX and Scala software developer.
 * [Peter Rogge](https://twitter.com/naoghuman) - Java, Java EE, JavaFX, NetBeans, NetBeans RCP, Creativity, Inspiration, Motivation.
 * [Sean Phillips](https://twitter.com/SeanMiPhillips) - NASA contractor. JavaFX, NetBeans Platform. Develops Deep Space Trajectory Design tools and also JavaFX author.
@@ -223,9 +223,10 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 *Real World Examples of JavaFX and Applications*
 - [20 real world examples on JAXenter](https://jaxenter.com/20-javafx-real-world-applications-123653.html)
 - [AsciidocFX](http://asciidocfx.com/) - Asciidoc FX is a book/document editor to build PDF, Epub, Mobi and HTML books, documents and slides. AsciidocFX is also a winner of [Duke’s Choice Award 2015](https://www.oracle.com/corporate/pressrelease/dukes-award-102815.html).
+- [Deep Space Trajectory Explorer](https://www.youtube.com/watch?v=MotQ1PC1xT8) - This is an application used by NASA. This tool allows a trajectory designer to identify, compare and export deep space 3 body system trajectories.
 - [FXDesktopSearch](https://github.com/mirkosertic/FXDesktopSearch) - FXDesktopSearch is a Java and JavaFX based Desktop Search Application. It crawls a configured set of directories and allows you to do fulltext search with different languages support on the content.
 - [JStackFX](https://github.com/twasyl/jstackfx) - It is not an easy task to analyse thread dumps as files generated by the jstack tool provides raw text files. JStackFX will help you to do that with a nice FX GUI.
-- [Modellus](https://www.pixelduke.com/projects#modellus) - Modellus is a freely available Swing and JavaFX app.  It was the first application to integrate both Swing and JavaFX together in a single app (back then using a custom made solution - JXScene - not available at the time).  It is used all over the world and in several published scientific papers. Samples range from Physics to Mathematics, going through Mechanics, Chemistry, Statistics, Algebra, Geometry, among others.
+- [Modellus](https://www.pixelduke.com/projects#modellus) - Modellus is a freely available Swing and JavaFX app.  It was the first application to integrate both Swing and JavaFX together in a single app (back then using a custom made solution - JXScene - not available at the time).  It is used all over the world, specially in High School and Universities, and has appeared in several published scientific papers. Samples range from Physics to Mathematics, going through Mechanics, Chemistry, Statistics, Algebra, Geometry, among others.
 - [Musicott](http://octaviospain.github.io/Musicott/) - Musicott is an application that manages and plays music files. Coded in Java 8 with JavaFX.
 - [PDFsam Basic](https://pdfsam.org/) - PDFsam Basic is an opensource JavaFX application to merge, split, extract pages, rotate and mix PDF files.
 - [SkedPal](https://www.skedpal.com/) - SkedPal™ combines the best elements of creativity and structure to optimize your time and productivity.
