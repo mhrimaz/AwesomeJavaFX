@@ -29,6 +29,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [ControlsFX](http://fxexperience.com/controlsfx/) - ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls and other tools to complement the core JavaFX distribution.
 - [CssFX](https://github.com/McFoggy/cssfx) - Enhances developper productivity by providing JavaFX CSS reloading functionnality in a running application. Usable as standalone library or integrated in [Scenic View](#ScenicView).
 - [CustomStage](https://github.com/Oshan96/CustomStage) - CustomStage is a fully customizable Undecorated JavaFX stage (window) with amazing features.
+- [DesktopPaneFX](https://github.com/aalmiray/desktoppanefx) - MDI components for JavaFX. Think JDesktopPane/JInternalFrame for JavaFX.
 - [e(fx)clipse](http://www.efxclipse.org/) - JavaFX Tooling and Runtime for Eclipse and OSGi 
 - [FlexBoxFX](https://github.com/UltraMixer/FlexBoxFX) - FlexBoxFX is a JavaFX implementation of CSS3 flexbox layout manager.
 - [FlexGanttFX](http://dlsc.com/products/flexganttfx/) - FlexGanttFX is the most advanced JavaFX-based Gantt charting framework currently available for Java.
