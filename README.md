@@ -34,6 +34,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [FlexGanttFX](http://dlsc.com/products/flexganttfx/) - FlexGanttFX is the most advanced JavaFX-based Gantt charting framework currently available for Java.
 - [Flowless](https://github.com/TomasMikula/Flowless) - Efficient VirtualFlow for JavaFX.
 - [FontAwesomeFX](https://bitbucket.org/Jerady/fontawesomefx) - FontAwesome in JavaFX with FontAwesomeFX
+- [FX-BorderlessScene](https://github.com/goxr3plus/FX-BorderlessScene) - Undecorated JavaFX Scene with implemented move, resize, minimise, maximise, close and Windows Aero Snap controls.
 - [FXForm2](https://github.com/dooApp/FXForm2) - A library providing automatic JavaFX form generation. The generated form is highly configurable and skinnable using code, annotations and CSS styling. FXForm2 is compatible with the JSR 303 for bean validation.
 - [FXGraphics2D](https://github.com/jfree/fxgraphics2d) - A library that provides a Graphics2D API for drawing on the JavaFX Canvas so that existing Java2D code can be reused easily.  This library was created to provide JavaFX support for JFreeChart.
 - [FXParallax](https://github.com/dukke/FXParallax) - Parallax framework for Java (JavaFX).
@@ -80,6 +81,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [VWorkflows](https://github.com/miho/VWorkflows) - Interactive flow/graph visualization for building domain specific visual programming environments. Provides UI bindings for JavaFX.
 - [TilesFX](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles for Dashboards.
 - [Undecorator](https://github.com/in-sideFX/Undecorator) - Decorate undecorated JavaFX stages with custom skin. This helper brings a custom look to your JavaFX stages.
+
 
 
 ## Frameworks
