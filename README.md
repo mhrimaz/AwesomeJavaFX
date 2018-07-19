@@ -101,6 +101,8 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [ReduxFX](https://github.com/netopyr/reduxfx) - Functional Reactive Programming (FRP) for JavaFX inspired by the JavaScript library Redux.js
 - [ScalaFX](http://www.scalafx.org/) - simplifies creation of JavaFX-based user interfaces in Scala
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
+- [EasyFXML](https://github.com/Tristan971/EasyFXML) - EasyFXML is a fully-featured opinionated JavaFX framework based 
+on Vavr and Spring Boot which manages most of the annoying boilerplate that comes with JavaFX. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Books
 
