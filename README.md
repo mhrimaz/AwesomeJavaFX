@@ -49,6 +49,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [Grid](https://github.com/lestard/Grid) - A Component for grid based games like sudoku or chess.
 - [Ikonli](http://aalmiray.github.io/ikonli/) - Ikonli provides icon packs that can be used in Java applications. Currently Swing and JavaFX UI toolkits are supported.
 - [JavaFX DataViewer](https://github.com/jasrodis/javafx-dataviewer-wrapper) - JavaFX Charts library. Create Charts in JavaFX using the plotly.js library.
+- [javafx-d3](https://github.com/stefaneidelloth/javafx-d3) - javafx-d3 provides a Java API for using the JavaScript library d3.js with JavaFx Applications.
 - [JavaFXPorts](http://gluonhq.com/labs/javafxports/) - JavaFXPorts is the open source project that brings Java and JavaFX to mobile and embedded hardware, including iPhone, iPad, Android devices, and the Raspberry Pi.
 - [JCSG](https://github.com/miho/JCSG) - Java implementation of BSP based CSG (Constructive Solid Geometry)
 - [JFoenix](http://www.jfoenix.com/) - JavaFX Material Design Library. JFoenix is an open source Java library, that implements Google Material Design using Java components.
