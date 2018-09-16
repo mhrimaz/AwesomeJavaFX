@@ -105,6 +105,7 @@ on Vavr and Spring Boot which manages most of the annoying boilerplate that come
 - [ReduxFX](https://github.com/netopyr/reduxfx) - Functional Reactive Programming (FRP) for JavaFX inspired by the JavaScript library Redux.js
 - [ScalaFX](http://www.scalafx.org/) - simplifies creation of JavaFX-based user interfaces in Scala
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
+- [WorkbenchFX](https://github.com/dlemmermann/WorkbenchFX) - A lightweight RCP framework for JavaFX applications.
 
 ## Books
 
