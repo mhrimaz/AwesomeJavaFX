@@ -54,6 +54,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [JavaFXPorts](http://gluonhq.com/labs/javafxports/) - JavaFXPorts is the open source project that brings Java and JavaFX to mobile and embedded hardware, including iPhone, iPad, Android devices, and the Raspberry Pi.
 - [JCSG](https://github.com/miho/JCSG) - Java implementation of BSP based CSG (Constructive Solid Geometry)
 - [JFoenix](http://www.jfoenix.com/) - JavaFX Material Design Library. JFoenix is an open source Java library, that implements Google Material Design using Java components.
+- [JFXAnimation](https://github.com/schlegel11/JFXAnimation) - Builder for CSS keyframe animations in JavaFX. Create animations like you would do with CSS.
 - [JFXNodeMapper](https://github.com/CaptainParanoid/JFXNodeMapper) - Javafx Node mapping to various data formats like csv,xml,json and resultset.
 - [JFXScad](https://github.com/miho/JFXScad) - JavaFX 3D Printing IDE based on JCSG.
 - [JFXtras](http://jfxtras.org/) - A supporting library for JavaFX, containing helper classes, extended layouts, controls and other interesting widgets.
@@ -87,6 +88,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [VWorkflows](https://github.com/miho/VWorkflows) - Interactive flow/graph visualization for building domain specific visual programming environments. Provides UI bindings for JavaFX.
 - [TilesFX](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles for Dashboards.
 - [Undecorator](https://github.com/in-sideFX/Undecorator) - Decorate undecorated JavaFX stages with custom skin. This helper brings a custom look to your JavaFX stages.
+
 
 
 
