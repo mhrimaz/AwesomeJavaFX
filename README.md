@@ -232,6 +232,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [JavaFX 8 Refcard](https://dzone.com/refcardz/javafx-8-1) - Gives you what you need to start using the powerful JavaFX 8 UI and graphics tool with code snippets and visual examples of shapes and controls.
 - [JavaFX Refcard](https://dzone.com/refcardz/getting-started-javafx) - Gets you started with JavaFX, which makes it easier to build better RIAs with graphics, animation, and media.
 - [User Interface Testing with TestFX](https://vocabhunter.github.io/2016/07/27/TestFX.html) - A guide to using TestFX to automate JavaFX user interface testing.
+- [Using the Java Packager with JDK 11](https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8) - How to create installable bundles for your JavaFX application for Mac, Linux and Windows using the Java Packager on JDK 11.
 
 ## Real World Examples
 *Real World Examples of JavaFX and Applications*
