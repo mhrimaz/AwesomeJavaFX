@@ -74,6 +74,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [SmartCSVFX](https://github.com/frosch95/SmartCSV.fx) - A simple JavaFX application to load, save and edit a CSV file and provide a JSON configuration for columns to check the values in the columns.
 - [SynchronizeFX](https://github.com/lestard/SynchronizeFX) - Remote Data-Binding between different JVMs, both on a local machine and over the network.
 - [SyntheticaFX](http://www.jyloo.com/syntheticafx/) - SyntheticaFX provides themes and components mainly made for professional business applications on the desktop. The library is growing, new controls are under construction and will be added in future releases. The target platform of the final release is Java 9 or above.
+- [TiwulFX](https://bitbucket.org/panemu/tiwulfx) provides UI components: advanced TableView with various ready to use columns (TextColumn, NumberColumn, LookupColumn etc), DetachableTabPane that can be used as docking framework, MessageDialog, SideMenu etc. 
 - [ReactorFX](https://github.com/shadskii/ReactorFX) - ReactorFX integrates Project Reactor and JavaFX by providing a simple API to create reactive Flux from JavaFX Controls, Dialogs, Observables, and Collections. 
 - [ReactFX](https://github.com/TomasMikula/ReactFX) - Reactive event streams, observable values and more for JavaFX.
 - [redux-javafx-devtool](https://github.com/lestard/redux-javafx-devtool) - A developer-tool for ReduxFX. Visualizes the state and actions of the app. Enables time-traveling.
