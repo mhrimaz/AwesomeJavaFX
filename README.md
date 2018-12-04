@@ -26,8 +26,8 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [AnimateFX](https://github.com/Typhon0/AnimateFX) - A JavaFX library containing ready-to-use animations.
 - [BootstrapFX](https://github.com/aalmiray/bootstrapfx/) - BootstrapFX is a partial port of Twitter Bootstrap for JavaFX.
 - [CalendarFX](https://github.com/dlemmermann/CalendarFX) - CalendarFX is a calendar framework for JavaFX 8. It contains a set of professional custom controls, which can be used to implement a calendar UI for any kind of application.
-- [ControlsFX](http://fxexperience.com/controlsfx/) - ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls and other tools to complement the core JavaFX distribution.
 - [CssFX](https://github.com/McFoggy/cssfx) - Enhances developper productivity by providing JavaFX CSS reloading functionnality in a running application. Usable as standalone library or integrated in [Scenic View](#ScenicView).
+- [ControlsFX](http://fxexperience.com/controlsfx/) - ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls and other tools to complement the core JavaFX distribution.
 - [CustomStage](https://github.com/Oshan96/CustomStage) - CustomStage is a fully customizable Undecorated JavaFX stage (window) with amazing features.
 - [DesktopPaneFX](https://github.com/aalmiray/desktoppanefx) - MDI components for JavaFX. Think JDesktopPane/JInternalFrame for JavaFX.
 - [e(fx)clipse](http://www.efxclipse.org/) - JavaFX Tooling and Runtime for Eclipse and OSGi 
@@ -66,31 +66,29 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [Lib-Tile](https://github.com/Naoghuman/lib-tile) - Lib-Tile is a multi Maven project written in JavaFX and NetBeans IDE 8.0.2 and provides the functionalities to use and handle easily Tiles in your JavaFX application.
 - [LiveDirsFX](https://github.com/TomasMikula/LiveDirsFX) - Directory tree model for JavaFX that watches the filesystem for changes.
 - [Medusa](https://github.com/HanSolo/Medusa) - A JavaFX library for Gauges. The main focus of this project is to provide Gauges that can be configured in multiple ways.
-- [NetBeansIDE-AfterburnerFX-Plugin](https://github.com/Naoghuman/NetBeansIDE-AfterburnerFX-Plugin) - The NetBeansIDE-AfterburnerFX-Plugin is a NetBeans IDE plugin which supports the file generation in convention with the library afterburner.fx in a JavaFX project.
 - [MigPane](http://miglayout.com) - MigLayout can produce flowing, grid based, absolute (with links), grouped and docking layouts.
+- [NetBeansIDE-AfterburnerFX-Plugin](https://github.com/Naoghuman/NetBeansIDE-AfterburnerFX-Plugin) - The NetBeansIDE-AfterburnerFX-Plugin is a NetBeans IDE plugin which supports the file generation in convention with the library afterburner.fx in a JavaFX project.
 - [Orson Charts](https://github.com/jfree/orson-charts) - An interactive 3D chart library for JavaFX and Swing.
 - [PreferencesFX](https://github.com/dlemmermann/PreferencesFX) - A library to easily create a UI for application settings / preferences.
-- [Scenic View](http://fxexperience.com/scenic-view/) - Scenic View is a JavaFX application designed to make it simple to understand the current state of your application scenegraph, and to also easily manipulate properties of the scenegraph without having to keep editing your code. This lets you find bugs, and get things pixel perfect without having to do the compile-check-compile dance.
-- [SmartCSVFX](https://github.com/frosch95/SmartCSV.fx) - A simple JavaFX application to load, save and edit a CSV file and provide a JSON configuration for columns to check the values in the columns.
-- [SynchronizeFX](https://github.com/lestard/SynchronizeFX) - Remote Data-Binding between different JVMs, both on a local machine and over the network.
-- [SyntheticaFX](http://www.jyloo.com/syntheticafx/) - SyntheticaFX provides themes and components mainly made for professional business applications on the desktop. The library is growing, new controls are under construction and will be added in future releases. The target platform of the final release is Java 9 or above.
-- [TiwulFX](https://bitbucket.org/panemu/tiwulfx) provides UI components: advanced TableView with various ready to use columns (TextColumn, NumberColumn, LookupColumn etc), DetachableTabPane that can be used as docking framework, MessageDialog, SideMenu etc. 
 - [ReactorFX](https://github.com/shadskii/ReactorFX) - ReactorFX integrates Project Reactor and JavaFX by providing a simple API to create reactive Flux from JavaFX Controls, Dialogs, Observables, and Collections. 
 - [ReactFX](https://github.com/TomasMikula/ReactFX) - Reactive event streams, observable values and more for JavaFX.
 - [redux-javafx-devtool](https://github.com/lestard/redux-javafx-devtool) - A developer-tool for ReduxFX. Visualizes the state and actions of the app. Enables time-traveling.
 - [RichTextFX](https://github.com/TomasMikula/RichTextFX) - Rich-text area for JavaFX.
 - [RxJavaFX: JavaFX bindings for RxJava](https://github.com/ReactiveX/RxJavaFX) - RxJavaFX is a simple API to convert JavaFX events into RxJava Observables and vice versa. It also has a scheduler to safely move emissions to the JavaFX Event Dispatch Thread.
+- [Scenic View](http://fxexperience.com/scenic-view/) - Scenic View is a JavaFX application designed to make it simple to understand the current state of your application scenegraph, and to also easily manipulate properties of the scenegraph without having to keep editing your code. This lets you find bugs, and get things pixel perfect without having to do the compile-check-compile dance.
+- [SmartCSVFX](https://github.com/frosch95/SmartCSV.fx) - A simple JavaFX application to load, save and edit a CSV file and provide a JSON configuration for columns to check the values in the columns.
+- [SynchronizeFX](https://github.com/lestard/SynchronizeFX) - Remote Data-Binding between different JVMs, both on a local machine and over the network.
+- [SyntheticaFX](http://www.jyloo.com/syntheticafx/) - SyntheticaFX provides themes and components mainly made for professional business applications on the desktop. The library is growing, new controls are under construction and will be added in future releases. The target platform of the final release is Java 9 or above.
 - [TestFX](https://github.com/TestFX/TestFX) - Simple and clean testing for JavaFX.
 - [TestFX-dsl](https://github.com/aalmiray/testfx-dsl/) - Java friendly DSL for defining TestFX tests.
+- [TilesFX](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles for Dashboards.
+- [TiwulFX](https://bitbucket.org/panemu/tiwulfx) provides UI components: advanced TableView with various ready to use columns (TextColumn, NumberColumn, LookupColumn etc), DetachableTabPane that can be used as docking framework, MessageDialog, SideMenu etc. 
 - [TuioFX](http://tuiofx.org/) - Toolkit for developing multi-touch, multi-user interactive tabletops and surfaces.
 - [Toggle Switch](https://www.pixelduke.com/projects#toggle-switch) - Toggle Switch control for Java (JavaFX)
-- [UndoFX](https://github.com/TomasMikula/UndoFX) - Undo manager for JavaFX.
-- [WellBehavedFX](https://github.com/TomasMikula/WellBehavedFX) - Composable event handlers and skin scaffolding for JavaFX controls.
-- [VWorkflows](https://github.com/miho/VWorkflows) - Interactive flow/graph visualization for building domain specific visual programming environments. Provides UI bindings for JavaFX.
-- [TilesFX](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles for Dashboards.
 - [Undecorator](https://github.com/in-sideFX/Undecorator) - Decorate undecorated JavaFX stages with custom skin. This helper brings a custom look to your JavaFX stages.
-
-
+- [UndoFX](https://github.com/TomasMikula/UndoFX) - Undo manager for JavaFX.
+- [VWorkflows](https://github.com/miho/VWorkflows) - Interactive flow/graph visualization for building domain specific visual programming environments. Provides UI bindings for JavaFX.
+- [WellBehavedFX](https://github.com/TomasMikula/WellBehavedFX) - Composable event handlers and skin scaffolding for JavaFX controls.
 
 
 ## Frameworks
