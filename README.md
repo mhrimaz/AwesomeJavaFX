@@ -20,6 +20,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 ----
 
 ## Libraries, Tools and Projects
+- [AsyncFX](https://github.com/RyanSusana/AsyncFX) - An asynchronous library for JavaFX. With focus on Kotlin and Java. It includes a nice DSL for asynchronous calls.
 - [Advanced-Bindings for JavaFX (8)](https://github.com/lestard/advanced-bindings) - advanced-bindings is a collection of useful helpers and custom binding implementations like java.lang.Math or Switch-Case as JavaFX binding.
 - [assertj-javafx](https://github.com/lestard/assertj-javafx) - AssertJ assertions for JavaFX Properties and Bindings.
 - [AnchorFX](https://github.com/alexbodogit/AnchorFX) - Docking framework for JavaFX platform.
