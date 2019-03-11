@@ -20,11 +20,11 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 ----
 
 ## Libraries, Tools and Projects
-- [AsyncFX](https://github.com/RyanSusana/AsyncFX) - An asynchronous library for JavaFX. With focus on Kotlin and Java. It includes a nice DSL for asynchronous calls.
 - [Advanced-Bindings for JavaFX (8)](https://github.com/lestard/advanced-bindings) - advanced-bindings is a collection of useful helpers and custom binding implementations like java.lang.Math or Switch-Case as JavaFX binding.
 - [assertj-javafx](https://github.com/lestard/assertj-javafx) - AssertJ assertions for JavaFX Properties and Bindings.
 - [AnchorFX](https://github.com/alexbodogit/AnchorFX) - Docking framework for JavaFX platform.
 - [AnimateFX](https://github.com/Typhon0/AnimateFX) - A JavaFX library containing ready-to-use animations.
+- [AsyncFX](https://github.com/RyanSusana/AsyncFX) - An asynchronous library for JavaFX. With focus on Kotlin and Java. It includes a nice DSL for asynchronous calls.
 - [BootstrapFX](https://github.com/aalmiray/bootstrapfx/) - BootstrapFX is a partial port of Twitter Bootstrap for JavaFX.
 - [CalendarFX](https://github.com/dlemmermann/CalendarFX) - CalendarFX is a calendar framework for JavaFX 8. It contains a set of professional custom controls, which can be used to implement a calendar UI for any kind of application.
 - [CssFX](https://github.com/McFoggy/cssfx) - Enhances developper productivity by providing JavaFX CSS reloading functionnality in a running application. Usable as standalone library or integrated in [Scenic View](#ScenicView).
