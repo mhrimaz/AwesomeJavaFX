@@ -237,6 +237,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 *Real World Examples of JavaFX and Applications*
 - [20 real world examples on JAXenter](https://jaxenter.com/20-javafx-real-world-applications-123653.html)
 - [AsciidocFX](http://asciidocfx.com/) - Asciidoc FX is a book/document editor to build PDF, Epub, Mobi and HTML books, documents and slides. AsciidocFX is also a winner of [Duke’s Choice Award 2015](https://www.oracle.com/corporate/pressrelease/dukes-award-102815.html).
+- [binjr](https://github.com/binjr/binjr) - binjr is a time series data browser; it renders time series data produced by other applications as dynamically editable charts and provides many features to navigate through the data in a natural and fluent fashion (drag & drop, zoom, history, detacheable tabs, advanced time-range picker).
 - [Deep Space Trajectory Explorer](https://www.youtube.com/watch?v=MotQ1PC1xT8) - This is an application used by NASA. This tool allows a trajectory designer to identify, compare and export deep space 3 body system trajectories.
 - [Everest](https://github.com/RohitAwate/Everest) - Everest (formerly RESTaurant) is an upcoming REST API testing client written in JavaFX. Looks like Postman but writen in Java.
 - [FXDesktopSearch](https://github.com/mirkosertic/FXDesktopSearch) - FXDesktopSearch is a Java and JavaFX based Desktop Search Application. It crawls a configured set of directories and allows you to do fulltext search with different languages support on the content.
