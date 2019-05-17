@@ -39,11 +39,13 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [FX-BorderlessScene](https://github.com/goxr3plus/FX-BorderlessScene) - Undecorated JavaFX Scene with implemented move, resize, minimise, maximise, close and Windows Aero Snap controls.
 - [FXForm2](https://github.com/dooApp/FXForm2) - A library providing automatic JavaFX form generation. The generated form is highly configurable and skinnable using code, annotations and CSS styling. FXForm2 is compatible with the JSR 303 for bean validation.
 - [FXGraphics2D](https://github.com/jfree/fxgraphics2d) - A library that provides a Graphics2D API for drawing on the JavaFX Canvas so that existing Java2D code can be reused easily.  This library was created to provide JavaFX support for JFreeChart.
+- [FXLauncher](https://github.com/edvin/fxlauncher) - Auto updating launcher for JavaFX Applications. Combined with JavaFX native packaging, you get a native installer with automatic app updates.
 - [FXParallax](https://github.com/dukke/FXParallax) - Parallax framework for Java (JavaFX).
 - [FXRibbon](https://github.com/dukke/FXRibbon) - Microsoft like Ribbon control for Java (JavaFX).
 - [FXValidation](https://github.com/dukke/FXValidation) - Validation support for Java (JavaFX).
 - [FXyz](https://github.com/Birdasaur/FXyz) - F(X)yz is a new JavaFX 3D library that provides additional primitives, composite objects, controls and data visualizations that the base JavaFX 8 3D packages do not have.
 - [GestureFX](https://github.com/tom91136/GestureFX) - A lightweight pinch-to-zoom pane for JavaFX
+- [Getdown](https://github.com/threerings/getdown) - Getdown is a system for deploying Java applications to end-user computers, as well as keeping those applications up to date.
 - [Gluon Maps](http://gluonhq.com/labs/maps/) - Gluon Maps is built with high performance in mind, but that doesn’t mean functionality is missing. Gluon Maps offers layer overlays, multiple tilesets, and much more.
 - [Gluon Scene Builder](http://gluonhq.com/labs/scene-builder/) - Scene Builder works with the JavaFX ecosystem – official controls, community projects, and Gluon offerings including Gluon Mobile, Gluon Desktop, and Gluon CloudLink.
 - [GMapFX](http://rterp.github.io/GMapsFX/) - GMapsFX provides a wrapper to the Google Map's Javascript API, allowing you to use and interact with maps using a pure Java API.
@@ -87,6 +89,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [Toggle Switch](https://www.pixelduke.com/projects#toggle-switch) - Toggle Switch control for Java (JavaFX)
 - [Undecorator](https://github.com/in-sideFX/Undecorator) - Decorate undecorated JavaFX stages with custom skin. This helper brings a custom look to your JavaFX stages.
 - [UndoFX](https://github.com/TomasMikula/UndoFX) - Undo manager for JavaFX.
+- [Update4j](https://github.com/update4j/update4j) - Auto-updater and launcher for your distributed applications. Built with Java 9's module system in mind.
 - [VWorkflows](https://github.com/miho/VWorkflows) - Interactive flow/graph visualization for building domain specific visual programming environments. Provides UI bindings for JavaFX.
 - [WellBehavedFX](https://github.com/TomasMikula/WellBehavedFX) - Composable event handlers and skin scaffolding for JavaFX controls.
 
