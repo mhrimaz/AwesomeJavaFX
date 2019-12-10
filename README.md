@@ -230,7 +230,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 *Interesting Articles about JavaFX*
 - [Building a JavaFX Search Bar](https://vocabhunter.github.io/2017/01/15/Search-Bar.html) - How to add a search bar to your JavaFX user interface. The article is based on a real application and includes links to all of the source code.
 - [Dependency Injection in JavaFX](https://vocabhunter.github.io/2016/11/13/JavaFX-Dependency-Injection.html) - A guide to implementing Dependency Injection in a JavaFX application.
-- [How JavaFX was used to build a desktop application](https://techblog.king.com/javafx-used-build-desktop-application/) - A look at some of the features of JavaFX and how they were used in building an application.  The article includes links to all of the source code on GitHub. 
+- [How JavaFX was used to build a desktop application](https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc) - A look at some of the features of JavaFX and how they were used in building an application.  The article includes links to all of the source code on GitHub. 
 - [JavaFX 8 Refcard](https://dzone.com/refcardz/javafx-8-1) - Gives you what you need to start using the powerful JavaFX 8 UI and graphics tool with code snippets and visual examples of shapes and controls.
 - [JavaFX Refcard](https://dzone.com/refcardz/getting-started-javafx) - Gets you started with JavaFX, which makes it easier to build better RIAs with graphics, animation, and media.
 - [User Interface Testing with TestFX](https://vocabhunter.github.io/2016/07/27/TestFX.html) - A guide to using TestFX to automate JavaFX user interface testing.
