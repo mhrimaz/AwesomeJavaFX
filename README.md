@@ -138,6 +138,8 @@ Use Java 9 and JavaFX 9 to write 3D games for the latest consumer electronics de
 - [Pro JavaFX 9 A Definitive Guide to Building Desktop, Mobile, and Embedded Java Clients](https://www.apress.com/gp/book/9781484230411) - By [Johan Vos](https://twitter.com/johanvos) , [Weiqi Gao](https://twitter.com/weiqigao) , [James Weaver](https://twitter.com/JavaFXpert) , [Stephen Chin](https://twitter.com/steveonjava) , [Dean Iverson](https://twitter.com/deanriverson)<br/>
 The expert authors cover the new more modular JavaFX 9 APIs, development tools, and best practices and provide code examples that explore the exciting new features provided with JavaFX 9, part of Oracle's new Java 9 release.
 
+- [Getting started with Java on the Raspberry Pi](https://leanpub.com/gettingstartedwithjavaontheraspberrypi/) - By [Frank Delporte](https://twitter.com/FrankDelporte)<br/>
+Get started with the latest versions of Java, JavaFX, Pi4J, Spring and so much more. Learn the power (and fun!) of experimenting with electronics. All explained in many small and easy to understand examples.
 
 ## Blogs and Sites
 - [falkhausen.de](http://www.falkhausen.de/JavaFX/index.html) - Class diagrams for JavaFX by Markus Falkhausen
