@@ -22,7 +22,9 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 ## Libraries, Tools and Projects
 - [JFoenix](http://www.jfoenix.com/) - JavaFX Material Design Library. JFoenix is an open source Java library, that implements Google Material Design using Java components.
 - [CalendarFX](http://dlsc.com/products/calendarfx/) - CalendarFX is a calendar framework for JavaFX 8. It contains a set of professional custom controls, which can be used to implement a calendar UI for any kind of application.
+- [ChartFx](https://github.com/GSI-CS-CO/chart-fx) - ChartFx is a scientific charting library developed at [GSI](https://www.gsi.de/en) for [FAIR] (https://www.gsi.de/en/researchaccelerators/fair.htm) with focus on performance optimised real-time data visualisation for data sets with up to millions of data point.
 - [FlexGanttFX](http://dlsc.com/products/flexganttfx/) - FlexGanttFX is the most advanced JavaFX-based Gantt charting framework currently available for Java.
+- [FXFileChooser](https://oliver-loeffler.github.io/FXFileChooser/) - provides an alternative file chooser especially suitable for extreme large directories where an integrated live search and filtering can be helpful. 
 - [GMapFX](http://rterp.github.io/GMapsFX/) - GMapsFX provides a wrapper to the Google Map's Javascript API, allowing you to use and interact with maps using a pure Java API.
 - [Medusa](https://github.com/HanSolo/Medusa) - A JavaFX library for Gauges. The main focus of this project is to provide Gauges that can be configured in multiple ways.
 - [JFXtras](http://jfxtras.org/) - A supporting library for JavaFX, containing helper classes, extended layouts, controls and other interesting widgets.
