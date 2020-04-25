@@ -120,6 +120,8 @@ on Vavr and Spring Boot which manages most of the annoying boilerplate that come
 
 ## Books
 
+- [Getting started with Java on the Raspberry Pi](https://leanpub.com/gettingstartedwithjavaontheraspberrypi/) - By [Frank Delporte](https://twitter.com/FrankDelporte)<br/>
+Get started with the latest versions of Java, JavaFX, Pi4J, Spring and so much more. Learn the power (and fun!) of experimenting with electronics. All explained in many small and easy to understand examples.
 
 - [Introducing JavaFX 8 Programming](https://www.mhprofessional.com/details.php?isbn=0071842551) - By Herbert Schildt<br/>
 Introducing JavaFX 8 Programming provides a fast-paced, practical introduction to JavaFX, Java's next-generation GUI programming framework. In this easy-to-read guide, best-selling author Herb Schildt presents the key topics and concepts you'll need to start developing modern, dynamic JavaFX GUI applications.
