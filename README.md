@@ -26,6 +26,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [AnimateFX](https://github.com/Typhon0/AnimateFX) - A JavaFX library containing ready-to-use animations.
 - [BootstrapFX](https://github.com/aalmiray/bootstrapfx/) - BootstrapFX is a partial port of Twitter Bootstrap for JavaFX.
 - [CalendarFX](https://github.com/dlemmermann/CalendarFX) - CalendarFX is a calendar framework for JavaFX 8. It contains a set of professional custom controls, which can be used to implement a calendar UI for any kind of application.
+- [ChartFx](https://github.com/GSI-CS-CO/chart-fx) - ChartFx is a scientific charting library developed at [GSI](https://www.gsi.de/en) for [FAIR] (https://www.gsi.de/en/researchaccelerators/fair.htm) with focus on performance optimised real-time data visualisation for data sets with up to millions of data point.
 - [CssFX](https://github.com/McFoggy/cssfx) - Enhances developper productivity by providing JavaFX CSS reloading functionnality in a running application. Usable as standalone library or integrated in [Scenic View](#ScenicView).
 - [ControlsFX](http://fxexperience.com/controlsfx/) - ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls and other tools to complement the core JavaFX distribution.
 - [CustomStage](https://github.com/Oshan96/CustomStage) - CustomStage is a fully customizable Undecorated JavaFX stage (window) with amazing features.
@@ -37,6 +38,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [FontAwesomeFX](https://bitbucket.org/Jerady/fontawesomefx) - FontAwesome in JavaFX with FontAwesomeFX
 - [FormsFX](https://github.com/dlemmermann/FormsFX) - A framework for easily creating forms for a JavaFX UI.
 - [FX-BorderlessScene](https://github.com/goxr3plus/FX-BorderlessScene) - Undecorated JavaFX Scene with implemented move, resize, minimise, maximise, close and Windows Aero Snap controls.
+- [FXFileChooser](https://oliver-loeffler.github.io/FXFileChooser/) - provides an alternative file chooser especially suitable for extreme large directories where an integrated live search and filtering can be helpful. 
 - [FXForm2](https://github.com/dooApp/FXForm2) - A library providing automatic JavaFX form generation. The generated form is highly configurable and skinnable using code, annotations and CSS styling. FXForm2 is compatible with the JSR 303 for bean validation.
 - [FXGraphics2D](https://github.com/jfree/fxgraphics2d) - A library that provides a Graphics2D API for drawing on the JavaFX Canvas so that existing Java2D code can be reused easily.  This library was created to provide JavaFX support for JFreeChart.
 - [FXLauncher](https://github.com/edvin/fxlauncher) - Auto updating launcher for JavaFX Applications. Combined with JavaFX native packaging, you get a native installer with automatic app updates.
