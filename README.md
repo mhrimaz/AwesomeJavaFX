@@ -110,6 +110,7 @@ on Vavr and Spring Boot which manages most of the annoying boilerplate that come
 - [JacpFX](http://jacpfx.org/) - An UI application framework based on JavaFX
 - [JRebirth](http://www.jrebirth.org/) - JRebirth JavaFX Application Framework provides a really simple way to write sophisticated and powerful RIA and Desktop applications.
 - [mvvmFX](https://github.com/sialcasa/mvvmFX) - mvvm(fx) is an application framework which provides you necessary components to implement the MVVM pattern with JavaFX. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+- [Open Lowcode](https://github.com/openlowcode/Open-Lowcode) - A low-code framework for enterprise software with a JavaFX thin client.
 - [ReduxFX](https://github.com/netopyr/reduxfx) - Functional Reactive Programming (FRP) for JavaFX inspired by the JavaScript library Redux.js
 - [ScalaFX](http://www.scalafx.org/) - simplifies creation of JavaFX-based user interfaces in Scala
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
