@@ -44,6 +44,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [FXRibbon](https://github.com/dukke/FXRibbon) - Microsoft like Ribbon control for Java (JavaFX).
 - [FXValidation](https://github.com/dukke/FXValidation) - Validation support for Java (JavaFX).
 - [FXyz](https://github.com/Birdasaur/FXyz) - F(X)yz is a new JavaFX 3D library that provides additional primitives, composite objects, controls and data visualizations that the base JavaFX 8 3D packages do not have.
+- [GemsFX](https://github.com/dlsc-software-consulting-gmbh/GemsFX) - A small library with useful controls: an on-screen keyboard, a PDF viewer control, and some more.
 - [GestureFX](https://github.com/tom91136/GestureFX) - A lightweight pinch-to-zoom pane for JavaFX
 - [Getdown](https://github.com/threerings/getdown) - Getdown is a system for deploying Java applications to end-user computers, as well as keeping those applications up to date.
 - [Gluon Maps](http://gluonhq.com/labs/maps/) - Gluon Maps is built with high performance in mind, but that doesn’t mean functionality is missing. Gluon Maps offers layer overlays, multiple tilesets, and much more.
