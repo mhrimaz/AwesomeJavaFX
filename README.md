@@ -53,7 +53,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [Gluon Scene Builder](http://gluonhq.com/labs/scene-builder/) - Scene Builder works with the JavaFX ecosystem – official controls, community projects, and Gluon offerings including Gluon Mobile, Gluon Desktop, and Gluon CloudLink.
 - [GMapFX](http://rterp.github.io/GMapsFX/) - GMapsFX provides a wrapper to the Google Map's Javascript API, allowing you to use and interact with maps using a pure Java API.
 - [Grid](https://github.com/lestard/Grid) - A Component for grid based games like sudoku or chess.
-- [Ikonli](http://aalmiray.github.io/ikonli/) - Ikonli provides icon packs that can be used in Java applications. Currently Swing and JavaFX UI toolkits are supported.
+- [Ikonli](https://github.com/kordamp/ikonli) - Ikonli provides icon packs that can be used in Java applications. Currently Swing and JavaFX UI toolkits are supported.
 - [JavaFX DataViewer](https://github.com/jasrodis/javafx-dataviewer-wrapper) - JavaFX Charts library. Create Charts in JavaFX using the plotly.js library.
 - [javafx-d3](https://github.com/stefaneidelloth/javafx-d3) - javafx-d3 provides a Java API for using the JavaScript library d3.js with JavaFx Applications.
 - [JavaFXPorts](http://gluonhq.com/labs/javafxports/) - JavaFXPorts is the open source project that brings Java and JavaFX to mobile and embedded hardware, including iPhone, iPad, Android devices, and the Raspberry Pi.
