@@ -259,6 +259,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [SkedPal](https://www.skedpal.com/) - SkedPal™ combines the best elements of creativity and structure to optimize your time and productivity.
 - [VocabHunter](https://vocabhunter.github.io/) - VocabHunter is a system to help learners of foreign languages.
 - [XR3Player](https://github.com/goxr3plus/XR3Player) - XR3Player is an opensource Java/JavaFX Media Player, WebBrowser, Media File Organizer, aiming to be something more than a Media Player.
+- [SmartCSV.fx](https://github.com/frosch95/SmartCSV.fx) - A simple JavaFX application to load, save and edit a CSV file and provide a JSON Table Schema for columns to check the values in the columns.
 
 ----
 
