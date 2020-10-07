@@ -259,6 +259,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [SkedPal](https://www.skedpal.com/) - SkedPal™ combines the best elements of creativity and structure to optimize your time and productivity.
 - [VocabHunter](https://vocabhunter.github.io/) - VocabHunter is a system to help learners of foreign languages.
 - [XR3Player](https://github.com/goxr3plus/XR3Player) - XR3Player is an opensource Java/JavaFX Media Player, WebBrowser, Media File Organizer, aiming to be something more than a Media Player.
+- [Bounding Box Editor](https://github.com/mfl28/BoundingBoxEditor) - A multi-platform JavaFX image annotation application to create and edit ground-truth labels for object detection and segmentation machine learning models.
 
 ----
 
