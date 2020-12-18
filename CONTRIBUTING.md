@@ -6,7 +6,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Suggested packages should be tested and documented.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[an useful resource](link) - Description.`
-- Additions should be added to the bottom of the relevant category.
+- Additions should be added to the relevant category in the alphabetical order.
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
