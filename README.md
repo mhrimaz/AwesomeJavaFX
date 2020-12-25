@@ -95,6 +95,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [UndoFX](https://github.com/TomasMikula/UndoFX) - Undo manager for JavaFX.
 - [Update4j](https://github.com/update4j/update4j) - Auto-updater and launcher for your distributed applications. Built with Java 9's module system in mind.
 - [VWorkflows](https://github.com/miho/VWorkflows) - Interactive flow/graph visualization for building domain specific visual programming environments. Provides UI bindings for JavaFX.
+- [Webview Debugger](https://github.com/vsch/Javafx-WebView-Debugger) - JavaFx WebView debugging with Chrome Dev tools.
 - [WellBehavedFX](https://github.com/TomasMikula/WellBehavedFX) - Composable event handlers and skin scaffolding for JavaFX controls.
 
 
