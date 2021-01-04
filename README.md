@@ -27,15 +27,15 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [BootstrapFX](https://github.com/aalmiray/bootstrapfx/) - BootstrapFX is a partial port of Twitter Bootstrap for JavaFX.
 - [CalendarFX](https://github.com/dlemmermann/CalendarFX) - CalendarFX is a calendar framework for JavaFX 8. It contains a set of professional custom controls, which can be used to implement a calendar UI for any kind of application.
 - [ChartFx](https://github.com/GSI-CS-CO/chart-fx) - ChartFx is a scientific charting library developed at [GSI](https://www.gsi.de/en) for [FAIR] (https://www.gsi.de/en/researchaccelerators/fair.htm) with focus on performance optimised real-time data visualisation for data sets with up to millions of data point.
-- [CssFX](https://github.com/McFoggy/cssfx) - Enhances developper productivity by providing JavaFX CSS reloading functionnality in a running application. Usable as standalone library or integrated in [Scenic View](#ScenicView).
+- [CssFX](https://github.com/McFoggy/cssfx) - Enhances developer productivity by providing JavaFX CSS reloading functionnality in a running application. Usable as standalone library or integrated in [Scenic View](#ScenicView).
 - [ControlsFX](http://fxexperience.com/controlsfx/) - ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls and other tools to complement the core JavaFX distribution.
 - [CustomStage](https://github.com/Oshan96/CustomStage) - CustomStage is a fully customizable Undecorated JavaFX stage (window) with amazing features.
 - [DesktopPaneFX](https://github.com/aalmiray/desktoppanefx) - MDI components for JavaFX. Think JDesktopPane/JInternalFrame for JavaFX.
-- [e(fx)clipse](http://www.efxclipse.org/) - JavaFX Tooling and Runtime for Eclipse and OSGi 
-- [FlexBoxFX](https://github.com/malikoski/FlexBoxFX) - FlexBoxFX is a JavaFX implementation of CSS3 flexbox layout manager
+- [e(fx)clipse](http://www.efxclipse.org/) - JavaFX Tooling and Runtime for Eclipse and OSGi.
+- [FlexBoxFX](https://github.com/malikoski/FlexBoxFX) - FlexBoxFX is a JavaFX implementation of CSS3 flexbox layout manager.
 - [FlexGanttFX](http://dlsc.com/products/flexganttfx/) - FlexGanttFX is the most advanced JavaFX-based Gantt charting framework currently available for Java.
 - [Flowless](https://github.com/TomasMikula/Flowless) - Efficient VirtualFlow for JavaFX.
-- [FontAwesomeFX](https://bitbucket.org/Jerady/fontawesomefx) - FontAwesome in JavaFX with FontAwesomeFX
+- [FontAwesomeFX](https://bitbucket.org/Jerady/fontawesomefx) - FontAwesome in JavaFX with FontAwesomeFX.
 - [FormsFX](https://github.com/dlemmermann/FormsFX) - A framework for easily creating forms for a JavaFX UI.
 - [FX-BorderlessScene](https://github.com/goxr3plus/FX-BorderlessScene) - Undecorated JavaFX Scene with implemented move, resize, minimise, maximise, close and Windows Aero Snap controls.
 - [FXFileChooser](https://oliver-loeffler.github.io/FXFileChooser/) - provides an alternative file chooser especially suitable for extreme large directories where an integrated live search and filtering can be helpful. 
@@ -47,7 +47,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [FXValidation](https://github.com/dukke/FXValidation) - Validation support for Java (JavaFX).
 - [FXyz](https://github.com/Birdasaur/FXyz) - F(X)yz is a new JavaFX 3D library that provides additional primitives, composite objects, controls and data visualizations that the base JavaFX 8 3D packages do not have.
 - [GemsFX](https://github.com/dlsc-software-consulting-gmbh/GemsFX) - A small library with useful controls: an on-screen keyboard, a PDF viewer control, and some more.
-- [GestureFX](https://github.com/tom91136/GestureFX) - A lightweight pinch-to-zoom pane for JavaFX
+- [GestureFX](https://github.com/tom91136/GestureFX) - A lightweight pinch-to-zoom pane for JavaFX.
 - [Getdown](https://github.com/threerings/getdown) - Getdown is a system for deploying Java applications to end-user computers, as well as keeping those applications up to date.
 - [Gluon Maps](http://gluonhq.com/labs/maps/) - Gluon Maps is built with high performance in mind, but that doesn’t mean functionality is missing. Gluon Maps offers layer overlays, multiple tilesets, and much more.
 - [Gluon Scene Builder](http://gluonhq.com/labs/scene-builder/) - Scene Builder works with the JavaFX ecosystem – official controls, community projects, and Gluon offerings including Gluon Mobile, Gluon Desktop, and Gluon CloudLink.
@@ -57,7 +57,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [JavaFX DataViewer](https://github.com/jasrodis/javafx-dataviewer-wrapper) - JavaFX Charts library. Create Charts in JavaFX using the plotly.js library.
 - [javafx-d3](https://github.com/stefaneidelloth/javafx-d3) - javafx-d3 provides a Java API for using the JavaScript library d3.js with JavaFx Applications.
 - [JavaFXPorts](http://gluonhq.com/labs/javafxports/) - JavaFXPorts is the open source project that brings Java and JavaFX to mobile and embedded hardware, including iPhone, iPad, Android devices, and the Raspberry Pi.
-- [JCSG](https://github.com/miho/JCSG) - Java implementation of BSP based CSG (Constructive Solid Geometry)
+- [JCSG](https://github.com/miho/JCSG) - Java implementation of BSP based CSG (Constructive Solid Geometry).
 - [JFoenix](http://www.jfoenix.com/) - JavaFX Material Design Library. JFoenix is an open source Java library, that implements Google Material Design using Java components.
 - [JFXAnimation](https://github.com/schlegel11/JFXAnimation) - Builder for CSS keyframe animations in JavaFX. Create animations like you would do with CSS.
 - [JFXNodeMapper](https://github.com/CaptainParanoid/JFXNodeMapper) - Javafx Node mapping to various data formats like csv,xml,json and resultset.
@@ -90,7 +90,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [TilesFX](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles for Dashboards.
 - [TiwulFX](https://bitbucket.org/panemu/tiwulfx) provides UI components: advanced TableView with various ready to use columns (TextColumn, NumberColumn, LookupColumn etc), DetachableTabPane that can be used as docking framework, MessageDialog, SideMenu etc. 
 - [TuioFX](http://tuiofx.org/) - Toolkit for developing multi-touch, multi-user interactive tabletops and surfaces.
-- [Toggle Switch](https://www.pixelduke.com/projects#toggle-switch) - Toggle Switch control for Java (JavaFX)
+- [Toggle Switch](https://www.pixelduke.com/projects#toggle-switch) - Toggle Switch control for Java (JavaFX).
 - [Undecorator](https://github.com/in-sideFX/Undecorator) - Decorate undecorated JavaFX stages with custom skin. This helper brings a custom look to your JavaFX stages.
 - [UndoFX](https://github.com/TomasMikula/UndoFX) - Undo manager for JavaFX.
 - [Update4j](https://github.com/update4j/update4j) - Auto-updater and launcher for your distributed applications. Built with Java 9's module system in mind.
@@ -101,22 +101,22 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 
 ## Frameworks
 - [afterburner.fx](http://afterburner.adam-bien.com/) - afterburner.fx is a minimalistic (3 classes) JavaFX MVP framework based on Convention over Configuration and Dependency Injection.
-- [APX](https://github.com/othreecodes/APX) - A JavaFX Library for Creating and Implementing MVC Type applications
+- [APX](https://github.com/othreecodes/APX) - A JavaFX Library for Creating and Implementing MVC Type applications.
 - [Basilisk](https://github.com/basilisk-fw/basilisk) - Desktop/Mobile JavaFX application framework. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 - [DataFX](https://github.com/guigarage/DataFX) - DataFX is a JavaFX frameworks that provides additional features to create MVC based applications in JavaFX by providing routing and a context for CDI.
-- [Dolphin Platform](https://github.com/canoo/dolphin-platform) - Dolphin Platform is a client / server frameworks that provides a async communication between a server and a client based on the remote presentation model pattern
+- [Dolphin Platform](https://github.com/canoo/dolphin-platform) - Dolphin Platform is a client / server frameworks that provides a async communication between a server and a client based on the remote presentation model pattern.
 - [EasyBind](https://github.com/TomasMikula/EasyBind) - EasyBind leverages lambdas to reduce boilerplate when creating custom bindings.
 - [EasyFXML](https://github.com/Tristan971/EasyFXML) - EasyFXML is a fully-featured opinionated JavaFX framework based 
-on Vavr and Spring Boot which manages most of the annoying boilerplate that comes with JavaFX. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-- [FXGL](http://almasb.github.io/FXGL/) - JavaFX Game Development Framework
-- [Griffon](http://griffon-framework.org/) - Next generation desktop application development platform for the JVM. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-- [JacpFX](http://jacpfx.org/) - An UI application framework based on JavaFX
+on Vavr and Spring Boot which manages most of the annoying boilerplate that comes with JavaFX. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0).
+- [FXGL](http://almasb.github.io/FXGL/) - JavaFX Game Development Framework.
+- [Griffon](http://griffon-framework.org/) - Next generation desktop application development platform for the JVM. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0).
+- [JacpFX](http://jacpfx.org/) - An UI application framework based on JavaFX.
 - [JRebirth](http://www.jrebirth.org/) - JRebirth JavaFX Application Framework provides a really simple way to write sophisticated and powerful RIA and Desktop applications.
-- [mvvmFX](https://github.com/sialcasa/mvvmFX) - mvvm(fx) is an application framework which provides you necessary components to implement the MVVM pattern with JavaFX. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+- [mvvmFX](https://github.com/sialcasa/mvvmFX) - mvvm(fx) is an application framework which provides you necessary components to implement the MVVM pattern with JavaFX. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0).
 - [Open Lowcode](https://github.com/openlowcode/Open-Lowcode) - A low-code framework for enterprise software with a JavaFX thin client.
-- [ReduxFX](https://github.com/netopyr/reduxfx) - Functional Reactive Programming (FRP) for JavaFX inspired by the JavaScript library Redux.js
-- [ScalaFX](http://www.scalafx.org/) - simplifies creation of JavaFX-based user interfaces in Scala
-- [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
+- [ReduxFX](https://github.com/netopyr/reduxfx) - Functional Reactive Programming (FRP) for JavaFX inspired by the JavaScript library Redux.js.
+- [ScalaFX](http://www.scalafx.org/) - simplifies creation of JavaFX-based user interfaces in Scala.
+- [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin.
 - [WorkbenchFX](https://github.com/dlemmermann/WorkbenchFX) - A lightweight RCP framework for JavaFX applications.
 
 ## Books
@@ -147,17 +147,17 @@ The expert authors cover the new more modular JavaFX 9 APIs, development tools, 
 
 
 ## Blogs and Sites
-- [falkhausen.de](http://www.falkhausen.de/JavaFX/index.html) - Class diagrams for JavaFX by Markus Falkhausen
+- [falkhausen.de](http://www.falkhausen.de/JavaFX/index.html) - Class diagrams for JavaFX by Markus Falkhausen.
 - [FX Experience](http://fxexperience.com/) - FX Experience has been the premiere site for JavaFX code, posts, and insights since mid-2009, and readership continues to grow every month. You should absolutly follow their weekly links.
 - [FXAPss](http://fxapps.blogspot.com/) - A JavaFX blog.
 - [GUI Garage](http://www.guigarage.com/) - Open source UI stuff!
-- [Harmonic Code](http://harmoniccode.blogspot.de/) - You should see how he's playing with JavaFX! by [Gerrit Grunwald](https://twitter.com/hansolo_)
-- [JavaFX Daily](http://paper.li/net0pyr/1312275601) - JavaFX Daily Photos, Article and Links by [Michael Heinrichs](http://twitter.com/net0pyr)
-- [JavaFX Delight](http://www.jensd.de/wordpress/) - [Jens Deters](https://twitter.com/Jerady) blog about Java/JavaFX
-- [JPereda's Coding Blog](http://jperedadnr.blogspot.de/) - Outstanding Java/JavaFX Articles by [José Pereda](https://twitter.com/JPeredaDnr)
-- [Kware](http://www.kware.net/) - A blog about JavaFX by Christoph Keimel
+- [Harmonic Code](http://harmoniccode.blogspot.de/) - You should see how he's playing with JavaFX! by [Gerrit Grunwald](https://twitter.com/hansolo_).
+- [JavaFX Daily](http://paper.li/net0pyr/1312275601) - JavaFX Daily Photos, Article and Links by [Michael Heinrichs](http://twitter.com/net0pyr).
+- [JavaFX Delight](http://www.jensd.de/wordpress/) - [Jens Deters](https://twitter.com/Jerady) blog about Java/JavaFX.
+- [JPereda's Coding Blog](http://jperedadnr.blogspot.de/) - Outstanding Java/JavaFX Articles by [José Pereda](https://twitter.com/JPeredaDnr).
+- [Kware](http://www.kware.net/) - A blog about JavaFX by Christoph Keimel.
 - [Pixel Duke](https://www.pixelduke.com) - Several articles on JavaFX from someone who has worked with JavaFX since its first beta release, for example, he was the author of a component that allowed Swing and JavaFX interoperability in the first versions of JavaFX when that was still not possible. The blog owner is a [JavaFX and Swing Freelancer and Consultant](http://www.pixelduke.com) or more generally a Front End Freelancer and Consultant who's also a Software Designer.
-- [Pixel Perfect](http://dlsc.com/blog/) - You can find good articles about java and specially JavaFX by [Dirk Lemmermann](https://twitter.com/dlemmermann)
+- [Pixel Perfect](http://dlsc.com/blog/) - You can find good articles about java and specially JavaFX by [Dirk Lemmermann](https://twitter.com/dlemmermann).
 
 ## People
 *These people share good stuff on their twitter accounts. Some of them are Legends, Champions and Rockstars. Follow them on Twitter. Descriptions from Twitter.*
@@ -168,6 +168,7 @@ The expert authors cover the new more modular JavaFX 9 APIs, development tools, 
 * [Arnaud Nouard](https://twitter.com/In_SideFX) - Play JavaFX, Drums, Keyboard (those with black and white keys!) and with my Kids.
 * [Bernard Traversat](https://twitter.com/BTraTra) - Java Language, JVM, JavaScript, JDK, JavaFX, Swing/AWT - Sr. Eng Director, Java Platform Group, Oracle.
 * [Bertrand Goetzmann](https://twitter.com/bgoetzmann) - Java EE architect, fan of Groovy/Grails (trainer), JavaFX, Drupal and Ionic... .
+* [Bruno Borges](https://twitter.com/brunoborges) - Java Champion, Principal Product Manager for Java at Mirosoft.
 * [Carl Dea](https://twitter.com/carldea) - Book Author, Blogger, a wannabe GUI guy, JavaFX enthusiast, mobile phones, AI.( He is a Legend!)
 * [Christian Campo](https://twitter.com/christiancampo) - Committer in multiple Eclipse projects, interested in JavaFX and Cloud Storage.
 * [Danno Ferrin](https://twitter.com/shemnon) - Java, JavaFX, Gradle, Groovy, Co-founded Griffon.
