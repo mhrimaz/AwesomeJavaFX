@@ -204,6 +204,7 @@ The expert authors cover the new more modular JavaFX 9 APIs, development tools, 
 *Good online resources including free and paid courses to learn JavaFX.*
 - [Building Your First JavaFX Application](http://www.pluralsight.com/courses/java-se-java-fx-application-building-your-first) - This course will provide you with a quick introduction to basic JavaFX features and help you build your first JavaFX Application.
 - [code.makery](http://code.makery.ch/library/javafx-8-tutorial/) - Multiple Language Online Site with a great materials and examples to teach you JavaFX.
+- [FXTutorials](https://github.com/AlmasB/FXTutorials) - A wide range of practical YouTube video tutorials focusing on Java/JavaFX.
 - [JavaFXTutorials](http://www.javafxtutorials.com/) - Online Materials and Examples for learning JavaFX.
 - [JavaFXTuts](http://javafxtuts.com/javafx-tutorials/) - Complete javafx tutorials for beginners with a lot of examples.
 - [Jenkov JavaFX](http://tutorials.jenkov.com/javafx/index.html) - Jenkov JavaFX Toturials and Articles with good examples to demonstrate you how you can use JavaFX Features.
