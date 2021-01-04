@@ -97,7 +97,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [VWorkflows](https://github.com/miho/VWorkflows) - Interactive flow/graph visualization for building domain specific visual programming environments. Provides UI bindings for JavaFX.
 - [Webview Debugger](https://github.com/vsch/Javafx-WebView-Debugger) - JavaFx WebView debugging with Chrome Dev tools.
 - [WellBehavedFX](https://github.com/TomasMikula/WellBehavedFX) - Composable event handlers and skin scaffolding for JavaFX controls.
-
+- [SimpleFX](https://github.com/OssNass/SimpleFX) - A library that simplifies desktop application development with good support for RTL languages and a new model for balancing performance with memory.
 
 ## Frameworks
 - [afterburner.fx](http://afterburner.adam-bien.com/) - afterburner.fx is a minimalistic (3 classes) JavaFX MVP framework based on Convention over Configuration and Dependency Injection.
