@@ -44,6 +44,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [FXLauncher](https://github.com/edvin/fxlauncher) - Auto updating launcher for JavaFX Applications. Combined with JavaFX native packaging, you get a native installer with automatic app updates.
 - [FXParallax](https://github.com/dukke/FXParallax) - Parallax framework for Java (JavaFX).
 - [FXRibbon](https://github.com/dukke/FXRibbon) - Microsoft like Ribbon control for Java (JavaFX).
+- [FXTrayIcon](https://github.com/dustinkredmond/FXTrayIcon) - System TrayIcon implementation for JavaFX that allows developers to use native JavaFX MenuItems and not have to worry with AWT or Swing.
 - [FXValidation](https://github.com/dukke/FXValidation) - Validation support for Java (JavaFX).
 - [FXyz](https://github.com/Birdasaur/FXyz) - F(X)yz is a new JavaFX 3D library that provides additional primitives, composite objects, controls and data visualizations that the base JavaFX 8 3D packages do not have.
 - [GemsFX](https://github.com/dlsc-software-consulting-gmbh/GemsFX) - A small library with useful controls: an on-screen keyboard, a PDF viewer control, and some more.
