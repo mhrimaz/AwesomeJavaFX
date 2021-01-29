@@ -76,6 +76,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [MigPane](http://miglayout.com) - MigLayout can produce flowing, grid based, absolute (with links), grouped and docking layouts.
 - [NetBeansIDE-AfterburnerFX-Plugin](https://github.com/Naoghuman/NetBeansIDE-AfterburnerFX-Plugin) - The NetBeansIDE-AfterburnerFX-Plugin is a NetBeans IDE plugin which supports the file generation in convention with the library afterburner.fx in a JavaFX project.
 - [Orson Charts](https://github.com/jfree/orson-charts) - An interactive 3D chart library for JavaFX and Swing.
+- [PI-Rail-FX](https://gitlab.com/pi-rail/pi-rail-fx) - A UI for a model railway control system.
 - [PreferencesFX](https://github.com/dlemmermann/PreferencesFX) - A library to easily create a UI for application settings / preferences.
 - [ReactorFX](https://github.com/shadskii/ReactorFX) - ReactorFX integrates Project Reactor and JavaFX by providing a simple API to create reactive Flux from JavaFX Controls, Dialogs, Observables, and Collections. 
 - [ReactFX](https://github.com/TomasMikula/ReactFX) - Reactive event streams, observable values and more for JavaFX.
