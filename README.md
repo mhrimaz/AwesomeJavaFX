@@ -264,6 +264,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [Modellus](https://www.pixelduke.com/projects#modellus) - Modellus is a freely available Swing and JavaFX app.  It was the first application to integrate both Swing and JavaFX together in a single app (back then using a custom made solution - JXScene - not available at the time).  It is used all over the world, specially in High School and Universities, and has appeared in several published scientific papers. Samples range from Physics to Mathematics, going through Mechanics, Chemistry, Statistics, Algebra, Geometry, among others.
 - [Musicott](http://octaviospain.github.io/Musicott/) - Musicott is an application that manages and plays music files. Coded in Java 8 with JavaFX.
 - [PDFsam Basic](https://pdfsam.org/) - PDFsam Basic is an opensource JavaFX application to merge, split, extract pages, rotate and mix PDF files.
+- [Recaf](https://github.com/Col-E/Recaf) - An easy to use modern Java bytecode editor.
 - [SkedPal](https://www.skedpal.com/) - SkedPal™ combines the best elements of creativity and structure to optimize your time and productivity.
 - [VocabHunter](https://vocabhunter.github.io/) - VocabHunter is a system to help learners of foreign languages.
 - [WavesFX](https://github.com/wavesfx/wavesfx) - A community-driven Waves desktop wallet which offers users multi-network and multi-address functionality.
