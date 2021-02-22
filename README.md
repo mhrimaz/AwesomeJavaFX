@@ -256,6 +256,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [AsciidocFX](http://asciidocfx.com/) - Asciidoc FX is a book/document editor to build PDF, Epub, Mobi and HTML books, documents and slides. AsciidocFX is also a winner of [Duke’s Choice Award 2015](https://www.oracle.com/corporate/pressrelease/dukes-award-102815.html).
 - [binjr](https://github.com/binjr/binjr) - binjr is a time series data browser; it renders time series data produced by other applications as dynamically editable charts and provides many features to navigate through the data in a natural and fluent fashion (drag & drop, zoom, history, detacheable tabs, advanced time-range picker).
 - [Bounding Box Editor](https://github.com/mfl28/BoundingBoxEditor) - A multi-platform JavaFX image annotation application to create and edit ground-truth labels for object detection and segmentation machine learning models.
+- [Cryptomator](https://cryptomator.org/) - Cryptomator offers multi-platform transparent client-side encryption of your files in the cloud.
 - [Deep Space Trajectory Explorer](https://www.youtube.com/watch?v=MotQ1PC1xT8) - This is an application used by NASA. This tool allows a trajectory designer to identify, compare and export deep space 3 body system trajectories.
 - [Everest](https://github.com/RohitAwate/Everest) - Everest (formerly RESTaurant) is an upcoming REST API testing client written in JavaFX. Looks like Postman but writen in Java.
 - [FX2048](https://github.com/brunoborges/fx2048) - The game 2048 built using JavaFX and Java 11.
