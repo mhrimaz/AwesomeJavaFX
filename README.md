@@ -29,6 +29,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [CalendarFX](https://github.com/dlemmermann/CalendarFX) - CalendarFX is a calendar framework for JavaFX 8. It contains a set of professional custom controls, which can be used to implement a calendar UI for any kind of application.
 - [ChartFx](https://github.com/GSI-CS-CO/chart-fx) - ChartFx is a scientific charting library developed at [GSI](https://www.gsi.de/en) for [FAIR] (https://www.gsi.de/en/researchaccelerators/fair.htm) with focus on performance optimised real-time data visualisation for data sets with up to millions of data point.
 - [CssFX](https://github.com/McFoggy/cssfx) - Enhances developer productivity by providing JavaFX CSS reloading functionnality in a running application. Usable as standalone library or integrated in [Scenic View](#ScenicView).
+- [Component-Inspector](https://github.com/TangoraBox/ComponentInspector) - A tool to help you inspect the location and properties of certain components in a window hierarchy.
 - [ControlsFX](http://fxexperience.com/controlsfx/) - ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls and other tools to complement the core JavaFX distribution.
 - [CustomStage](https://github.com/Oshan96/CustomStage) - CustomStage is a fully customizable Undecorated JavaFX stage (window) with amazing features.
 - [DesktopPaneFX](https://github.com/aalmiray/desktoppanefx) - MDI components for JavaFX. Think JDesktopPane/JInternalFrame for JavaFX.
@@ -122,6 +123,7 @@ on Vavr and Spring Boot which manages most of the annoying boilerplate that come
 - [JRebirth](http://www.jrebirth.org/) - JRebirth JavaFX Application Framework provides a really simple way to write sophisticated and powerful RIA and Desktop applications.
 - [mvvmFX](https://github.com/sialcasa/mvvmFX) - mvvm(fx) is an application framework which provides you necessary components to implement the MVVM pattern with JavaFX. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0).
 - [Open Lowcode](https://github.com/openlowcode/Open-Lowcode) - A low-code framework for enterprise software with a JavaFX thin client.
+- [ReactiveDeskFX](https://github.com/TangoraBox/ReactiveDeskFX) - JavaFX micro-framework to develop JavaFX components very fast with minimal code following MVVM architecture pattern with passive view.
 - [ReduxFX](https://github.com/netopyr/reduxfx) - Functional Reactive Programming (FRP) for JavaFX inspired by the JavaScript library Redux.js.
 - [ScalaFX](http://www.scalafx.org/) - simplifies creation of JavaFX-based user interfaces in Scala.
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin.
@@ -270,6 +272,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [PDFsam Basic](https://pdfsam.org/) - PDFsam Basic is an opensource JavaFX application to merge, split, extract pages, rotate and mix PDF files.
 - [PrettyZoo](https://github.com/vran-dev/PrettyZoo) - Pretty nice Zookeeper GUI created by JavaFX & Apache Curator
 - [Recaf](https://github.com/Col-E/Recaf) - An easy to use modern Java bytecode editor.
+- [ResumeFX](https://github.com/TangoraBox/ResumeFX) - ResumeFX renders a JavaFX view of .json file that follows [jsonresume.org](https://jsonresume.org) standard and has the necessary configuration to be embedded in the web browser thanks to [JPro](https://www.jpro.one).
 - [SkedPal](https://www.skedpal.com/) - SkedPal™ combines the best elements of creativity and structure to optimize your time and productivity.
 - [VocabHunter](https://vocabhunter.github.io/) - VocabHunter is a system to help learners of foreign languages.
 - [WavesFX](https://github.com/wavesfx/wavesfx) - A community-driven Waves desktop wallet which offers users multi-network and multi-address functionality.
