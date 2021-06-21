@@ -270,8 +270,8 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [Musicott](http://octaviospain.github.io/Musicott/) - Musicott is an application that manages and plays music files. Coded in Java 8 with JavaFX.
 - [PDFsam Basic](https://pdfsam.org/) - PDFsam Basic is an opensource JavaFX application to merge, split, extract pages, rotate and mix PDF files.
 - [PrettyZoo](https://github.com/vran-dev/PrettyZoo) - Pretty nice Zookeeper GUI created by JavaFX & Apache Curator
-- [ResumeFX](https://github.com/TangoraBox/ResumeFX) - ResumeFX renders a JavaFX view of .json file that follows [jsonresume.org](https://jsonresume.org) standard and has the necessary configuration to be embedded in the web browser thanks to [JPro](https://www.jpro.one).
 - [Recaf](https://github.com/Col-E/Recaf) - An easy to use modern Java bytecode editor.
+- [ResumeFX](https://github.com/TangoraBox/ResumeFX) - ResumeFX renders a JavaFX view of .json file that follows [jsonresume.org](https://jsonresume.org) standard and has the necessary configuration to be embedded in the web browser thanks to [JPro](https://www.jpro.one).
 - [SkedPal](https://www.skedpal.com/) - SkedPal™ combines the best elements of creativity and structure to optimize your time and productivity.
 - [VocabHunter](https://vocabhunter.github.io/) - VocabHunter is a system to help learners of foreign languages.
 - [WavesFX](https://github.com/wavesfx/wavesfx) - A community-driven Waves desktop wallet which offers users multi-network and multi-address functionality.
