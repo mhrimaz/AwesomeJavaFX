@@ -128,6 +128,7 @@ on Vavr and Spring Boot which manages most of the annoying boilerplate that come
 - [ScalaFX](http://www.scalafx.org/) - simplifies creation of JavaFX-based user interfaces in Scala.
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin.
 - [WorkbenchFX](https://github.com/dlemmermann/WorkbenchFX) - A lightweight RCP framework for JavaFX applications.
+- [AsyncFX](https://github.com/RyanSusana/AsyncFX) - An asynchronous library for JavaFX. It focuses on Kotlin and Java. It includes a nice DSL for asynchronous calls.
 
 ## Books
 
