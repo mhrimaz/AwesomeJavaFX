@@ -20,6 +20,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 ----
 
 ## Libraries, Tools and Projects
+- [Actlist](https://github.com/actlist/actlist) - Actlist is a utility platform to execute your own action list easily and simply.
 - [Advanced-Bindings for JavaFX (8)](https://github.com/lestard/advanced-bindings) - advanced-bindings is a collection of useful helpers and custom binding implementations like java.lang.Math or Switch-Case as JavaFX binding.
 - [AnchorFX](https://github.com/alexbodogit/AnchorFX) - Docking framework for JavaFX platform.
 - [Animated](https://github.com/iAmGio/animated) - Implicit animations for JavaFX, inspired by Flutter.
