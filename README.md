@@ -106,6 +106,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [VWorkflows](https://github.com/miho/VWorkflows) - Interactive flow/graph visualization for building domain specific visual programming environments. Provides UI bindings for JavaFX.
 - [WebFX](https://webfx.dev) - A JavaFX application transpiler. Write your Web Application in JavaFX and WebFX will transpile it in pure JS.
 - [Webview Debugger](https://github.com/vsch/Javafx-WebView-Debugger) - JavaFx WebView debugging with Chrome Dev tools.
+- [Welk Lidwoord](https://github.com/Hakky54/welk-lidwoord) - An app that will help you to improve your Dutch grammar.
 - [WellBehavedFX](https://github.com/TomasMikula/WellBehavedFX) - Composable event handlers and skin scaffolding for JavaFX controls.
 - [Wordagam](https://github.com/gravetii/wordagam) - A fun little word game built with openjfx.
 
