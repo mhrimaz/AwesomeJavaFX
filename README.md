@@ -60,6 +60,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [graph editor](https://github.com/eckig/graph-editor) - A library for creating and editing graph-like diagrams in JavaFX.
 - [Grid](https://github.com/lestard/Grid) - A Component for grid based games like sudoku or chess.
 - [Ikonli](https://github.com/kordamp/ikonli) - Ikonli provides icon packs that can be used in Java applications. Currently Swing and JavaFX UI toolkits are supported.
+- [JavaFX Dashboard](https://github.com/jannikbuscha/javafx-dashboard) - Customizable JavaFX Dashboard with theme changer, dark/light modes, and table builder for a user-friendly interface.
 - [JavaFX DataViewer](https://github.com/jasrodis/javafx-dataviewer-wrapper) - JavaFX Charts library. Create Charts in JavaFX using the plotly.js library.
 - [javafx-d3](https://github.com/stefaneidelloth/javafx-d3) - javafx-d3 provides a Java API for using the JavaScript library d3.js with JavaFx Applications.
 - [JavaFXPorts](http://gluonhq.com/labs/javafxports/) - JavaFXPorts is the open source project that brings Java and JavaFX to mobile and embedded hardware, including iPhone, iPad, Android devices, and the Raspberry Pi.
