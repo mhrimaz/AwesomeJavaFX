@@ -115,6 +115,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [afterburner.fx](http://afterburner.adam-bien.com/) - afterburner.fx is a minimalistic (3 classes) JavaFX MVP framework based on Convention over Configuration and Dependency Injection.
 - [APX](https://github.com/othreecodes/APX) - A JavaFX Library for Creating and Implementing MVC Type applications.
 - [Basilisk](https://github.com/basilisk-fw/basilisk) - Desktop/Mobile JavaFX application framework. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+- [cljfx](https://github.com/cljfx/cljfx) - Lightweight JavaFX Framework for Clojure
 - [DataFX](https://github.com/guigarage/DataFX) - DataFX is a JavaFX frameworks that provides additional features to create MVC based applications in JavaFX by providing routing and a context for CDI.
 - [Dolphin Platform](https://github.com/canoo/dolphin-platform) - Dolphin Platform is a client / server frameworks that provides a async communication between a server and a client based on the remote presentation model pattern.
 - [EasyBind](https://github.com/TomasMikula/EasyBind) - EasyBind leverages lambdas to reduce boilerplate when creating custom bindings.
