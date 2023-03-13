@@ -92,7 +92,6 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [RxJavaFX: JavaFX bindings for RxJava](https://github.com/ReactiveX/RxJavaFX) - RxJavaFX is a simple API to convert JavaFX events into RxJava Observables and vice versa. It also has a scheduler to safely move emissions to the JavaFX Event Dispatch Thread.
 - [Scenic View](http://fxexperience.com/scenic-view/) - Scenic View is a JavaFX application designed to make it simple to understand the current state of your application scenegraph, and to also easily manipulate properties of the scenegraph without having to keep editing your code. This lets you find bugs, and get things pixel perfect without having to do the compile-check-compile dance.
 - [SmartCSVFX](https://github.com/frosch95/SmartCSV.fx) - A simple JavaFX application to load, save and edit a CSV file and provide a JSON configuration for columns to check the values in the columns.
-- [SpringBoot-JavaFX-Support](https://github.com/roskenet/springboot-javafx-support) - Dependency Injection Support for JavaFX with Spring.
 - [Stream-Pi](https://github.com/stream-pi) - A modular, free, Open Source, Cross-platform macro pad software.
 - [SynchronizeFX](https://github.com/lestard/SynchronizeFX) - Remote Data-Binding between different JVMs, both on a local machine and over the network.
 - [SyntheticaFX](http://www.jyloo.com/syntheticafx/) - SyntheticaFX provides themes and components mainly made for professional business applications on the desktop. The library is growing, new controls are under construction and will be added in future releases. The target platform of the final release is Java 9 or above.
@@ -127,6 +126,7 @@ on Vavr and Spring Boot which manages most of the annoying boilerplate that come
 - [JRebirth](http://www.jrebirth.org/) - JRebirth JavaFX Application Framework provides a really simple way to write sophisticated and powerful RIA and Desktop applications.
 - [mvvmFX](https://github.com/sialcasa/mvvmFX) - mvvm(fx) is an application framework which provides you necessary components to implement the MVVM pattern with JavaFX. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0).
 - [Open Lowcode](https://github.com/openlowcode/Open-Lowcode) - A low-code framework for enterprise software with a JavaFX thin client.
+- [SpringBoot-JavaFX-Support](https://github.com/roskenet/springboot-javafx-support) - Dependency Injection Support for JavaFX with Spring.
 - [ReactiveDeskFX](https://github.com/TangoraBox/ReactiveDeskFX) - JavaFX micro-framework to develop JavaFX components very fast with minimal code following MVVM architecture pattern with passive view.
 - [ReduxFX](https://github.com/netopyr/reduxfx) - Functional Reactive Programming (FRP) for JavaFX inspired by the JavaScript library Redux.js.
 - [ScalaFX](http://www.scalafx.org/) - simplifies creation of JavaFX-based user interfaces in Scala.
