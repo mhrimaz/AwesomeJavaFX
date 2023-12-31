@@ -114,6 +114,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [Welk Lidwoord](https://github.com/Hakky54/welk-lidwoord) - An app that will help you to improve your Dutch grammar.
 - [WellBehavedFX](https://github.com/TomasMikula/WellBehavedFX) - Composable event handlers and skin scaffolding for JavaFX controls.
 - [Wordagam](https://github.com/gravetii/wordagam) - A fun little word game built with openjfx.
+- [SplashFX](https://github.com/xolider/SplashFX) - A library that provides a splash screen builder for JavaFX (in development)
 
 ## Frameworks
 - [afterburner.fx](http://afterburner.adam-bien.com/) - afterburner.fx is a minimalistic (3 classes) JavaFX MVP framework based on Convention over Configuration and Dependency Injection.
