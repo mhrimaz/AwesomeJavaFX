@@ -272,6 +272,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [Boomega](https://github.com/Dansoftowner/Boomega) - A modern book explorer & catalog application
 - [Bounding Box Editor](https://github.com/mfl28/BoundingBoxEditor) - A multi-platform JavaFX image annotation application to create and edit ground-truth labels for object detection and segmentation machine learning models.
 - [Deep Space Trajectory Explorer](https://www.youtube.com/watch?v=MotQ1PC1xT8) - This is an application used by NASA. This tool allows a trajectory designer to identify, compare and export deep space 3 body system trajectories.
+- [EPUBCheckFX](https://github.com/Wandmalfarbe/EPUBCheckFX) - A graphical application to validate `epub` files against the official EPUB specification.
 - [Everest](https://github.com/RohitAwate/Everest) - Everest (formerly RESTaurant) is an upcoming REST API testing client written in JavaFX. Looks like Postman but writen in Java.
 - [FX2048](https://github.com/brunoborges/fx2048) - The game 2048 built using JavaFX and Java 11.
 - [FXDesktopSearch](https://github.com/mirkosertic/FXDesktopSearch) - FXDesktopSearch is a Java and JavaFX based Desktop Search Application. It crawls a configured set of directories and allows you to do fulltext search with different languages support on the content.
