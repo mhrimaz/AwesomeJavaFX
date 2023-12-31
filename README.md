@@ -35,6 +35,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [CustomStage](https://github.com/Oshan96/CustomStage) - CustomStage is a fully customizable Undecorated JavaFX stage (window) with amazing features.
 - [DesktopPaneFX](https://github.com/aalmiray/desktoppanefx) - MDI components for JavaFX. Think JDesktopPane/JInternalFrame for JavaFX.
 - [e(fx)clipse](http://www.efxclipse.org/) - JavaFX Tooling and Runtime for Eclipse and OSGi.
+- [Figures] (https://github.com/pjacobsma/Figures.git) - Figures is a free, simple-to-use, flexible money management application. It is light-weight and fast, and stores your data in a SQLite database, which can be optionally encrypted. You can import and export your data in OFX or QIF formats.
 - [FlexBoxFX](https://github.com/malikoski/FlexBoxFX) - FlexBoxFX is a JavaFX implementation of CSS3 flexbox layout manager.
 - [FlexGanttFX](http://dlsc.com/products/flexganttfx/) - FlexGanttFX is the most advanced JavaFX-based Gantt charting framework currently available for Java.
 - [Flowless](https://github.com/TomasMikula/Flowless) - Efficient VirtualFlow for JavaFX.
