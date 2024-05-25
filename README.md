@@ -31,7 +31,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [ChartFx](https://github.com/GSI-CS-CO/chart-fx) - ChartFx is a scientific charting library developed at [GSI](https://www.gsi.de/en) for [FAIR] (https://www.gsi.de/en/researchaccelerators/fair.htm) with focus on performance optimised real-time data visualisation for data sets with up to millions of data point.
 - [CssFX](https://github.com/McFoggy/cssfx) - Enhances developer productivity by providing JavaFX CSS reloading functionnality in a running application. Usable as standalone library or integrated in [Scenic View](#ScenicView).
 - [Component-Inspector](https://github.com/TangoraBox/ComponentInspector) - A tool to help you inspect the location and properties of certain components in a window hierarchy.
-- [ControlsFX](http://fxexperience.com/controlsfx/) - ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls and other tools to complement the core JavaFX distribution.
+- [ControlsFX](https://controlsfx.github.io/) - ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls and other tools to complement the core JavaFX distribution.
 - [CustomStage](https://github.com/Oshan96/CustomStage) - CustomStage is a fully customizable Undecorated JavaFX stage (window) with amazing features.
 - [DesktopPaneFX](https://github.com/aalmiray/desktoppanefx) - MDI components for JavaFX. Think JDesktopPane/JInternalFrame for JavaFX.
 - [e(fx)clipse](http://www.efxclipse.org/) - JavaFX Tooling and Runtime for Eclipse and OSGi.
