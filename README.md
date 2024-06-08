@@ -87,6 +87,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [Orson Charts](https://github.com/jfree/orson-charts) - An interactive 3D chart library for JavaFX and Swing.
 - [PI-Rail-FX](https://gitlab.com/pi-rail/pi-rail-fx) - A UI for a model railway control system.
 - [PreferencesFX](https://github.com/dlemmermann/PreferencesFX) - A library to easily create a UI for application settings / preferences.
+- [QuPath](https://github.com/qupath/qupath) - Open source software for bioimage analysis.
 - [ReactorFX](https://github.com/shadskii/ReactorFX) - ReactorFX integrates Project Reactor and JavaFX by providing a simple API to create reactive Flux from JavaFX Controls, Dialogs, Observables, and Collections. 
 - [ReactFX](https://github.com/TomasMikula/ReactFX) - Reactive event streams, observable values and more for JavaFX.
 - [redux-javafx-devtool](https://github.com/lestard/redux-javafx-devtool) - A developer-tool for ReduxFX. Visualizes the state and actions of the app. Enables time-traveling.
