@@ -93,6 +93,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [ReactFX](https://github.com/TomasMikula/ReactFX) - Reactive event streams, observable values and more for JavaFX.
 - [redux-javafx-devtool](https://github.com/lestard/redux-javafx-devtool) - A developer-tool for ReduxFX. Visualizes the state and actions of the app. Enables time-traveling.
 - [Resize Me](https://github.com/Hakky54/resize-me) - An app to resize and compress images.
+- [RichTextArea](https://github.com/gluonhq/rich-text-area) - Rich text area with support for emojis, images, tables, hyperlinks and much more.
 - [RichTextFX](https://github.com/TomasMikula/RichTextFX) - Rich-text area for JavaFX.
 - [RxJavaFX: JavaFX bindings for RxJava](https://github.com/ReactiveX/RxJavaFX) - RxJavaFX is a simple API to convert JavaFX events into RxJava Observables and vice versa. It also has a scheduler to safely move emissions to the JavaFX Event Dispatch Thread.
 - [Scenic View](http://fxexperience.com/scenic-view/) - Scenic View is a JavaFX application designed to make it simple to understand the current state of your application scenegraph, and to also easily manipulate properties of the scenegraph without having to keep editing your code. This lets you find bugs, and get things pixel perfect without having to do the compile-check-compile dance.
