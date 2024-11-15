@@ -167,8 +167,8 @@ Use Java 9 and JavaFX 9 to write 3D games for the latest consumer electronics de
 - [Pro JavaFX 9 A Definitive Guide to Building Desktop, Mobile, and Embedded Java Clients](https://www.apress.com/gp/book/9781484230411) - By [Johan Vos](https://twitter.com/johanvos) , [Weiqi Gao](https://twitter.com/weiqigao) , [James Weaver](https://twitter.com/JavaFXpert) , [Stephen Chin](https://twitter.com/steveonjava) , [Dean Iverson](https://twitter.com/deanriverson)<br/>
 The expert authors cover the new more modular JavaFX 9 APIs, development tools, and best practices and provide code examples that explore the exciting new features provided with JavaFX 9, part of Oracle's new Java 9 release.
 
-
 ## Blogs and Sites
+
 - [falkhausen.de](http://www.falkhausen.de/JavaFX/index.html) - Class diagrams for JavaFX by Markus Falkhausen.
 - [FX Experience](http://fxexperience.com/) - FX Experience has been the premiere site for JavaFX code, posts, and insights since mid-2009, and readership continues to grow every month. You should absolutly follow their weekly links.
 - [FXAPss](http://fxapps.blogspot.com/) - A JavaFX blog.
@@ -176,6 +176,7 @@ The expert authors cover the new more modular JavaFX 9 APIs, development tools, 
 - [Harmonic Code](http://harmoniccode.blogspot.de/) - You should see how he's playing with JavaFX! by [Gerrit Grunwald](https://twitter.com/hansolo_).
 - [JavaFX Daily](http://paper.li/net0pyr/1312275601) - JavaFX Daily Photos, Article and Links by [Michael Heinrichs](http://twitter.com/net0pyr).
 - [JavaFX Delight](http://www.jensd.de/wordpress/) - [Jens Deters](https://twitter.com/Jerady) blog about Java/JavaFX.
+- [JFX Central](https://www.jfx-central.com/) - Home to anything JavaFX related. A website, desktop app and mobile app fully generated with JavaFX providing a lot of information about JavaFX. Sources and data are opensource GitHub projects.
 - [JPereda's Coding Blog](http://jperedadnr.blogspot.de/) - Outstanding Java/JavaFX Articles by [José Pereda](https://twitter.com/JPeredaDnr).
 - [Kware](http://www.kware.net/) - A blog about JavaFX by Christoph Keimel.
 - [Pixel Duke](https://www.pixelduke.com) - Several articles on JavaFX from someone who has worked with JavaFX since its first beta release, for example, he was the author of a component that allowed Swing and JavaFX interoperability in the first versions of JavaFX when that was still not possible. The blog owner is a [JavaFX and Swing Freelancer and Consultant](http://www.pixelduke.com) or more generally a Front End Freelancer and Consultant who's also a Software Designer.
