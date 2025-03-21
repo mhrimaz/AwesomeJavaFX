@@ -44,7 +44,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [FormsFX](https://github.com/dlemmermann/FormsFX) - A framework for easily creating forms for a JavaFX UI.
 - [FroXty](https://github.com/iAmGio/froxty) - iOS frosty/translucent effect to JavaFX.
 - [FX-BorderlessScene](https://github.com/goxr3plus/FX-BorderlessScene) - Undecorated JavaFX Scene with implemented move, resize, minimise, maximise, close and Windows Aero Snap controls.
-- [FXFileChooser](https://oliver-loeffler.github.io/FXFileChooser/) - provides an alternative file chooser especially suitable for extreme large directories where an integrated live search and filtering can be helpful. 
+- [FXFileChooser](https://oliver-loeffler.github.io/FXFileChooser/) - provides an alternative file chooser especially suitable for extreme large directories where an integrated live search and filtering can be helpful.
 - [FXForm2](https://github.com/dooApp/FXForm2) - A library providing automatic JavaFX form generation. The generated form is highly configurable and skinnable using code, annotations and CSS styling. FXForm2 is compatible with the JSR 303 for bean validation.
 - [FXGraphics2D](https://github.com/jfree/fxgraphics2d) - A library that provides a Graphics2D API for drawing on the JavaFX Canvas so that existing Java2D code can be reused easily.  This library was created to provide JavaFX support for JFreeChart.
 - [FXLauncher](https://github.com/edvin/fxlauncher) - Auto updating launcher for JavaFX Applications. Combined with JavaFX native packaging, you get a native installer with automatic app updates.
@@ -68,6 +68,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [javafx-d3](https://github.com/stefaneidelloth/javafx-d3) - javafx-d3 provides a Java API for using the JavaScript library d3.js with JavaFx Applications.
 - [JavaFXPorts](http://gluonhq.com/labs/javafxports/) - JavaFXPorts is the open source project that brings Java and JavaFX to mobile and embedded hardware, including iPhone, iPad, Android devices, and the Raspberry Pi.
 - [JCSG](https://github.com/miho/JCSG) - Java implementation of BSP based CSG (Constructive Solid Geometry).
+- [JediTermFX](https://github.com/techsenger/jeditermfx) - Terminal Emulator for JavaFX.
 - [JFoenix](http://www.jfoenix.com/) - JavaFX Material Design Library. JFoenix is an open source Java library, that implements Google Material Design using Java components.
 - [JFXAnimation](https://github.com/schlegel11/JFXAnimation) - Builder for CSS keyframe animations in JavaFX. Create animations like you would do with CSS.
 - [JFXNodeMapper](https://github.com/CaptainParanoid/JFXNodeMapper) - Javafx Node mapping to various data formats like csv,xml,json and resultset.
@@ -90,7 +91,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [PreferencesFX](https://github.com/dlemmermann/PreferencesFX) - A library to easily create a UI for application settings / preferences.
 - [Quarkus-fx](https://github.com/quarkiverse/quarkus-fx) - An extension to run JavaFX in a Quarkus application.
 - [QuPath](https://github.com/qupath/qupath) - Open source software for bioimage analysis.
-- [ReactorFX](https://github.com/shadskii/ReactorFX) - ReactorFX integrates Project Reactor and JavaFX by providing a simple API to create reactive Flux from JavaFX Controls, Dialogs, Observables, and Collections. 
+- [ReactorFX](https://github.com/shadskii/ReactorFX) - ReactorFX integrates Project Reactor and JavaFX by providing a simple API to create reactive Flux from JavaFX Controls, Dialogs, Observables, and Collections.
 - [ReactFX](https://github.com/TomasMikula/ReactFX) - Reactive event streams, observable values and more for JavaFX.
 - [redux-javafx-devtool](https://github.com/lestard/redux-javafx-devtool) - A developer-tool for ReduxFX. Visualizes the state and actions of the app. Enables time-traveling.
 - [Resize Me](https://github.com/Hakky54/resize-me) - An app to resize and compress images.
@@ -105,7 +106,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [TestFX](https://github.com/TestFX/TestFX) - Simple and clean testing for JavaFX.
 - [TestFX-dsl](https://github.com/aalmiray/testfx-dsl/) - Java friendly DSL for defining TestFX tests.
 - [TilesFX](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles for Dashboards.
-- [TiwulFX](https://bitbucket.org/panemu/tiwulfx) provides UI components: advanced TableView with various ready to use columns (TextColumn, NumberColumn, LookupColumn etc), DetachableTabPane that can be used as docking framework, MessageDialog, SideMenu etc. 
+- [TiwulFX](https://bitbucket.org/panemu/tiwulfx) provides UI components: advanced TableView with various ready to use columns (TextColumn, NumberColumn, LookupColumn etc), DetachableTabPane that can be used as docking framework, MessageDialog, SideMenu etc.
 - [TuioFX](http://tuiofx.org/) - Toolkit for developing multi-touch, multi-user interactive tabletops and surfaces.
 - [Toggle Switch](https://www.pixelduke.com/projects#toggle-switch) - Toggle Switch control for Java (JavaFX).
 - [Undecorator](https://github.com/in-sideFX/Undecorator) - Decorate undecorated JavaFX stages with custom skin. This helper brings a custom look to your JavaFX stages.
@@ -128,7 +129,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [DataFX](https://github.com/guigarage/DataFX) - DataFX is a JavaFX frameworks that provides additional features to create MVC based applications in JavaFX by providing routing and a context for CDI.
 - [Dolphin Platform](https://github.com/canoo/dolphin-platform) - Dolphin Platform is a client / server frameworks that provides a async communication between a server and a client based on the remote presentation model pattern.
 - [EasyBind](https://github.com/TomasMikula/EasyBind) - EasyBind leverages lambdas to reduce boilerplate when creating custom bindings.
-- [EasyFXML](https://github.com/Tristan971/EasyFXML) - EasyFXML is a fully-featured opinionated JavaFX framework based 
+- [EasyFXML](https://github.com/Tristan971/EasyFXML) - EasyFXML is a fully-featured opinionated JavaFX framework based
 on Vavr and Spring Boot which manages most of the annoying boilerplate that comes with JavaFX. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0).
 - [FXGL](http://almasb.github.io/FXGL/) - JavaFX Game Development Framework.
 - [Griffon](http://griffon-framework.org/) - Next generation desktop application development platform for the JVM. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0).
@@ -158,7 +159,7 @@ Start developing rich-client desktop applications using your Java skills. Learn 
 - [Mastering JavaFX 8 Controls](https://www.mhprofessional.com/details.php?isbn=0071833773) - By [Hendrik Ebbers](https://twitter.com/hendrikEbbers)<br/>
 Deliver state-of-the-art applications with visually stunning UIs. Mastering JavaFX 8 Controls provides clear instructions, detailed examples, and ready-to-use code samples. Find out how to work with the latest JavaFX APIs, configure UI components, automatically generate FXML, build cutting-edge controls, and effectively apply CSS styling. Troubleshooting, tuning, and deployment are also covered in this Oracle Press guide.
 - [Pro Java 9 Games Development Leveraging the JavaFX APIs](https://www.apress.com/gp/book/9781484209745) - By Wallace Jackson<br/>
-Use Java 9 and JavaFX 9 to write 3D games for the latest consumer electronics devices. 
+Use Java 9 and JavaFX 9 to write 3D games for the latest consumer electronics devices.
 - [Pro JavaFX 9 A Definitive Guide to Building Desktop, Mobile, and Embedded Java Clients](https://www.apress.com/gp/book/9781484230411) - By [Johan Vos](https://twitter.com/johanvos) , [Weiqi Gao](https://twitter.com/weiqigao) , [James Weaver](https://twitter.com/JavaFXpert) , [Stephen Chin](https://twitter.com/steveonjava) , [Dean Iverson](https://twitter.com/deanriverson)<br/>
 The expert authors cover the new more modular JavaFX 9 APIs, development tools, and best practices and provide code examples that explore the exciting new features provided with JavaFX 9, part of Oracle's new Java 9 release.
 
@@ -255,7 +256,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [Looking at Music, an experiment with Kotlin, JavaFX, MIDI, and Virtual Threads](https://www.youtube.com/watch?v=xbaLjoTU49I) - by Vik and Frank Delporte<br/> When a nerdy dad and music-playing son join forces and start experimenting with music and code, some nice things can happen. Did you ever present your music piece in a business dashboard with charts? Did you know that the FXGL game library can be used to generate a piano with fireworks? Let's look at music with the MelodyMatrix application and guide you through the process of how a small experiment turned into a full-blown project. Join the first Devoxx talk with a live piano performance by a 14-year-old musician-coder, and let's have a battle between human and machine! Who is the best piano player? The musician or a few thousand Virtual Threads? And how far can we push the app's performance to send ByteArrays to an LED strip to react to the music? Topics in this talk: Kotlin, Java, JavaFX, Gradle, FXGL, MIDI, Vaadin, GitHub Actions, JDeploy,...
 - [Test-Driven Development with JavaFX](https://www.youtube.com/watch?v=PaB0t8NP3Oc&t=1479s) - by [Hendrik Ebbers](https://twitter.com/hendrikEbbers) and [Sven Ruppert](https://twitter.com/SvenRuppert)<br/> This session presents existing testing tools and frameworks in their current stage of development. It compares the capabilities and the kinds of impacts of existing projects. The presentation pays particular attention to questions such as How can a cross-platform GUI test be created?’With many legacy (Java Swing–based) applications in need of migrating to the new JavaFX 8 platform, it is imperative for GUI code to be testable. The industry needs better strategies and tools for efficient migration from Swing to JavaFX 8.
 - [The JavaFX Community and Ecosystem](https://www.youtube.com/watch?v=MVIKZyqpnMY) - by [Hendrik Ebbers](https://twitter.com/hendrikEbbers) and Alexander Casall<br/> Do you want to start working with JavaFX but don’t know where you can find all the cool tutorials and open source APIs? This session is the perfect place to be! Leading up to the Java 8 release, a huge ecosystem with a lot of good tutorials and open source frameworks surrounds JavaFX. The community is getting bigger and bigger. The presentation introduces some of the most important parts of the JavaFX ecosystem such as third-party frameworks and popular knowledgebases and illustrates the functionality and synergy effects between the libraries with a live coding session. The session ends with real-world applications demonstrating the techniques and APIs discussed earlier.
-  
+
 ## Slides
 
 *Useful slides from Slideshare*
@@ -271,7 +272,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 
 - [Building a JavaFX Search Bar](https://vocabhunter.github.io/2017/01/15/Search-Bar.html) - How to add a search bar to your JavaFX user interface. The article is based on a real application and includes links to all of the source code.
 - [Dependency Injection in JavaFX](https://vocabhunter.github.io/2016/11/13/JavaFX-Dependency-Injection.html) - A guide to implementing Dependency Injection in a JavaFX application.
-- [How JavaFX was used to build a desktop application](https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc) - A look at some of the features of JavaFX and how they were used in building an application.  The article includes links to all of the source code on GitHub. 
+- [How JavaFX was used to build a desktop application](https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc) - A look at some of the features of JavaFX and how they were used in building an application.  The article includes links to all of the source code on GitHub.
 - [Installable Java Apps with jpackage](https://vocabhunter.github.io/2021/07/10/installable-java-apps-with-jpackage.html) - How to create installable bundles for your JavaFX application for Mac, Linux and Windows using jpackage.
 - [JavaFX 8 Refcard](https://dzone.com/refcardz/javafx-8-1) - Gives you what you need to start using the powerful JavaFX 8 UI and graphics tool with code snippets and visual examples of shapes and controls.
 - [JavaFX Refcard](https://dzone.com/refcardz/getting-started-javafx) - Gets you started with JavaFX, which makes it easier to build better RIAs with graphics, animation, and media.
@@ -298,7 +299,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [Modellus](https://www.pixelduke.com/projects#modellus) - Modellus is a freely available Swing and JavaFX app.  It was the first application to integrate both Swing and JavaFX together in a single app (back then using a custom made solution - JXScene - not available at the time).  It is used all over the world, specially in High School and Universities, and has appeared in several published scientific papers. Samples range from Physics to Mathematics, going through Mechanics, Chemistry, Statistics, Algebra, Geometry, among others.
 - [Musicott](http://octaviospain.github.io/Musicott/) - Musicott is an application that manages and plays music files. Coded in Java 8 with JavaFX.
 - [OwlPlug](https://owlplug.com) - A multi-platform audio plugin manager, developed using Spring Boot and JavaFx.
-- [PacManFX](https://github.com/armin-reichert/pacman-javafx) - A JavaFX UI (2D + 3D) for Pac-Man and Ms. Pac-Man. 
+- [PacManFX](https://github.com/armin-reichert/pacman-javafx) - A JavaFX UI (2D + 3D) for Pac-Man and Ms. Pac-Man.
 - [PDFsam Basic](https://pdfsam.org/) - PDFsam Basic is an opensource JavaFX application to merge, split, extract pages, rotate and mix PDF files.
 - [PrettyZoo](https://github.com/vran-dev/PrettyZoo) - Pretty nice Zookeeper GUI created by JavaFX & Apache Curator
 - [Recaf](https://github.com/Col-E/Recaf) - An easy to use modern Java bytecode editor.
