@@ -102,6 +102,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [RedisDesktopManagerFX](https://github.com/tanhuang2016/RedisDesktopManagerFX) - RedisDesktopManagerFX is a simple Redis GUI created by JavaFX.
 - [Scenic View](http://fxexperience.com/scenic-view/) - Scenic View is a JavaFX application designed to make it simple to understand the current state of your application scenegraph, and to also easily manipulate properties of the scenegraph without having to keep editing your code. This lets you find bugs, and get things pixel perfect without having to do the compile-check-compile dance.
 - [SmartCSVFX](https://github.com/frosch95/SmartCSV.fx) - A simple JavaFX application to load, save and edit a CSV file and provide a JSON configuration for columns to check the values in the columns.
+- [StagePro](https://github.com/techsenger/stagepro) - A library for creating custom JavaFX stages with fine-grained control over appearance and layout.
 - [Stream-Pi](https://github.com/stream-pi) - A modular, free, Open Source, Cross-platform macro pad software.
 - [SynchronizeFX](https://github.com/lestard/SynchronizeFX) - Remote Data-Binding between different JVMs, both on a local machine and over the network.
 - [SyntheticaFX](http://www.jyloo.com/syntheticafx/) - SyntheticaFX provides themes and components mainly made for professional business applications on the desktop. The library is growing, new controls are under construction and will be added in future releases. The target platform of the final release is Java 9 or above.
