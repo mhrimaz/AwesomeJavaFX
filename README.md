@@ -80,6 +80,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [JSilhouette](https://github.com/aalmiray/jsilhouette) - JSilhouette provides additional shapes for Java applications.
 - [Kubed](https://github.com/hudsonb/kubed) - A port of the popular Javascript library D3.js to Kotlin/JavaFX.
 - [Lib-Tile](https://github.com/Naoghuman/lib-tile) - Lib-Tile is a multi Maven project written in JavaFX and NetBeans IDE 8.0.2 and provides the functionalities to use and handle easily Tiles in your JavaFX application.
+- [Language Manager](https://github.com/snoopy137/language-manager) - JavaFX library for dynamic runtime language switching using .properties files with automatic and programmatic bindings.
 - [LiveDirsFX](https://github.com/TomasMikula/LiveDirsFX) - Directory tree model for JavaFX that watches the filesystem for changes.
 - [MaterialFX](https://github.com/palexdev/MaterialFX) - A new well documented and actively developed library which brings material design components to JavaFX and much more.
 - [Maven jpackage Template](https://github.com/wiverson/maven-jpackage-template) - GitHub template. Use Maven, jlink and jpackage to produce JavaFX macOS, Windows and Linux installers via GitHub Actions.
