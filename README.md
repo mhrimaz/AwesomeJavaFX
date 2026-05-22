@@ -248,7 +248,7 @@ The expert authors cover the new more modular JavaFX 9 APIs, development tools, 
 - [Lynda JavaFX GUI Development](https://www.lynda.com/Java-tutorials/JavaFX-GUI-Development/466182-2.html) - Learn how to develop graphical user interfaces (GUIs) for enterprise apps with JavaFX.
 - [TeamTreeHouse Build a JavaFX Application](https://teamtreehouse.com/library/build-a-javafx-application) - Learn JavaFX fundamentals, Event driven application development and Client based application layout.
 - [TheNewBoston JavaFX](https://www.youtube.com/watch?v=FLkOX4Eez6o&list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG) - Youtube JavaFX Video Tutorial. It's Simple and it's good place to start JavaFX.
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/?q=awesomejavafx) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Udemy Build Outstanding JavaFX](https://www.udemy.com/javafx-gui-programming/) - Udemy Video Tutorial for JavaFX. Build Outstanding Java Apps with JavaFX much faster. Launch a beautiful Java app by the end of the week. Learn smarter Programming with the JavaFX GUI Framework.
 
 ## Talks
