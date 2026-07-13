@@ -30,6 +30,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [assertj-javafx](https://github.com/lestard/assertj-javafx) - AssertJ assertions for JavaFX Properties and Bindings.
 - [BootstrapFX](https://github.com/aalmiray/bootstrapfx/) - BootstrapFX is a partial port of Twitter Bootstrap for JavaFX.
 - [CalendarFX](https://github.com/dlemmermann/CalendarFX) - CalendarFX is a calendar framework for JavaFX 8. It contains a set of professional custom controls, which can be used to implement a calendar UI for any kind of application.
+- [CEFFX](https://github.com/techsenger/ceffx) - A library providing a modern Chromium-based web browser component for JavaFX using the Chromium Embedded Framework (CEF). It can be used to build web browsers, display web content, embed web-based user interfaces, and more.
 - [ChartFx](https://github.com/GSI-CS-CO/chart-fx) - ChartFx is a scientific charting library developed at [GSI](https://www.gsi.de/en) for [FAIR] (https://www.gsi.de/en/researchaccelerators/fair.htm) with focus on performance optimised real-time data visualisation for data sets with up to millions of data point.
 - [CssFX](https://github.com/McFoggy/cssfx) - Enhances developer productivity by providing JavaFX CSS reloading functionnality in a running application. Usable as standalone library or integrated in [Scenic View](#ScenicView).
 - [Component-Inspector](https://github.com/TangoraBox/ComponentInspector) - A tool to help you inspect the location and properties of certain components in a window hierarchy.
